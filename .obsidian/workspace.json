@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "content/Order of Quantifiers.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "content/Order of Quantifiers.md"
               }
             }
           }
@@ -127,16 +127,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "ae3649d8440a6d55",
+  "active": "45b97c3ddce777d3",
   "lastOpenFiles": [
-    "content/Order of Quantifiers.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md",
+    "content/index.md",
     "content/templates/Theorem Math Template.md",
     "content/templates/Proposition Math Template.md",
     "content/templates/Example Math Template.md",
     "content/templates/Definition Math Template.md",
-    "content/index.md",
+    "content/Order of Quantifiers.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
     "Eigenvalue.md"
   ]
 }

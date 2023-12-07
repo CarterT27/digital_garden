@@ -137,14 +137,6 @@
       "key": "R"
     }
   ],
-  "workspaces:open-modal": [
-    {
-      "modifiers": [
-        "Meta"
-      ],
-      "key": "T"
-    }
-  ],
   "obsidian-mathlinks:update_all_mathlinks": [
     {
       "modifiers": [
@@ -341,6 +333,14 @@
         "Shift"
       ],
       "key": "Enter"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }
