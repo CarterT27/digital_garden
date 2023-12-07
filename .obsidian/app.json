@@ -1,0 +1,34 @@
+{
+  "userIgnoreFilters": [
+    "Images/",
+    "README.md",
+    "node_modules/",
+    "public/",
+    "quartz/"
+  ],
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "vimMode": true,
+  "showLineNumber": true,
+  "trashOption": "none",
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 65
+  },
+  "showIndentGuide": false,
+  "showFrontmatter": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "foldIndent": true,
+  "spellcheck": false,
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": false,
+  "rightToLeft": false
+}
