@@ -3,6 +3,7 @@ mathLink: auto
 tags:
 - "#Type/Theorem"
 - "#Topic/Linear_Algebra"
+- "#Class/MATH_31AH"
 ---
 Proved by: <i>Not Applicable</i>  
 References: [[Set Theory Vocabulary]]  

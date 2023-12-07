@@ -3,6 +3,7 @@ mathLink: auto
 tags:
 - "#Type/Definition"
 - "#Topic/TOPIC"
+- "#Class/CLASS"
 ---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  

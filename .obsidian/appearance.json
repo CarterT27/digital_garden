@@ -10,7 +10,8 @@
     "admonition",
     "margins",
     "flash",
-    "fonts"
+    "fonts",
+    "callouts"
   ],
   "theme": "obsidian",
   "baseFontSizeAction": false,
