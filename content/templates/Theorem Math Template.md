@@ -12,8 +12,5 @@ Justifications: <i>Not Applicable</i>
 Specializations: <i>Not Applicable</i>  
 Generalizations: <i>Not Applicable</i>  
 
-``` ad-Theorem
-title: {{title}}
-
-
-```
+> [!theorem] {{title}}
+> 

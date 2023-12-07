@@ -15,8 +15,5 @@ Sufficiencies: <i>Not Applicable</i>
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  
 
-``` ad-Definition
-title: {{title}}
-
-
-```
+> [!definition] {{title}}
+> 

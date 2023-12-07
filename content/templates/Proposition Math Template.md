@@ -12,8 +12,5 @@ Justifications: <i>Not Applicable</i>
 Specializations: <i>Not Applicable</i>  
 Generalizations: <i>Not Applicable</i>  
 
-``` ad-Proposition
-title: {{title}}
-
-
-```
+> [!proposition] {{title}}
+> 

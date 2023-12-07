@@ -15,12 +15,8 @@ Sufficiencies: <i>Not Applicable</i>
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  
 
-``` ad-Definition
-title: Function as Rule
-
-A _function_ consists of three things: two sets, called the _domain_ and the _codomain_, and a rule that associates to any element in the domain exactly one element in the codomain.
-
-```
+> [!definition] Function as Rule
+> A _function_ consists of three things: two sets, called the _domain_ and the _codomain_, and a rule that associates to any element in the domain exactly one element in the codomain.
 
 **Remark.** Typically, we say "let $f:X\to Y$ be a function" to indicate that the domain is $X$, the codomain is $Y$, and the rule is $f$.
 
