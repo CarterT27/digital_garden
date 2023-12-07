@@ -1,8 +1,8 @@
 ---
 mathLink: auto
-title: Negation
-created_on: 2023-12-06
-tags: #Type/Theorem #Topic/Quantifiers
+tags:
+- "#Type/Theorem"
+- "#Topic/Linear_Algebra"
 ---
 Proved by: <i>Not Applicable</i>  
 References: [[Set Theory Vocabulary]]  

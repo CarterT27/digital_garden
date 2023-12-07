@@ -1,8 +1,8 @@
 ---
 mathLink: auto
-title: Natural Domain
-created_on: 2023-12-06
-tags: #Tags/Definition #Topics/Functions
+tags:
+- "#Type/Definition"
+- "#Topic/Linear_Algebra"
 ---
 Types: [[Domain]]  
 Examples: <i>Not Applicable</i>  

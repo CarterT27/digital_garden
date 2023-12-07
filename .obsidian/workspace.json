@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f51f625805dac871",
+        "id": "44cca5aed7bea1dd",
         "type": "tabs",
         "children": [
           {
-            "id": "76043cbfbea21234",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3b84975ca83accd8",
+            "id": "bc1626442fb5b4c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Onto.md",
+                "file": "content/Function as Rule.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,33 +108,34 @@
       "templates:Insert template": false
     }
   },
-  "active": "3b84975ca83accd8",
+  "active": "bc1626442fb5b4c3",
   "lastOpenFiles": [
-    "public/Onto.html",
-    "public/Untitled.html",
-    "content/Onto.md",
-    "content/Function as Rule.md",
-    "content/Natural Domain.md",
-    "public/Natural-Domain.html",
-    "content/Negation.md",
-    "content/index.md",
-    "content/Order of Quantifiers.md",
-    "content/Image.md",
-    "content/Set Theory Vocabulary.md",
-    "private/Symbols.md",
-    "public/Image.html",
-    "public/Function-as-Rule.html",
-    "private",
-    "public/Symbols.html",
-    "public/Set-Theory-Vocabulary.html",
-    "public/Negation.html",
     "content/templates/Definition Math Template.md",
-    "content/templates/Example Math Template.md",
-    "content/templates/Proposition Math Template.md",
     "content/templates/Theorem Math Template.md",
-    "README.md",
+    "content/templates/Proposition Math Template.md",
+    "content/templates/Example Math Template.md",
+    "content/Function as Rule.md",
+    "content/Image.md",
+    "public/tags/topic/topic.html",
+    "public/templates/index.html",
     "public/templates/Definition-Math-Template.html",
-    "public/templates/Example-Math-Template.html",
+    "public/templates",
+    "content/index.md",
+    "content/Set Theory Vocabulary.md",
+    "public/404.html",
+    "public/static/icon.png",
+    "public/tags/topic/linear_.html",
+    "content/Order of Quantifiers.md",
+    "public/tags/topic/linear_alge.html",
+    "content/Onto.md",
+    "public/tags/topic/linear_ale.html",
+    "content/Negation.md",
+    "public/tags/topic/linear_alg.html",
+    "content/Natural Domain.md",
+    "public/tags/topic/linear_a.html",
+    "public/static/og-image.png",
+    "private/Symbols.md",
+    "README.md",
     "CODE_OF_CONDUCT.md",
     "Eigenvalue.md"
   ]

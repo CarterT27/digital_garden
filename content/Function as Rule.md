@@ -1,8 +1,8 @@
 ---
 mathLink: auto
-title: Function as Rule
-created_on: 2023-12-06
-tags: #Tags/Definition #Topic/Functions
+tags:
+- "#Type/Definition"
+- "#Topic/Linear_Algebra"
 ---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  

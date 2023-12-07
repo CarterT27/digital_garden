@@ -1,8 +1,8 @@
 ---
 mathLink: auto
-title: {{title}}
-created_on: {{date}}
-tags: #Type/Example #Topic/TOPIC
+tags:
+- "#Type/Example"
+- "#Topic/TOPIC"
 ---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  

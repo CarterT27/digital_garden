@@ -1,8 +1,8 @@
 ---
 mathLink: auto
-title: Order of Quantifiers
-created_on: 2023-12-06
-tags: #Type/Example #Topic/Quantifiers
+tags:
+- "#Type/Example"
+- "#Topic/Linear_Algebra"
 ---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  
