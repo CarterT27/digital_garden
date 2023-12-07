@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "1a84fbfbe3fefc03",
+    "id": "dc3a3f7c3ed0b91c",
     "type": "split",
     "children": [
       {
-        "id": "d5c926af8a24df69",
+        "id": "46263e435d7b5d6f",
         "type": "tabs",
         "children": [
           {
-            "id": "45b97c3ddce777d3",
+            "id": "06b422fd5d41a7a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "content/templates/Theorem Math Template.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "41b2e5f39fd375c1",
+    "id": "2ecca6a1a4e702e6",
     "type": "split",
     "children": [
       {
-        "id": "fcffde0c88e4fdab",
+        "id": "b59877d4146fd76b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3649d8440a6d55",
+            "id": "f41225efeef73ffd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "8fbc6e65bdb5d4ad",
+            "id": "4bbfc93d24aafe87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "0847eb4d1dee9faf",
+            "id": "fcdc50af63cb935d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,15 +73,44 @@
     "width": 300
   },
   "right": {
-    "id": "5722b8d4050374de",
+    "id": "c78569544726fe50",
     "type": "split",
     "children": [
       {
-        "id": "c88dbc2a22c6ab6f",
+        "id": "165e738a53e15123",
         "type": "tabs",
         "children": [
           {
-            "id": "ee000431ae3b2795",
+            "id": "4179ec00589ae181",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/templates/Theorem Math Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52f6162490a87812",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/templates/Definition Math Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "083828ca609edc1a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -92,7 +121,17 @@
             }
           },
           {
-            "id": "ed0ecae61eb975a9",
+            "id": "dd0fdd399b1d1689",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/templates/Definition Math Template.md"
+              }
+            }
+          },
+          {
+            "id": "7cd7dd568c16a6e9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -100,22 +139,13 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "6d91e8042b46e299",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "README.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,19 +153,18 @@
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "45b97c3ddce777d3",
+  "active": "f41225efeef73ffd",
   "lastOpenFiles": [
-    "CODE_OF_CONDUCT.md",
-    "README.md",
+    "content/Untitled.md",
     "content/templates/Theorem Math Template.md",
     "content/templates/Proposition Math Template.md",
     "content/templates/Example Math Template.md",
     "content/templates/Definition Math Template.md",
     "content/index.md",
-    "Eigenvalue.md"
+    "content/templates"
   ]
 }
