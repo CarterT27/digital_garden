@@ -17,7 +17,7 @@ Justifications: <i>Not Applicable</i>
 ``` ad-Example
 title: Order of Quantifiers
 
-_The statement_
+The statement
 $(\forall n\text{ integer },n\ge2)(\exists p\text{ prime })\text{ }n/p\text{ is an integer}$ is true,
 $(\exists p\text{ prime})(\forall n\text{ integer},n\geq 2)\text{ }n/p\text{ is an integer}$ is false.
 

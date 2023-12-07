@@ -27,4 +27,4 @@ $\times$ "cross": $A \times B$ is the set of ordered pairs $(a,b)$ with $a\in A$
 
 ```
 
-**Remark.** Every set is a subset of itself. $A\subset A$, and the empty set $\emptyset$ is a subset of every set. <span style="float:right;">$\blacklozenge$</span>
+**Remark.** Every set is a subset of itself. $A\subset A$, and the empty set $\emptyset$ is a subset of every set. 

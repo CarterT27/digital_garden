@@ -32,7 +32,7 @@ Symbolically the same sentence is written
 
 ```
 **Remark.** A mathematical statement is true if and only if its opposite is true. 
-Another way to say this is that the opposite of a statement being true implies the statement to be true.<span style="float:right;">$\blacklozenge$</span>
+Another way to say this is that the opposite of a statement being true implies the statement to be true.
 ---
 *Example:* The statement "All eleven-legged alligators are orange with blue spots" is true, since if it were false, then there would exist an eleven-legged alligator that is not orange with blue spots.
 The statement "All eleven-legged alligators are black with white stripes" is equally true.
