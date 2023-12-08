@@ -9,7 +9,7 @@ tags:
 > Any value can be converted to a string using `str`.  
 > Some strings can be converted to `int` and `float`.
 
-```Python
+```python
 str(3) # '3'
 float('3') # 3.0
 int('4') # 4

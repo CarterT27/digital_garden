@@ -8,7 +8,7 @@ tags:
 > [!definition] Concatenation
 > **Concatenation** is the addition of two [[String Data Type|strings]].
 
-```Python
+```python
 s1 = 'baby'
 s2 = '🐼'
 s1 + s2 # 'baby🐼'

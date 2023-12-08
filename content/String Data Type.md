@@ -8,7 +8,7 @@ tags:
 > [!definition] String Data Type
 > A **string** is a snippet of text of any length.
 
-```Python
+```python
 type('woof') # str
 'woof'
 "woof"

@@ -9,7 +9,7 @@ tags:
 > Operations that are computed**element-wise** mean that the arithmetic operation is applied to one pair of elements from each [[Array|array]] at a time.  
 > Both arrays must have the same length.
 
-```Python
+```python
 a = np.array([4, 5, -1])
 b = np.array([2, 3, 2])
 

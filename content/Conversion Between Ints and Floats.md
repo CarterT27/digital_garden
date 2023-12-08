@@ -11,7 +11,7 @@ tags:
 > A value can be explicity **coerced** (i.e. converted) using the `int` and `float` functions.
 > Calling the `int` function on a float truncates everything after the decimal point.
 
-```Python
+```python
 2.0 + 3 # 5.0
 12 / 2 # 6.0
 int(12 / 2) # 6

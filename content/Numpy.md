@@ -10,6 +10,6 @@ tags:
 
 To use `numpy`, we need to import it. It's usually imported as `np` (but doesn't have to be!)
 
-```Python
+```python
 import numpy as np
 ```

@@ -10,7 +10,7 @@ tags:
 
 Floats may be printed using scientific notation.
 
-```Python
+```python
 type(23.0) # float
 type(3.2 + 2.5) # float
 2.0 ** 300 # 2.037035976334486e+90
@@ -23,6 +23,6 @@ Floats have limited precision. The final few decimal places after arithmetic can
 > https://stackoverflow.com/questions/21895756/why-are-floating-point-numbers-inaccurate
 
 Floats have limited size. 
-```Python
+```python
 2.0 ** 3000 # OverflowError: (1, 'Numerical result out of range')
 ```

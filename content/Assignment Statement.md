@@ -8,7 +8,7 @@ tags:
 > [!definition] Assignment Statement
 > Assignment statements define variables by evaluating the expression on the right side and assigning the value to whatever is on the left side.
 
-```Python
+```python
 zebra = 23 - 14
 zebra # 9
 ```
@@ -19,7 +19,7 @@ When run, the interpreter first evaluates the expression $23-14$, $9$, and assig
 
 Using variables in an expression without using an assignment statement will not change the value of the variable.
 
-```Python
+```python
 zebra * 3 # 27
 zebra # 9
 

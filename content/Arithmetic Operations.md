@@ -18,7 +18,7 @@ tags:
 
 Python uses the order of operations - **PEMDAS**
 
-```Python
+```py
 5 * 2 ** 3 # 40
 (5 * 2) ** 3 # 1000
 ```

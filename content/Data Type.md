@@ -9,7 +9,7 @@ tags:
 > **Data types** are the different **types** of [[Variable|variables]] in Python.
 
 You can determine the data type of a value by using `type()`
-```Python
+```python
 type(23.0) # float
 ```
 

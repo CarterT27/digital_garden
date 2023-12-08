@@ -26,9 +26,9 @@
   "markdown:toggle-preview": [
     {
       "modifiers": [
-        "Meta"
+        "Mod"
       ],
-      "key": " "
+      "key": "/"
     }
   ],
   "workspace:close": [

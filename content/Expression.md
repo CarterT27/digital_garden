@@ -8,25 +8,25 @@ tags:
 > [!definition] Expression
 > An **expression** is a combination of values, operators, and functions that **evaluates** to some **value**.
 
-```Python
+```python
 23 # Prints 23 when run as a cell in a Jupyter notebook
 ```
 
 ---
 
-```Python
+```python
 -15 + 2.718 # Evaluates to -12.282
 ```
 
 ---
 
-```Python
+```python
 4 ** 3 # 64
 ```
 
 ---
 
-```Python
+```python
 # Only one value is displayed. Why?
 9 + 10
 13 / 4

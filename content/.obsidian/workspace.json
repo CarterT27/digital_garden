@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "77251b14d7b0d8c5",
+        "id": "79352defa76cdd48",
         "type": "tabs",
         "children": [
           {
-            "id": "8aaa04abe3573f8c",
+            "id": "c8630c5169b4fe9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Empirical Distribution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sample size",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,12 +117,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "b2d26b1892d45013",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 372.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -130,34 +144,37 @@
       "templates:Insert template": false
     }
   },
-  "active": "8aaa04abe3573f8c",
+  "active": "b2d26b1892d45013",
   "lastOpenFiles": [
-    "Addition Rule.md",
-    "private/Differentiation Between Math Notes.md",
-    "private/Symbols.md",
-    "Mutually Exclusive.md",
-    "Probability of Either of Two Events Happening.md",
-    "Probability That An Event Doesn't Happen.md",
-    "Independent Events.md",
-    "Multiplication Rule.md",
-    "Probability That Two Events Both Happen.md",
-    "Conditional Probabilities.md",
-    "Equally-Likely Outcomes.md",
-    "Outcome.md",
-    "index.md",
+    "Array.md",
+    "Empirical Distribution.md",
+    "Probability Distribution.md",
+    "Probability.md",
+    "Statistic.md",
+    "Sample Distribution.md",
+    "Simple Random Sample.md",
+    "Mean.md",
+    "templates/Definition Template.md",
+    "Parameter.md",
+    "Statistical Inference.md",
+    "Numpy.md",
+    "images/ProbabilityDistDieRoll.jpg",
+    "Simulation.md",
+    "String Data Type.md",
+    "String Methods.md",
+    "Variable.md",
+    "List.md",
+    "Int Data Type.md",
+    "Import Statement.md",
+    "Function.md",
+    "Float Data Type.md",
     "Expression.md",
-    "Experiment.md",
-    "Arithmetic Operations.md",
-    "content/Outcome.md",
-    "content/Experiment.md",
-    "content/Equally-Likely Outcomes.md",
-    "content/Event.md",
-    "content/Probability.md",
-    "content/Tools and Websites.md",
-    "content/Element-Wise Arithmetic.md",
-    "content/Array.md",
-    "content/Broadcasting.md",
-    "content/Numpy.md",
+    "Element-Wise Arithmetic.md",
+    "Data Type.md",
+    "Conversion To and From Strings.md",
+    "Conversion Between Ints and Floats.md",
+    "images/EmpiricalDistDieRoll.jpg",
+    "images",
     "public/tags/class/class.html",
     "public/tags/topic/topic.html",
     "public/Data-Type.html",
@@ -167,7 +184,6 @@
     "public/sitemap.xml",
     "public/Import-Statement.html",
     "public/Function.html",
-    "public/Assignment-Statement.html",
     "public/static/og-image.png",
     "public/static/icon.png"
   ]

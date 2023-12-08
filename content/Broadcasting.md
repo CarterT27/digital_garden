@@ -9,7 +9,7 @@ tags:
 > https://numpy.org/doc/stable/user/basics.broadcasting.html
 > **Broadcasting** is the process in [[Numpy]] that makes it easy to perform the same operation to every element in an [[Array|array]]. 
 
-```Python
+```python
 temperature_array # array([68, 73, 70, 74, 76, 72, 74])
 
 # Increase all temperatures by 3 degrees.

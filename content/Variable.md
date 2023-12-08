@@ -10,7 +10,7 @@ tags:
 
 Variables are defined using an [[Assignment Statement|assignment statement]].
 
-```Python
+```python
 my_number = 27
 my_number # 27
 ```
@@ -19,7 +19,7 @@ my_number # 27
 
 Before a variable is defined, it has no meaning (evaluates to None).
 
-```Python
+```python
 undefined_variable # Prints nothing, the value is None
 ```
 
@@ -27,14 +27,14 @@ undefined_variable # Prints nothing, the value is None
 
 Variables should have helpful, descriptive names so you know what they refer to.  
 > [!warning] Unhelpful variable names
-> ```Python
+> ```python
 > six = 15
 > i_45love_chocolate_9999 = 60 * 60 * 24 * 365
 > ```
 
 Variable names can contain uppercase and lowercase characters, the digits 0-9, and underscores.  
 > [!success] Helpful variable names
-> ```Python
+> ```python
 > seconds_per_hour = 60 * 60
 > hours_per_year = 24 * 365
 > seconds_per_year = seconds_per_hour * hours_per_year
@@ -43,7 +43,7 @@ Variable names can contain uppercase and lowercase characters, the digits 0-9, a
 They cannot start with a number.  
 They are case sensitive!  
 > [!error] Invalid variable names
-> ```
+> ```python
 > 7_days = 24 * 7
 > 3 = 2 + 1
 > ```

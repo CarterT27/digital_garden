@@ -10,7 +10,7 @@ tags:
 
 Common string methods include `str.upper`, `str.title`, and `str.replace`
 
-```Python
+```python
 my_cool_string = 'data science is super cool!'
 my_cool_string.title() # 'Data Science Is Super Cool!'
 my_cool_string.upper() # 'DATA SCIENCE IS SUPER COOL!'
