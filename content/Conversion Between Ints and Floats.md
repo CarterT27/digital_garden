@@ -5,7 +5,7 @@ tags:
   - "#Class/DSC_10"
 ---
 
-> [!example] Converting Between Ints and Floats
+> [!example] Conversion Between Ints and Floats
 > If you mix [[Int Data Type|ints]] and [[Float Data Type|floats]] in an expression, the result will always be a `float`.
 > Note that when you divide two `int`s, you get a `float` back.
 > A value can be explicity **coerced** (i.e. converted) using the `int` and `float` functions.

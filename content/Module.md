@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!definition] Module
-> **Modules** are collections of Python functions and values.
+> **Modules** are collections of Python [[Function|functions]] and values.
 
 Modules are imported through [[Import Statement|import statements]].
 

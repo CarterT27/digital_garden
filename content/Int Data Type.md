@@ -12,3 +12,5 @@ tags:
 type(203203423040) # int
 type(7 - 14) # int
 ```
+
+Ints have arbirtrary precision in Python, meaning that calculations with them will be precise.
