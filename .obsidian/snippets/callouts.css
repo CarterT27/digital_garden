@@ -1,4 +1,19 @@
 .callout[data-callout="definition"] {
     --callout-color: 0, 0, 0;
-    --callout-icon: lucide-book;
+    --callout-icon: lucide-pencil;
+}
+
+/* .callout[data-callout="example"] { */
+/*     --callout-color: 0, 0, 0; */
+/*     --callout-icon: lucide-; */
+/* } */
+
+.callout[data-callout="theorem"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-info;
+}
+
+.callout[data-callout="proposition"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-flame;
 }
