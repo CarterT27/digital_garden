@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0c7eaf152dc0f40a",
+        "id": "0144ab33eaf646f2",
         "type": "tabs",
         "children": [
           {
-            "id": "b410674337b50515",
+            "id": "1b074e069a0729ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arithmetic Operations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arithmetic Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +135,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "b410674337b50515",
+  "active": "1b074e069a0729ae",
   "lastOpenFiles": [
+    "content/Outcome.md",
+    "content/Experiment.md",
+    "content/Equally-Likely Outcomes.md",
+    "content/Event.md",
+    "content/Probability.md",
     "content/Tools and Websites.md",
     "content/Element-Wise Arithmetic.md",
     "content/Array.md",
@@ -149,14 +160,9 @@
     "content/String Methods.md",
     "content/String Data Type.md",
     "content/Concatenation.md",
-    "private/Symbols.md",
+    "content/private/Symbols.md",
     "content/Function.md",
     "content/Data Type.md",
-    "content/Int Data Type.md",
-    "content/Assignment Statement.md",
-    "content/Arithmetic Operations.md",
-    "content/templates/Definition Math Template.md",
-    "content/index.md",
     "public/tags/class/class.html",
     "public/tags/topic/topic.html",
     "public/Data-Type.html",
