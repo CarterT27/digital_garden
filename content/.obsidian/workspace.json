@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0144ab33eaf646f2",
+        "id": "77251b14d7b0d8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "1b074e069a0729ae",
+            "id": "8aaa04abe3573f8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arithmetic Operations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "example",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5722b8d4050374de",
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arithmetic Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +130,24 @@
       "templates:Insert template": false
     }
   },
-  "active": "1b074e069a0729ae",
+  "active": "8aaa04abe3573f8c",
   "lastOpenFiles": [
+    "Addition Rule.md",
+    "private/Differentiation Between Math Notes.md",
+    "private/Symbols.md",
+    "Mutually Exclusive.md",
+    "Probability of Either of Two Events Happening.md",
+    "Probability That An Event Doesn't Happen.md",
+    "Independent Events.md",
+    "Multiplication Rule.md",
+    "Probability That Two Events Both Happen.md",
+    "Conditional Probabilities.md",
+    "Equally-Likely Outcomes.md",
+    "Outcome.md",
+    "index.md",
+    "Expression.md",
+    "Experiment.md",
+    "Arithmetic Operations.md",
     "content/Outcome.md",
     "content/Experiment.md",
     "content/Equally-Likely Outcomes.md",
@@ -147,22 +158,6 @@
     "content/Array.md",
     "content/Broadcasting.md",
     "content/Numpy.md",
-    "content/Module.md",
-    "node_modules/mime-types/HISTORY.md",
-    "content/Data Science.md",
-    "content/List.md",
-    "content/Central Tendency.md",
-    "content/Median.md",
-    "content/Mean.md",
-    "content/Sequence.md",
-    "content/Conversion To and From Strings.md",
-    "content/Conversion Between Ints and Floats.md",
-    "content/String Methods.md",
-    "content/String Data Type.md",
-    "content/Concatenation.md",
-    "content/private/Symbols.md",
-    "content/Function.md",
-    "content/Data Type.md",
     "public/tags/class/class.html",
     "public/tags/topic/topic.html",
     "public/Data-Type.html",
