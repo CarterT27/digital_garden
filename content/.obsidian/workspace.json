@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "79352defa76cdd48",
+        "id": "96e7b04d937fa65d",
         "type": "tabs",
         "children": [
           {
-            "id": "c8630c5169b4fe9d",
+            "id": "a476bd9cde5b9feb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empirical Distribution.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sample size",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5722b8d4050374de",
@@ -144,10 +138,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "b2d26b1892d45013",
+  "active": "a476bd9cde5b9feb",
   "lastOpenFiles": [
-    "Array.md",
+    "TODO.md",
+    "index.md",
+    "Untitled.md",
+    "Central Tendency.md",
+    "Outcome.md",
+    "Conditional Probabilities.md",
+    "Equally-Likely Outcomes.md",
     "Empirical Distribution.md",
+    "Array.md",
     "Probability Distribution.md",
     "Probability.md",
     "Statistic.md",
@@ -166,13 +167,6 @@
     "List.md",
     "Int Data Type.md",
     "Import Statement.md",
-    "Function.md",
-    "Float Data Type.md",
-    "Expression.md",
-    "Element-Wise Arithmetic.md",
-    "Data Type.md",
-    "Conversion To and From Strings.md",
-    "Conversion Between Ints and Floats.md",
     "images/EmpiricalDistDieRoll.jpg",
     "images",
     "public/tags/class/class.html",
