@@ -11,11 +11,43 @@
             "id": "a476bd9cde5b9feb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "23e6cbc854b0b8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Differentiation Between Math Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "15ada82f78e4a154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inverse Image of Intersection.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5722b8d4050374de",
@@ -92,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inverse Image of Intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,35 +172,35 @@
       "templates:Insert template": false
     }
   },
-  "active": "a476bd9cde5b9feb",
+  "active": "15ada82f78e4a154",
   "lastOpenFiles": [
     "TODO.md",
+    "Inverse Image of Intersection.md",
+    "Function as Rule.md",
+    "Function.md",
+    "Inverse Image.md",
+    "private/Differentiation Between Math Notes.md",
+    "Invertible.md",
+    "One-To-One.md",
+    "Image.md",
+    "Onto.md",
+    "Codomain.md",
+    "Domain.md",
+    "Natural Domain.md",
+    "Equally-Likely Outcomes.md",
+    "Conversion To and From Strings.md",
+    "Conversion Between Ints and Floats.md",
+    "Convenience Sample.md",
+    "Central Tendency.md",
+    "String Methods.md",
+    "Simulation.md",
+    "Event.md",
+    "Data Type.md",
+    "domain.md",
+    "test.md",
     "index.md",
     "Untitled.md",
-    "Central Tendency.md",
-    "Outcome.md",
-    "Conditional Probabilities.md",
-    "Equally-Likely Outcomes.md",
-    "Empirical Distribution.md",
-    "Array.md",
-    "Probability Distribution.md",
-    "Probability.md",
-    "Statistic.md",
-    "Sample Distribution.md",
-    "Simple Random Sample.md",
-    "Mean.md",
-    "templates/Definition Template.md",
-    "Parameter.md",
-    "Statistical Inference.md",
-    "Numpy.md",
     "images/ProbabilityDistDieRoll.jpg",
-    "Simulation.md",
-    "String Data Type.md",
-    "String Methods.md",
-    "Variable.md",
-    "List.md",
-    "Int Data Type.md",
-    "Import Statement.md",
     "images/EmpiricalDistDieRoll.jpg",
     "images",
     "public/tags/class/class.html",
