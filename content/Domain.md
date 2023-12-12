@@ -2,8 +2,8 @@
 mathLink: auto
 tags:
   - "#Type/Definition"
-  - "#Topic/TOPIC"
-  - "#Class/CLASS"
+  - "#Topic/Linear_Algebra"
+  - "#Class/MATH_31AH"
 ---
 Types: [[Natural Domain]]  
 Examples: <i>Not Applicable</i>  

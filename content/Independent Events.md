@@ -1,8 +1,8 @@
 ---
 tags:
   - "#Type/Definition"
-  - "#Topic/TOPIC"
-  - "#Class/CLASS"
+  - "#Topic/Data_Science"
+  - "#Class/DSC_10"
 ---
 
 > [!definition] Independent Events

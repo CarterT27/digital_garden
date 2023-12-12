@@ -1,10 +1,9 @@
 My TODO List for this digital garden:
 - Finish #Class/MATH_31AH Notes
+- [DSA Course Frontend Masters](https://frontendmasters.com/courses/algorithms/arrays-data-structure/)
 - Finish #Class/DSC_10 Notes
 - Start #Class/CAT_1 Notes
 
-Week 1: Sec. 0.2, and more about reading and writing proofs  
-Week 2: More about proofs, and Secs. 0.3 and 0.4  
 Week 3: Secs. 1.1, 1.2 (Proposition 1.2.23)  
 Week 4: Secs. 1.3, 1.4 (Theorems 1.3.4, 1.4.5). Midterm 1.  
 Week 5: Secs. 2.1, 2.2 (Theorems 2.1.7, 2.2.1)  

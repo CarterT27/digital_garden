@@ -34,20 +34,19 @@
             }
           },
           {
-            "id": "15ada82f78e4a154",
+            "id": "4f3b4409ef60d371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverse Image of Intersection.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5722b8d4050374de",
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inverse Image of Intersection.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,34 +170,34 @@
       "templates:Insert template": false
     }
   },
-  "active": "15ada82f78e4a154",
+  "active": "a476bd9cde5b9feb",
   "lastOpenFiles": [
-    "TODO.md",
-    "Inverse Image of Intersection.md",
-    "Function as Rule.md",
-    "Function.md",
-    "Inverse Image.md",
-    "private/Differentiation Between Math Notes.md",
-    "Invertible.md",
-    "One-To-One.md",
-    "Image.md",
-    "Onto.md",
-    "Codomain.md",
-    "Domain.md",
-    "Natural Domain.md",
-    "Equally-Likely Outcomes.md",
-    "Conversion To and From Strings.md",
-    "Conversion Between Ints and Floats.md",
-    "Convenience Sample.md",
-    "Central Tendency.md",
-    "String Methods.md",
-    "Simulation.md",
-    "Event.md",
-    "Data Type.md",
-    "domain.md",
-    "test.md",
     "index.md",
-    "Untitled.md",
+    "TODO.md",
+    "templates/Proposition Math Template.md",
+    "Invertible.md",
+    "Inverse Image of Union.md",
+    "Inverse Image of Intersection.md",
+    "Inverse Image.md",
+    "Independent Events.md",
+    "Element-Wise Arithmetic.md",
+    "Domain.md",
+    "templates/Definition Template.md",
+    "templates/Definition Math Template.md",
+    "Composition of Onto Functions.md",
+    "Composition is Associative.md",
+    "Composition.md",
+    "Codomain.md",
+    "Composition of One to One Functions.md",
+    "One-To-One.md",
+    "templates/Python Code Template.md",
+    "templates/Theorem Math Template.md",
+    "templates/Example Template.md",
+    "templates/Example Math Template.md",
+    "private/Differentiation Between Math Notes.md",
+    "one to one.md",
+    "Natural Domain.md",
+    "Function as Rule.md",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",
     "images",

@@ -1,4 +1,5 @@
 ---
+aliases: function, mapping
 mathLink: $f:X->Y$
 tags:
 - "#Type/Definition"
@@ -10,7 +11,7 @@ Examples: <i>Not Applicable</i>
 Constructions: [[Image]], [[Inverse Image]]  
 Generalizations: <i>Not Applicable</i>  
 
-Properties: <i>Not Applicable</i>  
+Properties: [[Composition]]  
 Sufficiencies: <i>Not Applicable</i>  
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  

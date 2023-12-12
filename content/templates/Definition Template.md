@@ -1,8 +1,8 @@
 ---
 tags:
 - "#Type/Definition"
-- "#Topic/Data_Science"
-- "#Class/DSC_10"
+- "#Topic/TOPIC"
+- "#Class/CLASS"
 ---
 
 > [!definition] {{title}}

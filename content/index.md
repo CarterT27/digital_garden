@@ -8,5 +8,5 @@ Here are some of the classes that I'm taking:
 #Class/MATH_31AH #Class/DSC_10 #Class/CAT_1
 
 See also:  
-[[Reading List]]
-[[TODO]]
+[[Reading List]]  
+[[TODO]]  

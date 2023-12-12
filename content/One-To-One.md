@@ -1,9 +1,9 @@
 ---
-aliases: injective
+aliases: injective, one to one
 mathLink: auto
 tags:
   - "#Type/Definition"
-  - "#Topic/TOPIC"
+  - "#Topic/Linear_Alebra"
   - "#Class/CLASS"
 ---
 Types: <i>Not Applicable</i>  
