@@ -18,4 +18,4 @@ Generalizations: <i>Not Applicable</i>
 
 **Proof.** 
 $$(AB)^T_{i,j}=(AB)_{j,i}$$
-$$(AB)_{j,i}=\sum_{n=1}^ka_{j,n}b_{n,i}=\sum_{n=1}^k$$
+$$(AB)_{j,i}=\sum_{n=1}^ka_{j,n}b_{n,i}=\sum_{n=1}^kb_{n,i}a_{j,n}=(B^TA^T)_{i,j}$$

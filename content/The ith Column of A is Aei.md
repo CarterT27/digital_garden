@@ -14,13 +14,5 @@ Generalizations: <i>Not Applicable</i>
 
 > [!proposition] The $i$th Column of $A$ is $A\vec{e}_{i}$
 
-*Example:*
-$$\begin{bmatrix}3 & -2 & 0 \\
-2 & 1 & 2 \\
-0 & 4 & 3 \\
-1 & 0 & 2\end{bmatrix}\begin{bmatrix}0 \\
-1 \\
-0\end{bmatrix}=\begin{bmatrix}-2 \\
-1 \\
-4 \\
-0\end{bmatrix}$$
+*Example:*  
+$$\begin{bmatrix}3 & -2 & 0 \\2 & 1 & 2 \\0 & 4 & 3 \\1 & 0 & 2\end{bmatrix}\begin{bmatrix}0 \\1 \\0\end{bmatrix}=\begin{bmatrix}-2 \\1 \\4 \\0\end{bmatrix}$$

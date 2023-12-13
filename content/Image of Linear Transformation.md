@@ -1,4 +1,5 @@
 ---
+aliases: image
 mathLink: auto
 tags:
   - "#Type/Definition"
