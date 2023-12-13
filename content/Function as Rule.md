@@ -8,7 +8,7 @@ tags:
 ---
 Types: [[Onto]], [[One-To-One]], [[Invertible]]  
 Examples: <i>Not Applicable</i>  
-Constructions: [[Image]], [[Inverse Image]]  
+Constructions: [[Image of Function]], [[Inverse Image]]  
 Generalizations: <i>Not Applicable</i>  
 
 Properties: [[Composition]]  
@@ -23,7 +23,7 @@ Justifications: <i>Not Applicable</i>
 
 ---
 
-**Remark.** It may be possible to evaluate the function on every element of the domain, and every output (value of the function) must be in the codomain. But it is not necessary that every element of the codomain be a value of the function. We use the word "[[Image|image]]" to denote the set of elements in the codomain that are actually reached.
+**Remark.** It may be possible to evaluate the function on every element of the domain, and every output (value of the function) must be in the codomain. But it is not necessary that every element of the codomain be a value of the function. We use the word "[[Image of Function|image]]" to denote the set of elements in the codomain that are actually reached.
 
 ---
 

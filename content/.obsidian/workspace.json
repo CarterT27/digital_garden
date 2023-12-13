@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "23e6cbc854b0b8ac",
+            "id": "6e43c234e1f5c887",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Basis for The Image of T.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5722b8d4050374de",
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Basis for The Image of T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,34 +172,34 @@
       "templates:Insert template": false
     }
   },
-  "active": "a476bd9cde5b9feb",
+  "active": "4f3b4409ef60d371",
   "lastOpenFiles": [
-    "index.md",
-    "TODO.md",
-    "templates/Proposition Math Template.md",
-    "Invertible.md",
-    "Inverse Image of Union.md",
-    "Inverse Image of Intersection.md",
-    "Inverse Image.md",
-    "Independent Events.md",
-    "Element-Wise Arithmetic.md",
-    "Domain.md",
-    "templates/Definition Template.md",
-    "templates/Definition Math Template.md",
-    "Composition of Onto Functions.md",
-    "Composition is Associative.md",
-    "Composition.md",
-    "Codomain.md",
-    "Composition of One to One Functions.md",
-    "One-To-One.md",
-    "templates/Python Code Template.md",
-    "templates/Theorem Math Template.md",
-    "templates/Example Template.md",
-    "templates/Example Math Template.md",
+    "Solutions to T(x)=b.md",
+    "Basis for The Image of T.md",
+    "Kernel and Image are Vector Subspaces of the Linear Transformation Subspaces.md",
     "private/Differentiation Between Math Notes.md",
-    "one to one.md",
-    "Natural Domain.md",
-    "Function as Rule.md",
+    "templates/Math Proposition Template.md",
+    "Image of Function.md",
+    "Image of Linear Transformation.md",
+    "Kernel.md",
+    "TODO.md",
+    "Invertible.md",
+    "Transpose of Product.md",
+    "Transpose.md",
+    "Inverse of Product of Matrices.md",
+    "Invertible Matrix.md",
+    "Inverse of a 2x2 Matrix.md",
+    "Matrix Inverse.md",
+    "Domain.md",
+    "Codomain.md",
+    "Left and Right Inverses of Matrices.md",
+    "Matrix.md",
+    "Identity Matrix.md",
+    "Matrix Multiplication is Associative.md",
+    "Matrix Multiplication.md",
+    "The ith Row of AB is the Product of The ith Row of A and Matrix B.md",
+    "The ith Column of AB is Abi.md",
+    "The ith Column of A is Aei.md",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",
     "images",

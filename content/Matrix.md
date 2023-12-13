@@ -6,16 +6,14 @@ tags:
   - "#Class/MATH_31AH"
 ---
 Types: <i>Not Applicable</i>  
-Examples: <i>Not Applicable</i>  
+Examples: [[Identity Matrix]]  
 Constructions: <i>Not Applicable</i>  
 Generalizations: <i>Not Applicable</i>  
 
-Properties: <i>Not Applicable</i>  
+Properties: [[Matrix Multiplication]]  
 Sufficiencies: <i>Not Applicable</i>  
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  
 
-> [!definition] Codomain
-> The **codomain** of a [[Function as Rule|function]] is its target space.
-
-*Example:* In the equation $f:X\to Y$, the codomain is $Y$, which could be $\mathbb{R}$, $\mathbb{C}$, or any other set.
+> [!definition] Matrix
+> An $m \times n$ matrix is a rectangular array of entries, $m$ high and $n$ wide. We denote by $Mat(m,n)$ the set of $m \times n$ matrices.

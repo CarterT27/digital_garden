@@ -5,7 +5,7 @@
   "removeSnippetWhitespace": true,
   "loadSnippetsFromFile": false,
   "snippetsFileLocation": "",
-  "concealEnabled": true,
+  "concealEnabled": false,
   "colorPairedBracketsEnabled": true,
   "highlightCursorBracketsEnabled": true,
   "mathPreviewEnabled": true,

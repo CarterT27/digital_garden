@@ -1,4 +1,5 @@
 ---
+aliases: invertible
 mathLink: auto
 tags:
   - "#Type/Definition"
@@ -7,15 +8,13 @@ tags:
 ---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  
-Constructions: <i>Not Applicable</i>  
+Constructions: [[Matrix Inverse]]  
 Generalizations: <i>Not Applicable</i>  
 
-Properties: <i>Not Applicable</i>  
+Properties: [[Inverse of Product of Matrices]]  
 Sufficiencies: <i>Not Applicable</i>  
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  
 
-> [!definition] Codomain
-> The **codomain** of a [[Function as Rule|function]] is its target space.
-
-*Example:* In the equation $f:X\to Y$, the codomain is $Y$, which could be $\mathbb{R}$, $\mathbb{C}$, or any other set.
+> [!definition] Invertible Matrix
+> An **invertible matrix** is a [[matrix]] that has both a [[Left and Right Inverses of Matrices|left inverse]] and a [[Left and Right Inverses of Matrices|right inverse]].

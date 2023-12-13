@@ -1,7 +1,7 @@
 ---
-mathLink: auto
+mathLink: $\mathop{A^{-1}}_{2 \times 2}$
 tags:
-  - "#Type/Definition"
+  - "#Type/Example"
   - "#Topic/Linear_Algebra"
   - "#Class/MATH_31AH"
 ---
@@ -15,7 +15,8 @@ Sufficiencies: <i>Not Applicable</i>
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  
 
-> [!definition] Codomain
-> The **codomain** of a [[Function as Rule|function]] is its target space.
+> [!example] Inverse of a 2x2 Matrix
+> The inverse of  
+> $$A=\begin{bmatrix}a&b\\c&d\end{bmatrix}\text{ is }A^{-1}=\frac{1}{ad-bc}\begin{bmatrix}d&-b\\-c&a\end{bmatrix}$$
 
-*Example:* In the equation $f:X\to Y$, the codomain is $Y$, which could be $\mathbb{R}$, $\mathbb{C}$, or any other set.
+**Remark:** A $2 \times 2$ matrix is invertible iff $ad-bc\neq 0$.

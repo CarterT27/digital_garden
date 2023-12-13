@@ -15,7 +15,5 @@ Sufficiencies: <i>Not Applicable</i>
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  
 
-> [!definition] Codomain
-> The **codomain** of a [[Function as Rule|function]] is its target space.
-
-*Example:* In the equation $f:X\to Y$, the codomain is $Y$, which could be $\mathbb{R}$, $\mathbb{C}$, or any other set.
+> [!definition] Image of Linear Transformation
+> Let $T:\mathbb{R}^n\to\mathbb{R}^m$ be a [[linear transformation]]. The [[image]] of $T$, denoted $\text{img }T$, is the set of [[Point, Vector, and Coordinates|vectors]] $\vec{w}\in\mathbb{R}^m$ such that there is a vector $\vec{v}\in\mathbb{R}^n$ with $T(\vec{v})=\vec{w}$.

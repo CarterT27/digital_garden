@@ -1,4 +1,5 @@
 ---
+aliases: null space
 mathLink: auto
 tags:
   - "#Type/Definition"
@@ -15,7 +16,8 @@ Sufficiencies: <i>Not Applicable</i>
 Equivalences: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  
 
-> [!definition] Codomain
-> The **codomain** of a [[Function as Rule|function]] is its target space.
+> [!definition] Kernel (Null Space)
+> Let $T:\mathbb{R}^n\to\mathbb{R}^m$ be a [[linear transformation]]. The **kernel** of $T$, denoted $\text{ker }T$, is the set of [[Point, Vector, and Coordinates|vectors]] $\vec{x}\in\mathbb{R}^n$ such that $T(\vec{x})=\vec{0}$.
 
-*Example:* In the equation $f:X\to Y$, the codomain is $Y$, which could be $\mathbb{R}$, $\mathbb{C}$, or any other set.
+**Remark:** The kernel of $T$ is the [[inverse image]] of $\{\vec{0}\}$ under $T$.  
+$$\text{ker }T=T^{-1}\{\vec{0}\}$$
