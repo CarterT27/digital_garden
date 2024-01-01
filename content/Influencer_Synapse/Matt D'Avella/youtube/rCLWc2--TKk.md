@@ -1,0 +1,23 @@
+# The Reason Most People are Unhappy
+https://www.youtube.com/watch?v=rCLWc2--TKk
+Get my podcast 👉 http://groundupshow.com
+
+After people have their basic needs met, what leads people to be discontent? That's the first question I asked Dr. Rick Hanson (author of Hardwiring Happiness) when we sat down just outside San Francisco. His one word answer gets to the bottom of most of our problems.
+
+The original interview was captured for my documentary Minimalism. You can watch it here: http://minimalismfilm.com/
+
+Drone footage by Conrad: http://conradgolovac.com/
+
+New videos every week! New podcast every Wednesday!
+
+Subscribe:  https://goo.gl/nzS5ri
+Podcast:  http://groundupshow.com
+Instagram:  http://instagram.com/mattdavella/
+Twitter:  http://twitter.com/mattdavella/
+
+Thanks for watching!
+**Keywords:** declutter, lifestyle, lifestyle design, minimalism, minimalist, simple living, simplicity, happiness, finding happiness, rick hanson, greed, media, addiction, hardwiring happiness, find happiness, be happy, happy, matt davella, Matt D'Avella, podcast, ground up, ground up show, a documentary about the important things, important things, stuff, consumption, simple, life, living, meaning, purpose, 
+**Date:** 2018-05-07
+
+## Transcript
+ A couple years ago, I traveled around the country with two guys named Josh and Ryan. We were making a documentary and had one question we wanted answered. How might your life be better with less? In order to answer that question, I wanted to speak with experts on neuroscience, psychology, and sociology. Look in our understanding of the human mind, tell us about our compulsive drive to consume. More importantly, I wanted to know the root of what makes us unhappy. Just outside San Francisco, we sat down with the author of Buddha's Brain and Hardware and Happiness, Dr. Rick Hansen. It only took him one word to answer my first question. What do you think is the biggest factor for most people's discontent? The average lower middle class person in America lives better than Louis XIV. Yet still, even though we have a lot, there's still this looking for something new to want. I wonder why is that? I think of that as a kind of biologically based, delusional craving. That auto craving is a good strategy to keep animals alive, including early human animals, and really harsh conditions. But these days, today, it creates a disconnect. You're like a puppet whose strings are being pulled by mother nature and evolution, reaching back tens of millions of years. We still feel restless, we still are always scratching and clawing for more. That answer still sticks with me to this day. Being connected on the internet and social media has made such a profound shift in the way people communicate, build relationships, and make a living. But with all the amazing benefits comes the negative. We're constantly comparing ourselves with others and seeing as that explain why we won't be complete until we get this one thing. So what can you do? According to Rick Humans have three basic needs, safety, satisfaction, and connection. When we check off and most importantly, internalize all three things start to change. When we register that our three core needs are mad, when we really feel safe, authentically safe, when we really feel that there's an enoughness in our life in terms of our needs for satisfaction, and when we really feel light enough and loved enough and that we have a good heart ourselves, we're loving ourselves. When we feel that, the basis for craving for more, more maximalism, the basis for that falls away because you already feel deeply safe and all right, right now in this moment you start feeling increasingly and unconditionally satisfied in this moment because you've repeatedly internalized experiences of satisfaction the same way you start feeling increasingly related. And so then you engage life on the basis of feeling already safe, already satisfied, already connected. And when you do that, you're much harder to manipulate with the ancient drum beats of fear throughout level orange, this, you know, alien invaders that. You're much harder to manipulate through consumerism because you already feel full. You don't need to get that extra goody to feel like you've got enough because you already feel like you have enough. On the inside out, knowing this truth alone won't change your life, any massive change requires more than just understanding. It takes a daily practice to remain mindful and grateful for the lives we have. If you like this video, you might also like my podcast The Ground Up Show. I dive really deep into topics just like this with a diverse group of inspiring guests. Get it at groundupshow.com. Thanks for watching.

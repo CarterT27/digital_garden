@@ -1,0 +1,23 @@
+# Too Much of a Good Thing
+https://www.youtube.com/watch?v=2DHE6lJcDmY
+YES I BURNT THE PANCAKES.
+
+Let's be honest this entire video was just an excuse to make pancakes. But really there's some good stuff in here. I talk about the value of delayed gratification and why chasing ephemeral pleasures will distract you from a living a meaningful life.
+
+Caleb's Channel... https://www.youtube.com/calebwojcik
+
+💯 You can also follow me here:
+Newsletter:  http://mattdavella.com
+IG:  http://instagram.com/mattdavella
+Twitter:  http://twitter.com/mattdavella
+Podcast:  http://groundupshow.com
+
+❤️ Get more videos & support my work:
+http://patreon.com/mattdavella
+
+Thanks for watching!
+**Keywords:** declutter, lifestyle, lifestyle design, minimalism, minimalist, simple living, simplicity, delayed gratification, meaning, meaningful life, sacrifice, risk, reward, learn, education, too much of a good thing, 
+**Date:** 2018-07-30
+
+## Transcript
+ This is a video about pancakes, video games, and what they can teach you about living a meaningful life. So I got to comment the other day on one of my videos. A viewer said, minimalist people spend so much time talking about doing what you love and putting your day job if it's what makes you unhappy. And here are these two guys talking about how they don't really play video games anymore because of all their responsibilities. Now this comment was in reply to a conversation that I had with my friend Caleb about how much we used to love playing video games back in high school. But that was fun. I really enjoyed those times as like a kid just, you know, not having a job, not having any like real responsibilities and being able to just play video games in the middle of the night. I can't do it as much anymore. Yeah, I used to have 15 people over my mom's basement and be able to bring TVs and chairs and Xboxes and just play Halo and do that for 10 hours on a weekend. Okay, first I want to address the original comment about quitting your job if it makes you unhappy. I completely wholeheartedly agree with that and I stand by that. If you hate your job, if it makes you unhappy, if it doesn't fulfill you, then I think yes, you should quit your job. But I don't think that you should do it without a plan. Now I know some people might give the contrary advice as they just do it, just rip the band aid and go for it. Obviously, that might be true in a lot of circumstances. But I found in my life when I'm able to think through my decisions before I actually act on them, I'm able to first make sure that I'm making the right decision and something I'm not going to regret and second, I'm going to be able to have a higher likelihood that I will succeed. So when I do quit that job or when I stop freelancing, I know that I'm setting myself up for success because I'm giving myself a lot of time. Anyway, this is a completely different tangent than the real reason of this video in this video. I really want to talk about pancakes. I love pancakes. I love plain pancakes. I love chocolate chip pancakes. I love banana pancakes. I could say that without a doubt, pancakes make me very happy. But I also know that if I ate pancakes every day, the return would diminish substantially. Now, obviously, my health would be at risk, but the biggest mistake I think is this. I would be trying to indulge in short-term bursts of pleasure instead of seeking a greater return over the long run. So, in the present moment, playing video games might make me very happy. It would likely be more enjoyable, certainly easier than sitting down to write my next script or edit my next video. But if you always make this short-term choice, where does that leave you in five years? I truly believe that you can get everything you want out of life if you have the discipline to say no. In understanding that you will get a greater return in the end, whether it's the short-term pain of exercising for the long-term reward of being fit and healthy, or if it's working for eight to ten hours today on this project because down the road in three months when you release it, you're going to be able to share something with the world that otherwise would have never existed. I think those are the reasons why we need to have the discipline and the sacrifice to say no to pancakes, to say no to video games. And don't get me wrong, these in moderation are great things. A world without pancakes would not be a world that I truly would want to live in. A world without video games I think would be worse, but we need to know when to say no. We need to know when to set our priorities in life because then I think that's when we're going to be able to find a life that's most meaningful.

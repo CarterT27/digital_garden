@@ -1,0 +1,38 @@
+# My Custom Video Editing & Gaming PC - 2015 (100K Subscriber Bonus!)
+https://www.youtube.com/watch?v=V6puUIo_DE0
+Thank you guys SO MUCH for helping the channel hit 100k subscribers!
+
+Some people have been asking for a video about the computer I edit videos on, so here it is.
+
+Full system specs:
+
+CPU: Intel i7-5820k
+Cooler: Noctua NH-U14S
+Motherboard: Asus X99-A
+RAM: 32gb DDR4 2800
+GPU: EVGA Nvidia GeForce GTX 980
+PSU: EVGA 750W
+Case: Phanteks Enthoo Luxe
+Storage: 256gb Samsung 850 PRO, 500gb Samsun 850 EVO, 2TB Western Digital Black Series HDD
+
+If you're want to learn how to build your own PC, here are some great resources:
+
+r/buildapc: https://www.reddit.com/r/buildapc
+PCPartPicker: http://pcpartpicker.com/
+Linus Tech Tips: https://www.youtube.com/user/LinusTechTips
+
+If you want to get even more strategies and tips on becoming a more productive, successful student, subscribe to my channel right here:
+
+http://buff.ly/1vQP5ar
+
+Twitter ➔ https://twitter.com/tomfrankly
+Instagram ➔ https://instagram.com/tomfrankly
+
+~ created by Thomas Frank
+
+Music credit: Vendetta - "Don't Stop" - https://soundcloud.com/vendettamelodies/old-dnb
+**Keywords:** custom pc, video editing pc, rendering pc, after effects pc, after effects computer, gaming pc, 2015 custom pc, 2015 gaming build, college computer, college gaming pc, how to build a pc, build a computer, gaming rig, video editing rig, Gaming Computer (Literature Subject), How-to (Website Category), Adobe After Effects (Software), noctua, nh-u14s, i7-5820k, gtx 980, ddr4 ram, 
+**Date:** 2015-11-18
+
+## Transcript
+ Alright, ladies and gentlemen, this is the 100,000 subscriber bonus video, so guys, thank you so much once again for 100,000 subscribers It's just absolutely insane the channels come this far and I'm hugely grateful for all the support and I suppose thank you for 125,000 subscribers because I'm rather bad at getting this out on time But I know last time when I did a bonus video I asked for some topics suggestions for the next one and a lot of people wanted to see my computer So what I'm gonna do in this video is give you a little tour of my gaming and video editing computer here Share some of the parts show you some of the performance and what I can do and then at the end of the video I'm gonna give you some recommendations for resources if you happen to want to build your own PC and I will just say right up front You can build a really good gaming PC for far far less than I paid for this one so stay tuned for those resources if you're interested Alright, so starting out with the case I opted for the end-food lux with this bill now This is a case that costs only about a hundred dollars So it's quite a bit cheaper than some of the other really popular full-sized cases out there But it still has all the same room a lot of the expandability hard drive base and customizeable options that a lot of those higher in cases have and it doesn't look like Michael Bay designed it So that's another plus the CPU running the system is the Intel i75820k which is a six-core processor And I decided on six cores over four cores which are usually better for gaming and cheaper because six cores works better for video editing applications Cooling that processor is the not to an NHU-14S which is a huge aftermarket heat sink, but we'll come in handy if I ever decided overclock When it came to the RAM for this bill and I decided to get right on that future train So it's running 32 gigabytes of DDR4 RAM and that might sound like overkill But it comes in handy because I do a lot of work with after effects in premier and sometimes one of those programs alone can use over 20 days But the graphics card got the EVGA version of the Nvidia GTX 980 just won because I'm not super saying yet But maybe two in the future and to round out the main components I've got a 750 watt power supply which is probably too much for this build But it leaves some flexibility for added components in the future Now ever since I've gotten into video editing I've had to get really serious about storage And for this build I decided to go with two solid state drives in addition to a regular hard drive And with this case it actually keeps the solid state drives on the back And this is a huge mess back here You can see one is mounted here and one is mounted here This one is a Samsung Pro Drive This is one of their fastest models and I keep it for my boot drive It's 256 gigabytes and I put all my programs on there and Windows as well And then down here is one of Samsung's EVO SSDs which are a little bit slower But still pretty fast and this I keep my Dropbox files on and also the cash files for both premier and after effects Additionally on the other side like I said I've got a regular two terabyte hard drive And that is quickly filling up so I'm going to have to add more drive in the future Now with this hardware I could run new games like the Witcher 3 without any problems at max settings But that's not the reason I got the computer though it is a nice bonus The real reason I got the computers for high performance Block Just kidding the real reason I bought this computer is so I could run after effects better Because after effects animations are extremely demanding on a system both the preview and to render out Finally And give you an example I want to show you the Mark Twain quote animation from the last video So as you can see this is this this light object here over here And if I turn that off we get a little bit different lighting and there's a camera that changes their perspective As you can see the entire thing is 3D if I turn it back on you can see that And all of these things actually move so if I turn the light back on I actually have the light animating and moving to cast some different moving shadows on the animation as you can see even with this hardware the animation doesn't update Perfectly as I'm dragging the timeline cursor It still struggles to keep up because there's just a ton of stuff going on Now I learned with this video that I should apply on my lighting effects after I do the animating So I took way longer than I needed to on that last video but still the hardware Definitely helps make these animations Alright guys what hope you enjoyed this video now if you're interested in building your own computer either now or at some point in the future I have a couple of recommendations for resources That you should definitely check out one of them being the build a PC subreddit Which has lots of PC builders that can answer your questions As well as a wiki with lots of useful information you can read up on And also there's a site called PC Park Picker which will allow you to build your own custom PC And print out a list of the parts that also shows you the cheapest place online to buy each one Lastly is YouTube channel a pretty huge fan of called Linus Tech Tips And often do PC build videos with a certain budget and see what they can build while staying under it So that might be useful resources as well That is it for this video so the nerds among you may now go to the comments and tell me why my build is terrible And for the rest of you the next milestone video will probably come in a million subscribers If the channel ever gets there and beyond that I'm going to start doing bonus videos Basically whatever I feel like it that way I'm not pressured to do it at a certain milestone each time But rest assured they will be coming in the future So if you have ideas for future bonus videos or awkward inappropriate questions about my life You can leave them down in the comments and I will possibly do a video on them in the future Other than that I will see you in the next video Thanks for watching

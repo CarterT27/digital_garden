@@ -1,0 +1,30 @@
+# Self-Discipline Advice from a Roman Emperor - College Info Geek
+https://www.youtube.com/watch?v=5sK1yXHGCGc
+Marcus Aurelius, who ruled Rome from 161 to 180, had some thoughts on self-discipline that he wrote down in his book "Meditations." I think you can apply his thoughts to your own life.
+
+Here's the where you can read the book online for free (linked directly to this passage):
+
+http://classics.mit.edu/Antoninus/meditations.5.five.html
+
+My book "10 Steps to Earning Awesome Grades" is now out and it's free! Get it here (and get a copy of my graduation planning spreadsheet as well):
+
+http://collegeinfogeek.com/get-better-grades/
+
+If you want to get even more strategies and tips on becoming a more productive, successful student, subscribe to my channel right here:
+
+http://buff.ly/1vQP5ar
+
+Connect with me on Twitter!
+
+https://twitter.com/TomFrankly
+
+Companion blog post with notes and resource links: 
+
+http://collegeinfogeek.com/marcus-aurelius-self-discipline/
+
+~ created by Thomas Frank
+**Keywords:** self-discipline, discipline, grit, motivation, sleeping in, Marcus Aurelius (Monarch), Stoicism (Literature Subject), Stoic (Film), college, university, students, education, focus, goals, self-motivation, productivity, goal setting, roman empire, 
+**Date:** 2015-06-25
+
+## Transcript
+ I've been getting a lot of questions about how to build self-discipline, the ability to force yourself to do the things that are congruent with your goals and aspirations, but not exactly with your desires in the moment. Now while there's a lot that can be set on this subject and I have a lot of experiences of my own that I'd like to share with you in a future video, today I want to share just one simple thought that comes from the Roman Emperor Marcus Aurelius. Aurelius ruled wrong from 161 to 180 AD and is considered to be the last of the five good emperors, but it's also considered to be one of the most important stoic philosophers and his book Meditations, which is considered to be one of the most important texts in stoic philosophy, contains a passage that has a lot to say about self-discipline. And I think it might even be the foundation of self-discipline. So in book five of Meditations Aurelius writes, at dawn when you have trouble getting out of bed, tell yourself, I have to go to work as a human being. What do I have to complain of if I'm going to do what I was born for, the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm? But it's nicer here. So you're born to feel nice instead of doing things and experiencing them? Don't you see the plants, the birds, the ants, and spiders, and bees going about their individual tasks, putting the world in order as best they can? And you're not willing to do your job as a human being? Why aren't you wanting to do what your nature demands? But we have to sleep some time. Agreed. But nature said a limit on that, as it did on eating and drinking. And you're over that limit, you've had more than enough of that, but not of working. There you're still below your quota. You don't love yourself enough, or you love your nature too, and what it demands of you. People who love what they do wear themselves down doing it. They even forget to wash or eat. Do you have less respect for your own nature than the engraver does for engraving? The dancer for dance, the miser for money, or the social climber for status? When they're really possessed by what they do, they'd rather stop eating and sleeping than give up practicing their arts. He's telling you to respect your choice of path in life enough that you consider it to be your very nature, to be instinct. Just as spiders and bees and ants get up every day and are driven by their instincts, so should you be driven by the actions that are demanded by your goals? If yesterday you decided you wanted to get up early so you could work on your goals, but now you're lying in bed and you feel all comfortable and you don't want to get up, then you need to focus your mind on your nature, on the path you've chosen, and let that override your current desire. Other aspects of the art of gaining self-discipline like exercises for building grit or systems that commit you to things ahead of time are important, but they take a back step to this one key insight. From Marcus Aurelius, respecting your work as your very nature, and tailoring your decisions and actions in accordance with that, was the most important part of building discipline. So, my parting thought for this short video is to figure out why you're doing what you're doing. What's the reason for it? And once you figure that out, consider that work to be your very nature as a person, and tailor your actions towards that. Hopefully this video has helped you in some way, and if you want to read meditations, you can pick up a paper copy like I got, or you can read it entirely free online, since the dude wrote the book like 2,000 years ago, and I'll make sure to link that down in the description. Thanks for watching, and I will see you next week. Hey guys, thanks so much for watching this short video on building self-discipline. Now if you want to get future videos on this topic or other videos on how to be an effective student, then hit that big red subscribe button right there. Also, if you enjoyed this video and you want to support this channel, then leaving a like or sharing it with a friend definitely helps. I also wrote a free book on how to earn better grades, and if you'd like me to send you a copy, click the picture of the book, and I will get one to you. You can find a summary for this video, and links to a couple of outside resources that inspired me by going to the companion blog post, which you'll find at the Orange Logo right there. If you missed last week's video, we talked about why dropping classes shouldn't be considered failure, and you can click the thumbnail to watch it, and also if you want to connect with me, you can find me on Twitter, at Tom Friendly, or a little comment below. Thank you.

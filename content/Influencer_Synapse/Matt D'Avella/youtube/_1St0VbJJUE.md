@@ -1,0 +1,14 @@
+# The Confusing State of the Health Industry
+https://www.youtube.com/watch?v=_1St0VbJJUE
+http://www.groundupshow.com
+
+Becca Shern (Minimal Wellness) and I discuss the confusing state of the health industry & how to find people you can trust.
+
+I trust Becca. You can check out more from her at http://www.minimalwellness.com
+
+Thanks for watching!
+**Keywords:** minimal wellness, becca shern, ground up, ground up podcast, health, wellness, create content, blogging, make stuff, makers, health industry, entrepreneur, self help, how to, conversation, talk, interview, series, the ground up show, matt davella, Matt D'Avella, mattdavella, film, filmmaking, netflix, minimalism, simple living, 
+**Date:** 2017-12-21
+
+## Transcript
+ Somebody that's trying to approach this industry and find somebody to get advice about their diet and what they're eating. Yeah. How would they go about navigating it and how do they know who to trust and what opinions to believe? It's so confusing. I put myself in a consumer's shoes or just generally a person's shoes and it's mind blowing. How many people have opinions about nutrition and opinions about wellness and health? So, my best recommendation on the baseline is to avoid people who have extremely restrictive recommendations. And then, let's try to look into the credentialing as much as possible. Most people don't make that terribly easy to find, which adds to the frustration. If it's hard to find what a person is credentialed in, that's kind of a red flag, at least to me. It's the most people who went to med school, for example, or who are functional medicine practitioners or registered dietitians or practitioners. You know, all these people who have lots of education in the field are generally going to make that known. It's in the first line. So like, yeah, I think that's actually probably a good indicator. If it is hard to find, they're probably not registered. It doesn't mean that they're wrong. Right, and that's where I was just going to go. Is it like, I also am of the pretty strong opinion that just because you follow the path of, you know, becoming a physician or becoming a registered dietitian. By no means makes you really good in your field or knowledgeable or cutting edge. And those, those types of skills and knowledge, like can be obtained other ways. And so like, for example, Josh has been working with this functional medicine group, nourish balance thrive. And one of the guys that is, is Josh's main contact is a computer scientist by training. But dang, he is, he has done his homework. And he has a group of physicians around him, so it's not just like him. But if it was just him and just going off of my recommendation that I made a minute ago of like trying to find out what people's background is. Like, the, you know, Chris wouldn't fall into that traditional framework. But he's super fantastic. Yeah. You
