@@ -32,10 +32,3 @@ $$x_{5}=0.$$
 So for $\vec{v}_{1}$, where $x_{3}=1$ and $x_{4}=0$, the first entry is $x_{1}=-1$, the second is $-1$ and the fifth is $0$; the corresponding entries for $\vec{v}_{2}$ are $-3,-2,\text{ and }0$:  
 $$\vec{v}_{1}=\begin{bmatrix}-2\\-1\\1\\0\\0\end{bmatrix};\vec{v}_{2}=\begin{bmatrix}-1\\1\\0\\1\\0\end{bmatrix}.$$  
 These two vectors form a basis of the kernel of $A$.
-
----
-
-**Proof.**
-1. By definition, $A\vec{v}_{i}=\vec{0}$, so $\vec{v}_{i}\in \text{ker }A$.
-2. The $\vec{v}_{i}$ are *linearly independent*, since exactly one has a nonzero number in each position corresponding to nonpivotal unknown.
-3. The $\vec{v}_{i}$ *span the kernel* means that any $\vec{x}$ satisfying $A\vec{x}=\vec{0}$ can be written as a linear combination of the $\vec{v}_{i}$. Suppose $A\vec{x}=\vec{0}$. We can construct a vector $\vec{w}=x_{k_{1}}\vec{v}_{1}+\dots+x_{k_{p}}\vec{v}_{p}$ that has the same entry $x_{k}$ in the nonpivotal column $k_{i}$ as does $\vec{x}$. Since $A\vec{v}_{i}=\vec{0}$, we have $A\vec{w}=\vec{0}$. But for each value of the nonpivotal variables, there is a unique vector $\vec{x}$ such that $A\vec{x}=\vec{0}$. Therefore, $\vec{x}=\vec{w}$.

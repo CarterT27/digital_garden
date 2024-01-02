@@ -1,8 +1,0 @@
-# How to Save a Life (The Fray) - Duranka Perera cover
-https://www.youtube.com/watch?v=34ehGQMt5l4
-Thought we'd make use of the some nice scenery in St Albans to record this. If you like it, please give it a thumbs up and SUBSCRIBE xx
-**Keywords:** how to save a life, cover, 
-**Date:** 2017-04-23
-
-## Transcript
- Step one, say we need to talk, he walks, he says it down, he's just to talk, he's small, but I'll leave back at you, you stare, but I'll leave right on through, some sort of window to your eye, as he goes left to you, stay right between the lines of fear and blame, you begin to wonder why you came where did I go wrong, I lost a friend somewhere alone in the bed and there, and I could ask, they eat up with you all night, I know how to save a life. Let him know that you know best, because after all, you do know best, and try to slip past his defense, without granting in a sense. Let's lay down a list of what is wrong, the things you told him all along and pray to God, he's you, and pray to God, he's you, where did I go wrong, I lost a friend somewhere alone in the bed and there, and I could ask, they eat up with you all night, and I know how to save a life. As he begins to raise his voice, you'll know it all, and grant him one last choice, driving till you lose a road, or break with the ones you follow. He will do one-up two things, he will admit to everything, or he'll say he's just not the same, and you begin to wonder why you came where did I go wrong, I lost a friend somewhere alone in the bed and there, and I could ask, they eat up with you all night, and I know how to save a life. I lost a friend somewhere alone in the bed and there, and I could ask, they eat up with you all night, and I know how to save a life.
