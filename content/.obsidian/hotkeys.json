@@ -342,5 +342,13 @@
       ],
       "key": "T"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }

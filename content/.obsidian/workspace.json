@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "96e7b04d937fa65d",
+        "id": "2f85a7df63d4a7ce",
         "type": "tabs",
         "children": [
           {
-            "id": "a476bd9cde5b9feb",
+            "id": "2a9a16df68544ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6e43c234e1f5c887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Differentiation Between Math Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f3b4409ef60d371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basis for the Image of T.md",
+                "file": "CAT 2 Lecture 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basis for the Image of T.md",
+                "file": "CAT 2 Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +115,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -169,37 +144,38 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "4f3b4409ef60d371",
+  "active": "2a9a16df68544ba4",
   "lastOpenFiles": [
-    "Basis for the Kernel of T.md",
-    "Basis for the Image of T.md",
-    "Transpose of Product.md",
-    "The ith Column of A is Aei.md",
-    "private/Differentiation Between Math Notes.md",
-    "Image of Linear Transformation.md",
-    "Codomain.md",
-    "Solutions to T(x)=b.md",
-    "Kernel and Image are Vector Subspaces of the Linear Transformation Subspaces.md",
+    "2024-01-11.md",
+    "CAT 2 Lecture 2.md",
+    "DSC 20 Discussion 1.md",
+    "COGS 9 Lecture 2.md",
+    "2024-01-10.md",
+    "DSC 20 Lecture 2.md",
+    "MATH 20D Lecture 2.md",
+    "MATH 20D Lecture 1.md",
+    "COGS 9 Lecture 1.md",
+    "MATH 20C Lecture 2.md",
+    "2024-01-08.md",
+    "MATH 20C Lecture 1.md",
+    "DSC 20 Lecture 1.md",
+    "2024-01-09.md",
+    "CAT 2 Lecture 1.md",
+    "templates/Note Template.md",
+    "templates/Python Code Template.md",
+    "templates/Math Theorem Template.md",
     "templates/Math Proposition Template.md",
-    "Image of Function.md",
-    "Kernel.md",
+    "templates/Math Example Template.md",
+    "templates/Math Definition Template.md",
+    "templates/Example Template.md",
+    "templates/Definition Template.md",
+    "templates/Daily Note Template.md",
     "TODO.md",
-    "Invertible.md",
-    "Transpose.md",
-    "Inverse of Product of Matrices.md",
-    "Invertible Matrix.md",
-    "Inverse of a 2x2 Matrix.md",
-    "Matrix Inverse.md",
-    "Domain.md",
-    "Left and Right Inverses of Matrices.md",
-    "Matrix.md",
-    "Identity Matrix.md",
-    "Matrix Multiplication is Associative.md",
-    "Matrix Multiplication.md",
-    "The ith Row of AB is the Product of The ith Row of A and Matrix B.md",
+    "Basis for the Kernel of T.md",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",
     "images",
