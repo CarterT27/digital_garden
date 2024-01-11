@@ -26,3 +26,7 @@ date:
 
 > [!note] Edwin Smith Surgical Papyrus
 > The earliest recorded reference to the brain (17th century BC)
+
+> [!note] Mirror Neuron
+> Involved in imitation, emulation
+> Phantom limbs
