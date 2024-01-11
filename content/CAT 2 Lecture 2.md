@@ -88,3 +88,51 @@ date:
 > Edvard Munch, The Scream
 
 > [!note] Paul Cézanne's "Bouilloire et Fruits"
+
+> [!note] Cubism (1907-14)
+> Pablo Picasso, Les Demoiselles D'Avignon
+
+> [!note] Kazimir Severinovich Malevich, 1915
+> Very first modernist paining of a black square
+
+> [!note] Marcel Duchamp: the fountain
+> Urinel with signature on it
+
+> [!note] Canned Artist's Shit
+> Precedes Andy Warhol's Canned Soup
+
+> [!note] Jackson Pollock
+> Liberated paint from the paint can
+
+> [!note] Gerhard Richter's STRIP series
+> Took a photograph, painted extremely large horizontal color strips
+
+> [!note] Piss Christ - Andres Serrano
+> Took a figure of Christ on the cross and dipped it in urine, took a photograph of it
+
+> [!note] Chris Ofili Virgin Mary 1996
+> Depicted with cutouts from porn magazines with female genitalia and elephant dung
+
+> [!note] Damien Hirst: the physical impossibility of death in the mind of someone living: 1991
+> Commissioned someone $20,000 to kill a shark and then put it in formaldehyde
+
+> [!note] Tracey Emin - MY BED (1998)
+> After a breakup, including debris with condoms and tissue paper
+
+> [!note] Olafur Eliasson: 2003
+> The weather project
+> People went into trance
+> Giant mirror in the ceiling and pumped gas into the room to create an atmospheric effect
+> Immersive artwork
+> Artificial sun
+
+> [!note] Eduardo Kac
+> Genetically modified rabbit that starts to glow like a jellyfish
+> Biggest advertising campaign for a glow in the dark bunny
+
+> [!note] Maurizio Cattalan (2019)
+> $120000 banana with duct tape
+> Auctioned 4x $250,000 bananas with duct tape
+> Then someone came and ate the banana on video, got sued
+
+> [!question] How did we get from cave wall painting to bananas taped to the wall?
