@@ -55,4 +55,36 @@ date:
 
 > [!note] Mirror Neurons
 > Involved in imitation, emulation
-> Phantom limb
+> Phantom limb syndrome
+
+> [!note] Early forms of Sculpture
+> The earliest known exaples of sculpture date back to the Upper Paleolithic era, roughly 40,000 to 20,000 years ago. These ancient sculptures are primarily small figurines carved from sotne, bone, ivory, or clay. One of the most famous and earliest examples is the "Venus of Willendorf," discorvered in Austria and dated to around 28,000-25,000 BCE. This small figurine, only about 11cm tall, is made of limestone and represents a female figure. It's characterized by exaggerated female features and is thought to be a symbol of fertility. Other early examples include the "Lion Man" of the Hohlenstein-Stadel, a mammoth ivory carving found in Germany.
+
+> [!note] Bust of Nefertiti 1345 B.C.
+
+> [!note] Terracotta Panthenaic prize from 530 B.C.
+
+> [!note] Art for Propoganda
+> The small private Wilton Diptych for Richard II of England
+
+> [!note] Impressionism 1870s-90s
+> Claude Monet, Poppies, (c. 1876, Musee D'Orsay Paris, oil on canvas)
+
+> [!note] Post-Impressionism (c. 1880=1905)
+> Starry Night
+
+> [!note] Pointillism/Neo-Impressionism (1886-c1900)
+> Georges Seurat, La Grande Jatte
+> Pixels, paintings formed by dots
+> Working for the everyday life instead of the church
+
+> [!note] Art Nouveau (1890-1905)
+> Gustave Klimt, The Kiss
+
+> [!note] Fauvism (1900-20)
+> Henri Matisse, The Dance
+
+> [!note] Expressionism (1890-1934)
+> Edvard Munch, The Scream
+
+> [!note] Paul Cézanne's "Bouilloire et Fruits"
