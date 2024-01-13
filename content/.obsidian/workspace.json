@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb308a1f25ee821",
+        "id": "a256844f8ff6ba8f",
         "type": "tabs",
         "children": [
           {
-            "id": "750dd226a78723e4",
+            "id": "80aff043c7e11efb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inital value",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,34 +141,34 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "750dd226a78723e4",
+  "active": "80aff043c7e11efb",
   "lastOpenFiles": [
-    "CAT 2 Lecture 2.md",
-    "2024-01-12.md",
-    "MATH 20D Lecture 3.md",
-    "TQT Statistical Arbitrage.md",
-    "COGS 9 Lecture 3.md",
-    "COGS 9 Lecture 2.md",
-    "MATH 20C Lecture 3.md",
     "Winter 2024 Homepage.md",
-    "MATH 20D Lecture 2.md",
-    "DSC 20 Lecture 3.md",
-    "2024-01-08.md",
-    "COGS 9 Lecture 1.md",
-    "Assignment Statement.md",
-    "2024-01-09.md",
-    "Arithmetic Operations.md",
-    "CAT 2 Lecture 1.md",
-    "Addition Rule.md",
-    "Array.md",
-    "2024-01-10.md",
-    "Basis for the Kernel of T.md",
-    "2024-01-11.md",
-    "Broadcasting.md",
-    "Basis for The Image of T.md",
-    "templates/Python Code Template.md",
-    "templates/Note Template.md",
-    "templates/Math Theorem Template.md",
+    "Variable.md",
+    "Transpose of Product.md",
+    "Transpose.md",
+    "TQT Statistical Arbitrage.md",
+    "Tools and Websites.md",
+    "TODO.md",
+    "The ith Row of AB is the Product of The ith Row of A and Matrix B.md",
+    "The ith Column of AB is Abi.md",
+    "The ith Column of A is Aei.md",
+    "Symbols.md",
+    "Subspace of R^n.md",
+    "Subset of R^n.md",
+    "String Methods.md",
+    "String Data Type.md",
+    "Statistical Inference.md",
+    "Statistic.md",
+    "Standard Basis Vectors.md",
+    "Solutions to T(x)=b.md",
+    "Simulation.md",
+    "Simple Random Sample.md",
+    "Set Theory Vocabulary.md",
+    "Sequence.md",
+    "Sample.md",
+    "Reading List.md",
+    "Probability That Two Events Both Happen.md",
     "templates",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",

@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#Type/Remark"
-  - "#Topic/Data_Science"
-  - "#Class/DSC_10"
+  - "Type/Remark"
+  - "Topic/Data_Science"
+  - "Class/DSC_10"
 ---
 
 > [!example] Conversion To and From Strings

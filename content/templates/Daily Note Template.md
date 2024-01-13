@@ -1,4 +1,4 @@
 ---
 tags:
-- "#Daily_Note"
+- "Daily_Note"
 ---

@@ -1,9 +1,9 @@
 ---
 mathLink: The $i$th Row of $AB$ is the Product of The $i$th Row of $A$ and Matrix $B$.
 tags:
-  - "#Type/Proposition"
-  - "#Topic/Linear_Algebra"
-  - "#Class/MATH_31AH"
+  - "Type/Proposition"
+  - "Topic/Linear_Algebra"
+  - "Class/MATH_31AH"
 ---
 Proved by: <i>Not Applicable</i>  
 References: <i>Not Applicable</i>  

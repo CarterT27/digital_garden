@@ -1,9 +1,9 @@
 ---
 mathLink: $(f\circ g)\circ h=f\circ (g\circ h)$
 tags:
-  - "#Type/Proposition"
-  - "#Topic/Linear_Algebra"
-  - "#Class/MATH_31AH"
+  - "Type/Proposition"
+  - "Topic/Linear_Algebra"
+  - "Class/MATH_31AH"
 ---
 Proved by: <i>Not Applicable</i>  
 References: <i>Not Applicable</i>  

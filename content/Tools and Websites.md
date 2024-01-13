@@ -2,8 +2,6 @@
 
 > [!note] [Quartz](https://github.com/jackyzha0/quartz) to host my notes for free online
 
-> [!note] [GeoGebra](https://www.geogebra.org/calculator) to create graphs that I import into my notes
-
 > [!note] [TickTick](https://ticktick.com/webapp/) to organize my todo list
 
 > [!note] [ChatGPT](https://chat.openai.com/) to answer questions about anything and write code for personal projects that I'm too lazy to write myself

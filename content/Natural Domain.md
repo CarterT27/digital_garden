@@ -1,9 +1,9 @@
 ---
 mathLink: auto
 tags:
-- "#Type/Definition"
-- "#Topic/Linear_Algebra"
-- "#Class/MATH_31AH"
+- "Type/Definition"
+- "Topic/Linear_Algebra"
+- "Class/MATH_31AH"
 ---
 Types: [[Domain]]  
 Examples: <i>Not Applicable</i>  

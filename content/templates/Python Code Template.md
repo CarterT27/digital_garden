@@ -1,7 +1,7 @@
 ---
 tags:
-- "#Topic/TOPIC"
-- "#Class/CLASS"
+- "Topic/TOPIC"
+- "Class/CLASS"
 ---
 
 ``` Python

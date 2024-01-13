@@ -1,8 +1,8 @@
 ---
 tags:
-- "#Type/Definition"
-- "#Topic/TOPIC"
-- "#Class/CLASS"
+- "Type/Definition"
+- "Topic/TOPIC"
+- "Class/CLASS"
 ---
 
 > [!definition] {{title}}

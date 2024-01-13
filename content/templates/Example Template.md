@@ -1,8 +1,8 @@
 ---
 tags:
-- "#Type/Example"
-- "#Topic/TOPIC"
-- "#Class/CLASS"
+- "Type/Example"
+- "Topic/TOPIC"
+- "Class/CLASS"
 ---
 
 > [!example] {{title}}

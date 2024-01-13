@@ -2,9 +2,9 @@
 aliases: function, mapping
 mathLink: $f:X->Y$
 tags:
-- "#Type/Definition"
-- "#Topic/Linear_Algebra"
-- "#Class/MATH_31AH"
+- "Type/Definition"
+- "Topic/Linear_Algebra"
+- "Class/MATH_31AH"
 ---
 Types: [[Onto]], [[One-To-One]], [[Invertible]]  
 Examples: <i>Not Applicable</i>  

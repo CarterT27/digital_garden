@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#Type/Note"
-  - "#Topic/Neuroscience"
-  - "#Class/CAT_2"
+  - "Type/Note"
+  - "Topic/Neuroscience"
+  - "Class/CAT_2"
 date:
   - 2024-01-09
 ---

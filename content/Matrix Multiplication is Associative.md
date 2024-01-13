@@ -1,9 +1,9 @@
 ---
 mathLink: auto
 tags:
-  - "#Type/Proposition"
-  - "#Topic/Linear_Algebra"
-  - "#Class/MATH_31AH"
+  - "Type/Proposition"
+  - "Topic/Linear_Algebra"
+  - "Class/MATH_31AH"
 ---
 Proved by: [[The ith Column of AB is Abi]], [[The ith Row of AB is the Product of The ith Row of A and Matrix B]]  
 References: <i>Not Applicable</i>  

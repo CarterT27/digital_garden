@@ -1,9 +1,9 @@
 ---
 mathLink: auto
 tags:
-- "#Type/Example"
-- "#Topic/TOPIC"
-- "#Class/CLASS"
+- "Type/Example"
+- "Topic/TOPIC"
+- "Class/CLASS"
 ---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  

@@ -1,9 +1,9 @@
 ---
 mathLink: auto
 tags:
-- "#Type/Theorem"
-- "#Topic/TOPIC"
-- "#Class/CLASS"
+- "Type/Theorem"
+- "Topic/TOPIC"
+- "Class/CLASS"
 ---
 Proved by: <i>Not Applicable</i>  
 References: <i>Not Applicable</i>  

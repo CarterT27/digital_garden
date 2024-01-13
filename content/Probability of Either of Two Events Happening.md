@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#Type/Definition"
-  - "#Topic/Data_Science"
-  - "#Class/DSC_10"
+  - "Type/Definition"
+  - "Topic/Data_Science"
+  - "Class/DSC_10"
 ---
 
 > [!definition] Probability of Either of Two Events Happening
