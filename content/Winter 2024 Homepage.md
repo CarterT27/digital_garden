@@ -11,3 +11,8 @@ date:
 ---
 
 # Calendars
+- [MATH 20C](https://mathweb.ucsd.edu/~kwohm/Calendar20C-WI24.html)
+- [DSC 20](https://dsc20.org/)
+- [COGS 9](https://mkhosla-ucsd.github.io/cogs9/)
+- [MATH 20D](https://sites.google.com/ucsd.edu/20d-wi24/calendar?authuser=0)
+- [CAT 2](https://canvas.ucsd.edu/courses/52078)

@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "250741b65b5e0b68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 20D Lecture 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inital value",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 20D Lecture 3.md",
+                "file": "Winter 2024 Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,12 +149,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "250741b65b5e0b68",
+  "active": "11a35c5947ae5071",
   "lastOpenFiles": [
-    "MATH 20D Lecture 2.md",
-    "MATH 20D Lecture 3.md",
-    "2024-01-12.md",
+    "TQT Statistical Arbitrage.md",
     "Winter 2024 Homepage.md",
+    "2024-01-12.md",
+    "MATH 20D Lecture 3.md",
+    "MATH 20D Lecture 2.md",
     "DSC 20 Lecture 3.md",
     "CAT 2 Lecture 2.md",
     "2024-01-08.md",
@@ -189,7 +177,6 @@
     "templates/Math Theorem Template.md",
     "templates/Math Proposition Template.md",
     "templates/Math Example Template.md",
-    "templates/Math Definition Template.md",
     "templates",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",
