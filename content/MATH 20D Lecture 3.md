@@ -59,7 +59,7 @@ date:
 
 > [!danger] $xy\frac{dy}{dx}-(y-x)^2=0$
 > $\implies xy\frac{dy}{dx}=(y-x)^2$
-> Assume that $xy\neq 0$$\implies\frac{dy}{dx}=\frac{(y-x)^2}{xy}$
+> Assume that $xy\neq 0$ $\implies\frac{dy}{dx}=\frac{(y-x)^2}{xy}$
 > $(y-x)^2$ is inseparable, so this is **NOT** a separable ODE
 
 > [!check] $(1-y^2)\frac{dy}{dx}=x^2$

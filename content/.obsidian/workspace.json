@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1579c39bfaaeff6c",
+        "id": "2cb308a1f25ee821",
         "type": "tabs",
         "children": [
           {
-            "id": "11a35c5947ae5071",
+            "id": "750dd226a78723e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter 2024 Homepage.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter 2024 Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +143,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "11a35c5947ae5071",
+  "active": "750dd226a78723e4",
   "lastOpenFiles": [
-    "TQT Statistical Arbitrage.md",
-    "Winter 2024 Homepage.md",
+    "CAT 2 Lecture 2.md",
     "2024-01-12.md",
     "MATH 20D Lecture 3.md",
+    "TQT Statistical Arbitrage.md",
+    "COGS 9 Lecture 3.md",
+    "COGS 9 Lecture 2.md",
+    "MATH 20C Lecture 3.md",
+    "Winter 2024 Homepage.md",
     "MATH 20D Lecture 2.md",
     "DSC 20 Lecture 3.md",
-    "CAT 2 Lecture 2.md",
     "2024-01-08.md",
     "COGS 9 Lecture 1.md",
     "Assignment Statement.md",
@@ -170,13 +167,10 @@
     "Basis for the Kernel of T.md",
     "2024-01-11.md",
     "Broadcasting.md",
-    "COGS 9 Lecture 2.md",
     "Basis for The Image of T.md",
     "templates/Python Code Template.md",
     "templates/Note Template.md",
     "templates/Math Theorem Template.md",
-    "templates/Math Proposition Template.md",
-    "templates/Math Example Template.md",
     "templates",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",

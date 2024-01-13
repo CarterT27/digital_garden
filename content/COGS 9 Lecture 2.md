@@ -28,39 +28,3 @@ The amount of data is increasing exponentially. By 2025, 463 exabytes of data ge
 > 1. Minimal risk for research which otherwise couldn't be conducted
 > or
 > 2. When an activity is designed to assure or improve quality rather than contribute to generalizable knowledge, in which case it doesn’t meet the Common Rule’s definition of “research”
-
-> [!definition] Common Rule
-> The Federal Policy for the Protection of Human Subjects
-> - Requirements for assuring compliance by research institutions
-> - Requirements for researchers' obtaining and documenting informed consent
-> - Requirements for Institutional Review Board (IRB) membership, function, operations, review of research, and record keeping.
-> - Protections for certain vulnerable research subjects
-> 	- pregnant women
-> 	- in vitro fertilization and fetuses
-> 	- prisoners
-> 	- children
-
-> [!definition] The Belmont Report
-> **The Belmont Report**, published in 1974 by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, is a statement of basic ethical principles and guidelines that should assist in resolving the ethical problems that surround the conduct of research with human subjects.
-> The Belmont Report presents three principles; serve as basic concepts in the conduct of research with human subjects:
-> - Beneficence
-> - Respect for Persons
-> - Justice
-> The principles are intended to "assist scientists, subjects, reviewers and interested citizens to understand the ethical issues inherent in research involving human subjects." It is generally accepted that the principles share equal weight, and the evaluation and conduct of human subjects research are done in the context of all three.
-
-> [!note] Beneficience and Risk/Benefit Analysis
-> “Persons are treated in an ethical manner not only by respecting their decisions and protecting them from harm, but also by making efforts to secure their well-being.”
-> “Beneficence...requires that we protect against risk of harm to subjects and also that we be concerned about the loss of the substantial benefits that might be gained from research.”
-
-> [!note] Respect for Persons and Informed Consent
-> Don’t “withhold information necessary to make a considered judgment, when there are no compelling reasons to do so.”
-> “In most cases of research involving human subjects, respect for persons demands that subjects enter into the research voluntarily and with adequate information. In some situations, however, application of the principle is not obvious.”
-> “In all cases of research involving incomplete disclosure, such research is justified only if it is clear that:
-> 1. incomplete disclosure is truly necessary to accomplish the goals of the research
-> 2. there are no undisclosed risks to subjects that are more than minimal, and
-> 3. there is an adequate plan for debriefing subjects, when appropriate, and for dissemination of research results to them.”
-
-> [!note] Justice and Who Benefits?
-> “The principle of Justice answers the question:
-> Who ought to receive the benefits of research and bear its burdens?
-> Requires a fair distribution of the costs and benefits across the population.
