@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "96e7b04d937fa65d",
+        "id": "65bc3164ae659345",
         "type": "tabs",
         "children": [
           {
-            "id": "a476bd9cde5b9feb",
+            "id": "64e7e46731716697",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6e43c234e1f5c887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Differentiation Between Math Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f3b4409ef60d371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basis for the Image of T.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basis for the Image of T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +109,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -172,8 +141,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "4f3b4409ef60d371",
+  "active": "64e7e46731716697",
   "lastOpenFiles": [
+    "TODO.md",
     "Basis for the Kernel of T.md",
     "Basis for the Image of T.md",
     "Transpose of Product.md",
@@ -186,7 +156,6 @@
     "templates/Math Proposition Template.md",
     "Image of Function.md",
     "Kernel.md",
-    "TODO.md",
     "Invertible.md",
     "Transpose.md",
     "Inverse of Product of Matrices.md",
