@@ -11,5 +11,7 @@
   "dataview",
   "obsidian-latex-suite",
   "quick-latex",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-wakatime",
+  "execute-code"
 ]

@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inital value",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,21 +139,21 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "64e7e46731716697",
   "lastOpenFiles": [
     "TODO.md",
     "Basis for the Kernel of T.md",
-    "Basis for the Image of T.md",
-    "Transpose of Product.md",
-    "The ith Column of A is Aei.md",
-    "private/Differentiation Between Math Notes.md",
-    "Image of Linear Transformation.md",
-    "Codomain.md",
-    "Solutions to T(x)=b.md",
-    "Kernel and Image are Vector Subspaces of the Linear Transformation Subspaces.md",
+    "2024-01-11.md",
+    "Broadcasting.md",
+    "COGS 9 Lecture 2.md",
+    "Basis for The Image of T.md",
+    "templates/Python Code Template.md",
+    "templates/Note Template.md",
+    "templates/Math Theorem Template.md",
     "templates/Math Proposition Template.md",
     "Image of Function.md",
     "Kernel.md",
@@ -180,7 +181,6 @@
     "public/index.xml",
     "public/sitemap.xml",
     "public/Import-Statement.html",
-    "public/Function.html",
     "public/static/og-image.png",
     "public/static/icon.png"
   ]
