@@ -28,3 +28,10 @@
 - Frequently Asked Questions in Quantitative Finance - Paul Wilmott
 - Python for Finance - Yves Hilpisch
 - Advances in Portfolio Management - Grinold and Kahn
+- Trading and Exchanges - Larry Harris
+- Leveraged Trading - Robert Carver
+- Algorithmic Trading and DMA - Barry Johnson
+- The Art and Science of Technical Analysis - Adam Grimes
+- Algorithmic Trading - Ernest P. Chan
+- Building Winning Algorithmic Trading Systems - Kevin J. Davey
+- Trading Systems - Emilio Tomasini
