@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a256844f8ff6ba8f",
+        "id": "4f3e8ac48291038d",
         "type": "tabs",
         "children": [
           {
-            "id": "80aff043c7e11efb",
+            "id": "ac82f78da806aa45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reading List.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Class/CAT_2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +148,24 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "80aff043c7e11efb",
+  "active": "ac82f78da806aa45",
   "lastOpenFiles": [
+    "BBC Two HD Bridget Riley Painting the Line (2021).md",
+    "CAT 2 Lecture 2.md",
+    "index.md",
+    "Reading List.md",
+    "images/ProbabilityDistDieRoll.jpg",
+    "images/EmpiricalDistDieRoll.jpg",
+    "templates/Python Code Template.md",
+    "Broadcasting.md",
+    "Arithmetic Operations.md",
+    "2024-01-10.md",
+    "templates/Note Template.md",
+    "templates/Math Theorem Template.md",
+    "templates/Math Proposition Template.md",
+    "templates/Math Definition Template.md",
+    "templates/Definition Template.md",
+    "templates/Daily Note Template.md",
     "Winter 2024 Homepage.md",
     "Variable.md",
     "Transpose of Product.md",
@@ -155,23 +178,7 @@
     "The ith Column of A is Aei.md",
     "Symbols.md",
     "Subspace of R^n.md",
-    "Subset of R^n.md",
-    "String Methods.md",
-    "String Data Type.md",
-    "Statistical Inference.md",
-    "Statistic.md",
-    "Standard Basis Vectors.md",
-    "Solutions to T(x)=b.md",
-    "Simulation.md",
-    "Simple Random Sample.md",
-    "Set Theory Vocabulary.md",
-    "Sequence.md",
-    "Sample.md",
-    "Reading List.md",
-    "Probability That Two Events Both Happen.md",
     "templates",
-    "images/ProbabilityDistDieRoll.jpg",
-    "images/EmpiricalDistDieRoll.jpg",
     "images",
     "public/tags/class/class.html",
     "public/tags/topic/topic.html",
