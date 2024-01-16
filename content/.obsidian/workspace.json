@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List.md",
+                "file": "2024-01-16.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "48e9c1035e530ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAT 2 Lecture 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Class/CAT_2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List.md",
+                "file": "CAT 2 Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,11 +161,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ac82f78da806aa45",
+  "active": "48e9c1035e530ec8",
   "lastOpenFiles": [
+    "2024-01-16.md",
+    "CAT 2 Lecture 3.md",
+    "Pasted image 20240116113821.png",
+    "Basis for the Kernel of T.md",
+    "Basis for The Image of T.md",
+    "Reading List.md",
     "50 Years of Data Science.md",
     "BBC Two HD Bridget Riley Painting the Line (2021).md",
-    "Reading List.md",
     "CAT 2 Lecture 2.md",
     "index.md",
     "images/ProbabilityDistDieRoll.jpg",
@@ -173,11 +191,6 @@
     "Transpose.md",
     "TQT Statistical Arbitrage.md",
     "Tools and Websites.md",
-    "TODO.md",
-    "The ith Row of AB is the Product of The ith Row of A and Matrix B.md",
-    "The ith Column of AB is Abi.md",
-    "The ith Column of A is Aei.md",
-    "Symbols.md",
     "templates",
     "images",
     "public/tags/class/class.html",
