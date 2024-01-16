@@ -7,7 +7,7 @@
 - Systematic Trading - Robert Carver
 - Trading Systems and Methods - Perry Kaufman
 - Advances in Financial Machine Learning - Marcos Lopez de Prado
-- The Leverage Space Trading Model - RalphVince
+- The Leverage Space Trading Model - Ralph Vince
 - The Mathematics of Money Management - Ralph Vince
 - Cycle Analytics for Traders - John Ehlers
 - Cybernetic Analysis for Stocks and Futures - John Ehlers
@@ -35,3 +35,4 @@
 - Algorithmic Trading - Ernest P. Chan
 - Building Winning Algorithmic Trading Systems - Kevin J. Davey
 - Trading Systems - Emilio Tomasini
+- Trades Quotes and Prices: Financial Markets Under the Microscope - Jean-Phillippe Bouchaud
