@@ -79,3 +79,26 @@ Engineering
 > - Sight
 > - Nociception
 > - Proprioception
+
+> [!note] Sound/hearing
+> Comparative Umwelten  
+> Human 20-20,000 hz, 300m  
+> Elephant 16-12,000 hz, 150 mi  
+> Whale 14hz-120,000 hz, over a thousand mi  
+
+> [!note] Imperceptibility
+> - Caffeine
+> - Climate Change
+> - Gravitational Waves
+> - Infrared light
+> - Pesticides
+> - Radiofrequency exposure
+> - VOCs (volatile organic compounds)
+
+> [!note] Art and sensory stimuli
+> Art starts with organization of sensory stimuli  
+> Artists organize sensory input  
+> Artists amplify and intensify sensory stimuli (Deleuze)  
+> (Some) artists are engineers of the sensory world  
+
+> [!note] Art CONTROLS what goes in your Umwelt
