@@ -62,3 +62,12 @@ date:
 > - `string.title()` changes to title case like a book
 > - `string.strip()` removes whitespace from beginning and end of the string
 
+> [!definition] Dictionaries
+> - Mutable storage of key, value pairs
+> - Can store any data type, multiple at a time
+> - Elements are accessed via keys
+> - Keys must be hashable and unique
+> Methods
+> - `dict.keys()` accessing keys
+> - `dict.values()` accessing as values
+> - `dict.items()` accessing key, value as pairs
