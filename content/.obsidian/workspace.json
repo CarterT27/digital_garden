@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 20C Lecture 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "72a3095c30123b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "DSC 20 Lecture 5.md",
                 "mode": "source",
                 "backlinks": false,
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,39 +158,39 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "72a3095c30123b54",
+  "active": "deff5ac1bb5bf9a1",
   "lastOpenFiles": [
-    "2024-01-16.md",
-    "2024-01-12.md",
-    "2024-01-11.md",
-    "2024-01-10.md",
-    "2024-01-09.md",
-    "2024-01-08.md",
-    "MATH 20C Lecture 5.md",
-    "2024-01-19.md",
-    "MATH 20D Lecture 4.md",
-    "DSC 20 Lecture 5.md",
-    "2024-01-18.md",
-    "Arithmetic Operations.md",
-    "50 Years of Data Science.md",
-    "Addition Rule.md",
-    "2024-01-17.md",
-    "CAT 2 Discussion 2.md",
-    "CAT 2 Lecture 4.md",
+    "templates/Python Code Template.md",
+    "templates/Note Template.md",
+    "templates/Math Theorem Template.md",
+    "templates/Math Proposition Template.md",
+    "templates/Math Example Template.md",
+    "templates/Math Definition Template.md",
+    "templates/Example Template.md",
+    "templates/Definition Template.md",
+    "templates/Daily Note Template.md",
+    "templates",
     "index.md",
-    "DSC 20 Discussion 2.md",
-    "COGS 9 Lecture 4.md",
-    "Assignment Statement.md",
-    "Array.md",
-    "BBC Two HD Bridget Riley Painting the Line (2021).md",
-    "Basis for The Image of T.md",
-    "MATH 20C Lecture 4.md",
-    "DSC 20 Lecture 4.md",
-    "Pasted image 20240116113821.png",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",
-    "templates",
     "images",
+    "Winter 2024 Homepage.md",
+    "Variable.md",
+    "Transpose.md",
+    "Transpose of Product.md",
+    "Tools and Websites.md",
+    "The ith Row of AB is the Product of The ith Row of A and Matrix B.md",
+    "The ith Column of AB is Abi.md",
+    "The ith Column of A is Aei.md",
+    "TQT Statistical Arbitrage.md",
+    "TODO.md",
+    "Symbols.md",
+    "Subspace of R^n.md",
+    "Subset of R^n.md",
+    "String Methods.md",
+    "String Data Type.md",
+    "Statistical Inference.md",
+    "Pasted image 20240116113821.png",
     "public/tags/class/class.html",
     "public/tags/topic/topic.html",
     "public/Data-Type.html",
