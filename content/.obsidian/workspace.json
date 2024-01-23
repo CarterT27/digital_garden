@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b33e9a7289a8b357",
+        "id": "94cb7aa1f5444c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "208e9809110426a8",
+            "id": "b241f09bbcb6d8ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MATH 20C Lecture 6.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MATH 20C Lecture 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "MATH 20C Lecture 6.md"
+              }
             }
           }
         ],
@@ -150,13 +158,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "208e9809110426a8",
+  "active": "b241f09bbcb6d8ae",
   "lastOpenFiles": [
-    "MATH 20D Lecture 5.md",
-    "2024-01-19.md",
     "MATH 20C Lecture 5.md",
-    "MATH 20C Lecture 4.md",
+    "MATH 20C Lecture 6.md",
+    "2024-01-22.md",
     "COGS 9 Lecture 5.md",
+    "MATH 20D Lecture 4.md",
+    "DSC 20 Lecture 6.md",
+    "MATH 20D Lecture 5.md",
+    "COGS 9 Discussion 1.md",
+    "MATH 20C Lecture 4.md",
+    "2024-01-19.md",
     "COGS 9 Lecture 4.md",
     "DSC 20 Lecture 5.md",
     "2024-01-08.md",
@@ -177,11 +190,6 @@
     "Winter 2024 Homepage.md",
     "Variable.md",
     "Transpose.md",
-    "Transpose of Product.md",
-    "Tools and Websites.md",
-    "The ith Row of AB is the Product of The ith Row of A and Matrix B.md",
-    "The ith Column of AB is Abi.md",
-    "The ith Column of A is Aei.md",
     "Pasted image 20240116113821.png",
     "public/tags/class/class.html",
     "public/tags/topic/topic.html",

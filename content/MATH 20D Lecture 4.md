@@ -55,7 +55,7 @@ date:
 > General solution in implicit form: $\implies(y-2x)(y+2x)^3=C$  
 
 > [!definition] Linear First-Order Equation
-> $\frac{dy}{dx}=P(x)y=Q(x)$  
+> $\frac{dy}{dx}+P(x)y=Q(x)$  
 > y: dependent variable, x: independent variable, y(x) unknown
 
 > [!note] Method for solving 1st-Order Linear Equations
