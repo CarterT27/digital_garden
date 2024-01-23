@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a096f8945935517",
+        "id": "800474e596420061",
         "type": "tabs",
         "children": [
           {
-            "id": "499748cc5c66346e",
+            "id": "20da04c6f6d3cdea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Class/MATH_20C  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5722b8d4050374de",
@@ -150,17 +150,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "499748cc5c66346e",
+  "active": "20da04c6f6d3cdea",
   "lastOpenFiles": [
+    "MATH 20C Lecture 2.md",
+    "MATH 20C Lecture 1.md",
+    "Addition Rule.md",
+    "2024-01-09.md",
+    "2024-01-08.md",
+    "2024-01-19.md",
+    "2024-01-12.md",
+    "2024-01-17.md",
+    "2024-01-10.md",
+    "2024-01-11.md",
     "COGS 9 Lecture 6.md",
     "2024-01-22.md",
     "MATH 20D Lecture 6.md",
     "MATH 20C Lecture 6.md",
-    "2024-01-08.md",
-    "2024-01-09.md",
-    "2024-01-12.md",
-    "2024-01-10.md",
-    "2024-01-11.md",
     "MATH 20C Lecture 5.md",
     "COGS 9 Lecture 5.md",
     "MATH 20D Lecture 4.md",
@@ -168,16 +173,11 @@
     "MATH 20D Lecture 5.md",
     "COGS 9 Discussion 1.md",
     "MATH 20C Lecture 4.md",
-    "2024-01-19.md",
     "COGS 9 Lecture 4.md",
     "DSC 20 Lecture 5.md",
     "templates/Python Code Template.md",
     "templates/Note Template.md",
     "templates/Math Theorem Template.md",
-    "templates/Math Proposition Template.md",
-    "templates/Math Example Template.md",
-    "templates/Math Definition Template.md",
-    "templates/Example Template.md",
     "templates",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",

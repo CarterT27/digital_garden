@@ -33,7 +33,8 @@ $\vec{v}=<a,b>,\vec{w}=<c,d>,\lambda\in\mathbb{R}$
 > [!note] Scalar Multiplication
 > $\lambda\vec{v}=<\lambda a,\lambda b>$
 
-> [!example] Computing Linear Combinations ($3\vec{v}-2\vec{w}$)
+> [!example] Computing Linear Combinations
+> $3\vec{v}-2\vec{w}$
 > $\vec{v}=<1,4>\vec{w}=<2,3>$
 > $3\vec{v}-2\vec{w}=3<1,4>-2<2,3>$
 > $=<3,12>-<4,6>$
@@ -56,13 +57,14 @@ $\vec{v}=<a,b>,\vec{w}=<c,d>,\lambda\in\mathbb{R}$
 > A **linear combination** of $\vec{v}$ and $\vec{w}$ is a vector of the form $r\vec{v}+s\vec{w}$ where $r,s$ are scalars
 > e.g. $2\vec{v}+3\vec{w},5\vec{v}-\vec{w},\vec{v},\dots$
 
-> [!example] Standard basis vectors $\vec{i},\vec{j}$
-> $\vec{i}=<1,0>,\vec{j}=<0,1>$
-> Any $\vec{v}\in\mathbb{R}^2$ is a unique linear combination of $\vec{i},\vec{j}$.
-> $\vec{v}=<a,b>\in\mathbb{R}^2=r\vec{i}+s\vec{j}$ has the unique solution $r=a,s=b$
-> $\vec{v}=<a,b>=a\vec{i}+b\vec{j}$
-> Check:
-> $a\vec{i}+b\vec{j}=a<1,0>+b<0,1>\impliedby a,0>+<0,b>=<a,b>$
+> [!example] Standard basis vectors
+> $\vec{i},\vec{j}$  
+> $\vec{i}=<1,0>,\vec{j}=<0,1>$  
+> Any $\vec{v}\in\mathbb{R}^2$ is a unique linear combination of $\vec{i},\vec{j}$.  
+> $\vec{v}=<a,b>\in\mathbb{R}^2=r\vec{i}+s\vec{j}$ has the unique solution $r=a,s=b$  
+> $\vec{v}=<a,b>=a\vec{i}+b\vec{j}$  
+> Check:  
+> $a\vec{i}+b\vec{j}=a<1,0>+b<0,1>\impliedby a,0>+<0,b>=<a,b>$  
 
 ## Direction of vectors
 
@@ -79,7 +81,8 @@ $\vec{v}=<a,b>,\vec{w}=<c,d>,\lambda\in\mathbb{R}$
 > [!note] If $\vec{e}$ is a unit vector, $\vec{e}=<a,b>=<\cos \theta,\sin \theta>$
 > $x\text{ degrees}=\frac{x}{180}\pi \text{ radians}$
 
-> [!note] For any $\vec{v}=<v_{1},v_{2}>$, we can obtain a unique unit vector in the same direction.
+> [!note] For any vector, we can obtain a unique unit vector in the same direction.
+> $\vec{v}=<v_{1},v_{2}>$  
 > $\vec{e}_{v}=\frac{\vec{v}}{||\vec{v}||}=\frac{1}{||\vec{v}||}\vec{v}$
 > Check:
 > $||\frac{1}{||\vec{v}||}\vec{v}||=\frac{1}{||\vec{v}||}||\vec{v}||=1$
