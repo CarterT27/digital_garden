@@ -32,5 +32,10 @@ date:
 > - Best algorithms vary with dataset type
 > - Focus on results, not the data's true source
 
-https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022/data
-https://www.kaggle.com/datasets/ludmin/billboard
+> [!note] Project Ideas
+> https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022/data  
+> - Predict how popular a song will be on tiktok given certain features?
+> - Merge lyrics data to dataset and do topic modeling NLP to determine common topics, phrases, etc.
+> https://www.kaggle.com/datasets/ludmin/billboard  
+> - Sentiment analysis to determine if popular songs are more happy, sad, lovey, etc.
+> - Correlation between billboard, radio, hot1000, etc.?

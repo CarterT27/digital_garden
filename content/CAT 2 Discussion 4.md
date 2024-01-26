@@ -81,3 +81,12 @@ date:
 > - Make sure your writing makes sense if you read it aloud to yourself
 > - When in doubt, write out the whole idea. You can cut it down later.
 > - Beware of overusing your thesaurus!
+
+> [!note] Things to check before declaring a draft finished
+> - Is there a thesis claim? Is it strong?
+> - Does your paper's organization serve to support your claim?
+> - Is your evidence presented well? Have you explained it?
+> - Are your citations correct?
+> - Does it flow: transitions between paragraphs? Sentences within paragraphs?
+> - Does it sound reasonable when read aloud?
+> - Is it free of spelling and grammar errors?

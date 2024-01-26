@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8d96df072105564f",
+        "id": "821abc9dfcf02af6",
         "type": "tabs",
         "children": [
           {
-            "id": "2110b60da57ef5ab",
+            "id": "30a356524378514a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 20D Lecture 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06b0db6e18c0d9e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAT 2 Discussion 4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAT 2 Discussion 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "CAT 2 Discussion 4.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,11 +151,20 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "06b0db6e18c0d9e8",
+  "active": "30a356524378514a",
   "lastOpenFiles": [
-    "2024-01-25.md",
-    "CAT 2 Discussion 4.md",
     "MATH 20D Lecture 7.md",
+    "COGS 9 Discussion 1.md",
+    "CAT 2 Discussion 4.md",
+    "CAT 2 Discussion 3.md",
+    "2024-01-08.md",
+    "2024-01-18.md",
+    "2024-01-09.md",
+    "2024-01-19.md",
+    "2024-01-22.md",
+    "2024-01-16.md",
+    "2024-01-12.md",
+    "2024-01-25.md",
     "MATH 20C Lecture 7.md",
     "CAT 2 Lecture 6.md",
     "2024-01-24.md",
@@ -185,22 +172,13 @@
     "DSC 20 Lecture 1.md",
     "DSC 20 Discussion 3.md",
     "DSC 20 Lecture 7.md",
-    "2024-01-08.md",
-    "2024-01-09.md",
-    "2024-01-16.md",
-    "2024-01-12.md",
     "2024-01-10.md",
     "2024-01-11.md",
     "MATH 20D Lecture 6.md",
-    "CAT 2 Discussion 3.md",
     "2024-01-23.md",
     "CAT 2 Lecture 5.md",
     "2024-01-17.md",
     "MATH 20C Lecture 2.md",
-    "MATH 20C Lecture 1.md",
-    "Addition Rule.md",
-    "2024-01-19.md",
-    "COGS 9 Lecture 6.md",
     "templates",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",
