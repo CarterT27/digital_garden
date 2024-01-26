@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Variable
-> A place to store a value so it can be used later in code.
+> A place to store a value so it can be used later in code.  
 
 Variables are defined using an [[Assignment Statement|assignment statement]].
 
@@ -25,28 +25,28 @@ undefined_variable # Prints nothing, the value is None
 
 ---
 
-Variables should have helpful, descriptive names so you know what they refer to.  
+Variables should have helpful, descriptive names so you know what they refer to.
 > [!warning] Unhelpful variable names
-> ```python
-> six = 15
-> i_45love_chocolate_9999 = 60 * 60 * 24 * 365
-> ```
+> ```python  
+> six = 15  
+> i_45love_chocolate_9999 = 60 * 60 * 24 * 365  
+> ```  
 
-Variable names can contain uppercase and lowercase characters, the digits 0-9, and underscores.  
+Variable names can contain uppercase and lowercase characters, the digits 0-9, and underscores.
 > [!success] Helpful variable names
-> ```python
-> seconds_per_hour = 60 * 60
-> hours_per_year = 24 * 365
-> seconds_per_year = seconds_per_hour * hours_per_year
-> ```
+> ```python  
+> seconds_per_hour = 60 * 60  
+> hours_per_year = 24 * 365  
+> seconds_per_year = seconds_per_hour * hours_per_year  
+> ```  
 
-They cannot start with a number.  
-They are case sensitive!  
+They cannot start with a number.
+They are case sensitive!
 > [!error] Invalid variable names
-> ```python
-> 7_days = 24 * 7
-> 3 = 2 + 1
-> ```
+> ```python  
+> 7_days = 24 * 7  
+> 3 = 2 + 1  
+> ```  
 
 ---
 

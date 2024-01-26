@@ -1,10 +1,10 @@
 ---
 tags:
-  - Type/Note
-  - Topic/Neuroscience
-  - Class/CAT_2
+- Type/Note
+- Topic/Neuroscience
+- Class/CAT_2
 date:
-  - 2024-01-23
+- 2024-01-23
 ---
 
 # [CAT 2 Assignment Rubric](https://canvas.ucsd.edu/courses/52078/files/11313894?module_item_id=2134960)
@@ -20,29 +20,29 @@ date:
 
 > [!note] Assignment 1
 > "Choose one sense other than vision that has been employed in these works and make an argument about the best way that sense is represented visually."  
-> 1. You can choose touch, smell, proprioception, nociception, taste, etc. that is being evoked by the artwork. 
-> 2. Describe particular parts of the artwork itself and relate your description to the sense you choose
-> 3. Only write about ONE ARTWORK and ONE SENSE that is evoked
-> 4. This prompt is asking you to think critically about the artwork
-> 5. Address WHY your argument is important
+> 1. You can choose touch, smell, proprioception, nociception, taste, etc. that is being evoked by the artwork.  
+> 2. Describe particular parts of the artwork itself and relate your description to the sense you choose  
+> 3. Only write about ONE ARTWORK and ONE SENSE that is evoked  
+> 4. This prompt is asking you to think critically about the artwork  
+> 5. Address WHY your argument is important  
 
 > [!note] Principles of Art/Design
-> 1. Balance
-> 2. Contrast
-> 3. Emphasis
-> 4. Movement
-> 5. Pattern
-> 6. Rhythm
-> 7. Unity/variety
+> 1. Balance  
+> 2. Contrast  
+> 3. Emphasis  
+> 4. Movement  
+> 5. Pattern  
+> 6. Rhythm  
+> 7. Unity/variety  
 
 > [!note] Elements of Art
-> 1. Line
-> 2. Shape
-> 3. Color
-> 4. Value
-> 5. From
-> 6. Texture
-> 7. Space
+> 1. Line  
+> 2. Shape  
+> 3. Color  
+> 4. Value  
+> 5. From  
+> 6. Texture  
+> 7. Space  
 
 > [!note] What makes a good claim?
 > Contestable (people can argue against it)  
@@ -51,4 +51,4 @@ date:
 > Answers a question or address a problem that will be interesting to readers.  
 
 > [!note] Template for argument
-> (Insert artwork name) by (insert artist name) employs the sense of (insert sense other than vision) by utilizing (insert principle(s) and/or element(s) of art).
+> (Insert artwork name) by (insert artist name) employs the sense of (insert sense other than vision) by utilizing (insert principle(s) and/or element(s) of art).  

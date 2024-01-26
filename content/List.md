@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] List
-> In Python, a **list** is used to store multiple values within a single value.
+> In Python, a **list** is used to store multiple values within a single value.  
 
 ```python
 temperature_list = [68, 73, 70, 74, 76, 72, 74]

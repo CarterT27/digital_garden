@@ -1,10 +1,10 @@
 ---
 tags:
-  - Type/Note
-  - Topic/Data_Science
-  - Class/COGS_9
+- Type/Note
+- Topic/Data_Science
+- Class/COGS_9
 date:
-  - 2024-01-15
+- 2024-01-15
 ---
 
 > [!note] Data Science Versus Statistics
@@ -12,8 +12,8 @@ date:
 > Some people see data science as not needing statistics at all, even making statistics irrelevant.  
 
 > [!note] The "Big Data" Meme
-> - History: Big data has been around for over 200 years (US Census)
-> - Science: statisticians discovered sampling and sufficiency because they care about large datasets
+> - History: Big data has been around for over 200 years (US Census)  
+> - Science: statisticians discovered sampling and sufficiency because they care about large datasets  
 
 > [!note] The "Skills" Meme
 > Big data skills are not for solving the real problems, rather, they are coping skills for dealing with large-scale clustering of data.  
@@ -40,22 +40,22 @@ date:
 # The Predictive Culture's Secret Sauce
 
 > [!note] The Common Task Framework (CTF)
-> 1. A public available training set with observations with a list of features and a class label
-> 2. A set of competitors who are trying to infer a class prediction rule from the data
-> 3. A referee that runs the prediction rule against a testing dataset and automatically reports the prediction score of the rule
+> 1. A public available training set with observations with a list of features and a class label  
+> 2. A set of competitors who are trying to infer a class prediction rule from the data  
+> 3. A referee that runs the prediction rule against a testing dataset and automatically reports the prediction score of the rule  
 
 > [!note] Experience with CTF
-> 1. Error rates decline each year, asymptoting based on task and data quality
-> 2. Progress comes from many small improvements
-> 3. Shared data plays a crucial role
+> 1. Error rates decline each year, asymptoting based on task and data quality  
+> 2. Progress comes from many small improvements  
+> 3. Shared data plays a crucial role  
 
 > [!definition] Data Scientist
-> Person who is better at statistics than any software engineer and better at software engineering than any statistician.
+> Person who is better at statistics than any software engineer and better at software engineering than any statistician.  
 
 > [!note] Six Divisions of Greater Data Science
-> 1. Data Gathering, Preparation, and Exploration
-> 2. Data Representation and Transformation
-> 3. Computing with Data
-> 4. Data Modeling
-> 5. DataVisualization and Presentation
-> 6. Science about Data Science
+> 1. Data Gathering, Preparation, and Exploration  
+> 2. Data Representation and Transformation  
+> 3. Computing with Data  
+> 4. Data Modeling  
+> 5. DataVisualization and Presentation  
+> 6. Science about Data Science  

@@ -6,18 +6,18 @@ tags:
 - "Topic/Linear_Algebra"
 - "Class/MATH_31AH"
 ---
-Types: <i>Not Applicable</i>  
-Examples: <i>Not Applicable</i>  
-Constructions: <i>Not Applicable</i>  
-Generalizations: <i>Not Applicable</i>  
+Types: <i>Not Applicable</i>
+Examples: <i>Not Applicable</i>
+Constructions: <i>Not Applicable</i>
+Generalizations: <i>Not Applicable</i>
 
-Properties: <i>Not Applicable</i>  
-Sufficiencies: <i>Not Applicable</i>  
-Equivalences: <i>Not Applicable</i>  
-Justifications: <i>Not Applicable</i>  
+Properties: <i>Not Applicable</i>
+Sufficiencies: <i>Not Applicable</i>
+Equivalences: <i>Not Applicable</i>
+Justifications: <i>Not Applicable</i>
 
 > [!definition] Onto
-> A [[function]] $f:X->Y$ is _onto_ (or _surjective_) if for every $y\in Y$ there exists $x\in X$ such that $f(x)=y$.
+> A [[function]] $f:X->Y$ is _onto_ (or _surjective_) if for every $y\in Y$ there exists $x\in X$ such that $f(x)=y$.  
 
 **Remark.** $f$ is onto if there is a solution to the equation $f(x)=b$ for every $b$ in the codomain. "Onto" is a way to talk about the _existence of solutions_.
 

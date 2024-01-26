@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Concatenation
-> **Concatenation** is the addition of two [[String Data Type|strings]].
+> **Concatenation** is the addition of two [[String Data Type|strings]].  
 
 ```python
 s1 = 'baby'

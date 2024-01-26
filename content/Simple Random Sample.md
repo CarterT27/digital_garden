@@ -1,22 +1,22 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Simple Random Sample (SRS)
-> A **simple random sample** is a [[Sample|sample]] drawn **uniformly** at random **without replacement**.
-> - "Uniformly" means every individual has the same chance of being selected.
-> - "Without replacement" means we won't pick the same individual more than once.
+> A **simple random sample** is a [[Sample|sample]] drawn **uniformly** at random **without replacement**.  
+> - "Uniformly" means every individual has the same chance of being selected.  
+> - "Without replacement" means we won't pick the same individual more than once.  
 
 To perform an SRS from a [[list]] or [[array]] `options`, we use `np.random.choice(options, n, replace=False)`.
 ```python
-staff = ['Oren Ciolli', 'Nate Del Rosario', 'Jack Determan', 'Sophia Fang', 'Charlie Gillet', 
-         'Ashley Ho', 'Henry Ho', 'Vanessa Hu', 'Leena Kang', 'Norah Kerendian', 'Anthony Li', 'Weiyue Li', 
-         'Jasmine Lo', 'Arjun Malleswaran', 'Mert Ozer', 'Baby Panda', 'Arya Rahnama', 'Aaron Rasin', 'Chandiner Rishi', 'Gina Roberg', 
-         'Harshi Saha', 'Keenan Serrao', 'Abel Seyoum', 'Suhani Sharma', 'Yutian Shi', 'Ester Tsai', 
-         'Bill Wang', 'Ylesia Wu', 'Jason Xu', 'Diego Zavalza', 'Ciro Zhang']
+staff = ['Oren Ciolli', 'Nate Del Rosario', 'Jack Determan', 'Sophia Fang', 'Charlie Gillet',
+'Ashley Ho', 'Henry Ho', 'Vanessa Hu', 'Leena Kang', 'Norah Kerendian', 'Anthony Li', 'Weiyue Li',
+'Jasmine Lo', 'Arjun Malleswaran', 'Mert Ozer', 'Baby Panda', 'Arya Rahnama', 'Aaron Rasin', 'Chandiner Rishi', 'Gina Roberg',
+'Harshi Saha', 'Keenan Serrao', 'Abel Seyoum', 'Suhani Sharma', 'Yutian Shi', 'Ester Tsai',
+'Bill Wang', 'Ylesia Wu', 'Jason Xu', 'Diego Zavalza', 'Ciro Zhang']
 
 # Simple random sample of 4 course staff members.
 np.random.choice(staff, 4, replace=False)

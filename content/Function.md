@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Function
-> A **function** is a reusable block of code that has inputs, **arguments**, and can **return** a value when it is **called**.
+> A **function** is a reusable block of code that has inputs, **arguments**, and can **return** a value when it is **called**.  
 
 ```python
 abs(-23) # 23

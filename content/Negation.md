@@ -5,12 +5,12 @@ tags:
 - "Topic/Linear_Algebra"
 - "Class/MATH_31AH"
 ---
-Proved by: <i>Not Applicable</i>  
-References: [[Set Theory Vocabulary]]  
-Justifications: <i>Not Applicable</i>  
+Proved by: <i>Not Applicable</i>
+References: [[Set Theory Vocabulary]]
+Justifications: <i>Not Applicable</i>
 
-Specializations: <i>Not Applicable</i>  
-Generalizations: <i>Not Applicable</i>  
+Specializations: <i>Not Applicable</i>
+Generalizations: <i>Not Applicable</i>
 
 > [!theorem] Negation
 > 1. The opposite of \[For all $x,P(x)$ is true\]  
@@ -23,7 +23,7 @@ Generalizations: <i>Not Applicable</i>
 > Symbolically the same sentence is written  
 > _The opposite of_ $(\exists x)P(x)$ _is_ $(\forall x)\text{ not }P(x)$_._  
 
-**Remark.** A mathematical statement is true if and only if its opposite is true. 
+**Remark.** A mathematical statement is true if and only if its opposite is true.
 Another way to say this is that the opposite of a statement being true implies the statement to be true.
 
 ---

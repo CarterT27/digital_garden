@@ -1,10 +1,10 @@
 ---
 tags:
-  - "Type/Note"
-  - "Topic/Neuroscience"
-  - "Class/CAT_2"
+- "Type/Note"
+- "Topic/Neuroscience"
+- "Class/CAT_2"
 date:
-  - 2024-01-09
+- 2024-01-09
 ---
 
 The Third Culture https://www.science.org/doi/10.1126/science.279.5353.992

@@ -1,13 +1,13 @@
 ---
 tags:
-  - "Type/Remark"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Remark"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!example] Conversion To and From Strings
 > Any value can be converted to a string using `str`.  
-> Some strings can be converted to `int` and `float`.
+> Some strings can be converted to `int` and `float`.  
 
 ```python
 str(3) # '3'
