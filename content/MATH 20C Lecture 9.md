@@ -23,3 +23,18 @@ date:
 > [!definition] Fundamental Theorem of Calculus for Vector-Valued Functions
 > 1. If $\vec{r}(t)$ is continuous on $[a,b]$ and $\vec{R}(t)$ is an antiderivative of $\vec{r}(t)$  
 > Then $\int _{a}^b\vec{r}(t) \, \frac{d}{dt}=\vec{R}(t)|_{a}^b=\vec{R}(b)-\vec{R}(a)$  
+> 2. $\vec{r}(t)$ is continuous on an open interval $I$  
+> Let $a\in I$. Then,  
+> $\int _{a}^t\vec{r}(s) \, ds$ is an antiderivative of $\vec{r}(t)$  
+> i.e. $\frac{d}{dt}\left( \int _{a}^t \vec{r}(s)\, ds \right)=\vec{r}(t)$  
+
+# 13.3 Arc Length
+
+> [!note] Velocity vector
+> $\vec{r}(t)$ position vector  
+> Then  
+> 1. $\vec{v}(t)=\vec{r}'(t)$ is the **velocity vector**  
+> 2. $v(t)=\Vert\vec{v}(t)\Vert$ is the **speed function**  
+
+> [!note] Let $C$ be the curve parameterized by $\vec{r}(t)=\langle x(t), y(t), z(t) \rangle$ for $a\leq t\leq b$
+> Then the arc length $s$ of $C$ over $[a,b,]$ is $s=\int _{a}^bv(t) \, dt=\int _{a}^b\Vert\vec{v}(t)\Vert \, dt=\int _{a}^b\sqrt{ (x'(t))^2+(y'(t))^2+(z'(t))^2 } \, dt$ = distance traveled  
