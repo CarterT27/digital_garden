@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd06e711b71b8a4",
+        "id": "7155ab48a3c2de27",
         "type": "tabs",
         "children": [
           {
-            "id": "55285db1aa2e96ec",
+            "id": "6ccb30d4bd7da914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MATH 20C Lecture 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "88b3498527675929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 20D Lecture 9.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -159,15 +172,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "55285db1aa2e96ec",
+  "active": "6ccb30d4bd7da914",
   "lastOpenFiles": [
-    "2024-01-29.md",
+    "COGS 9 Lecture 9.md",
     "MATH 20C Lecture 9.md",
+    "MATH 20D Lecture 9.md",
+    "2024-01-29.md",
+    "MATH 20D Lecture 8.md",
     "DSC 20 Lecture 9.md",
     "COGS 9 Discussion 2.md",
-    "COGS 9 Lecture 9.md",
     "MATH 20C Lecture 6.md",
-    "MATH 20D Lecture 8.md",
     "2024-01-26.md",
     "COGS 9 Lecture 8.md",
     "MATH 20C Lecture 8.md",
@@ -187,7 +201,6 @@
     "COGS 9 Discussion Group Meeting 1.md",
     "COGS 9 Discussion 1.md",
     "COGS 9 Lecture 3.md",
-    "COGS 9 Lecture 5.md",
     "templates",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",

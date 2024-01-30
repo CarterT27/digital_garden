@@ -1,10 +1,10 @@
 ---
 tags:
-  - Type/Note
-  - Topic/Differential_Equations
-  - Class/MATH_20D
+- Type/Note
+- Topic/Differential_Equations
+- Class/MATH_20D
 date:
-  - 2024-01-26
+- 2024-01-26
 ---
 
 # Sections 4.4 & 4.5 - The Method of Undetermined Coefficients (a.k.a. Making educated guesses)
@@ -18,11 +18,11 @@ date:
 > $Y_{P}$: any particular solution to the non-hom. eqn  
 > $$ay''+by'+cy=g(t)$$  
 > For certain RHS, we can make a guess for what $Y_{P}$ will be.  
-> Here $g(t)$ must be one of:
-> - Exponential: $e^{kt}$
-> - Polynomial: $a_{n}t^n+a_{n-1}t^{n-1}+\dots+a_{2}t^2+a_{1}t+a_{0}$
-> - $\sin(kt)$ and/or $\cos(kt)$
-> - any product/combo of the above 3
+> Here $g(t)$ must be one of:  
+> - Exponential: $e^{kt}$  
+> - Polynomial: $a_{n}t^n+a_{n-1}t^{n-1}+\dots+a_{2}t^2+a_{1}t+a_{0}$  
+> - $\sin(kt)$ and/or $\cos(kt)$  
+> - any product/combo of the above 3  
 
 > [!note] $g(t)=ke^{\omega t}$
 > $t$: indep. variable  
@@ -45,4 +45,4 @@ date:
 > Now there's no more "conflict", we can use $y_{P}=Ate^{3t}$ and plug it into the ODE to solve for $A$.  
 > LHS = $y_{P}''-2y_{P}'-3y_{P}=6Ae^{3t}+9Ate^{3t}-2Ae^{3t}-6Ate^{3t}-3Ate^{3t}=4Ae^{3t}$  
 > With RHS = $5e^{3t}$, we have $5e^{3t}=4Ae^{3t}$ so $5=4A\implies A=\frac{5}{4}$ thus, $y_{P}=\frac{5}{4}te^3t$  
-> General soln: $y(t)=y_{H}+y_{P}=c_{1}e^{-t}+c_{2}e^{3t}+\frac{5}{4}te^{3t}$
+> General soln: $y(t)=y_{H}+y_{P}=c_{1}e^{-t}+c_{2}e^{3t}+\frac{5}{4}te^{3t}$  
