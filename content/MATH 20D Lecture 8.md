@@ -7,6 +7,24 @@ date:
 - 2024-01-26  
 ---  
   
+# Section 4.2 - How to solve $ay''+by'+cy=0$  
+  
+Look for solutions of the form $y(t)=e^{rt}$  
+  
+In general, given the second-order equation $ay''+by'+c=0$ whose characteristic equation is $ar^2+br+c=0$. The roots of this characteristic equation is given by  
+$$r=\frac{-b\pm \sqrt{ b^2-4ac }}{2a}$$  
+  
+There are now three cases:  
+1. If $b^2-4ac>0$ then the characteristic equation has two **distinct, real-valued** roots $r_{1},r_{2}$. The solution to the ODE $ay''+by'+c=0$ is  
+$$y=C_{1}e^{r_{1}t}+C_{2}e^{r_{2}t}$$  
+for arbitrary constants $C_{1},C_{2}$.  
+2. If $b^2-4ac=0$ then the characteristic equation has a **repeated root** $r$. The solution to the ODE $ay''+by'+c=0$ is  
+$$y=C_{1}e^{rt}+C_{2}te^{rt}$$  
+for arbitrary constants $C_{1},C_{2}$.  
+3. If $b^2-4ac<0$ then the characteristic equation has **complex roots** $r_{1,2}=\lambda\pm i\mu$ where $\lambda=-b/2a$ and $\mu=\sqrt{ 4ac-b^2 }/2a$. The solution to the ODE $ay''+by'+c=0$ is  
+$$y=e^{\lambda t}(C_{1}\cos(\mu t)+C_{2}\sin(\mu t))$$  
+for arbitrary constants $C_{1},C_{2}$.  
+  
 # Sections 4.4 & 4.5 - The Method of Undetermined Coefficients (a.k.a. Making educated guesses)  
   
 > [!note] Undetermined Coefficients Method  
