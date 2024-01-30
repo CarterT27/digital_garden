@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85adbbe8906d3de1",
+        "id": "4cd06e711b71b8a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e1314af18ca933a3",
+            "id": "55285db1aa2e96ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e1314af18ca933a3",
+  "active": "55285db1aa2e96ec",
   "lastOpenFiles": [
     "2024-01-29.md",
     "MATH 20C Lecture 9.md",
