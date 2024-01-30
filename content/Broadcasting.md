@@ -1,13 +1,13 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Broadcasting
-> https://numpy.org/doc/stable/user/basics.broadcasting.html
-> **Broadcasting** is the process in [[Numpy]] that makes it easy to perform the same operation to every element in an [[Array|array]]. 
+> https://numpy.org/doc/stable/user/basics.broadcasting.html  
+> **Broadcasting** is the process in [[Numpy]] that makes it easy to perform the same operation to every element in an [[Array|array]].  
 
 ```python
 temperature_array # array([68, 73, 70, 74, 76, 72, 74])

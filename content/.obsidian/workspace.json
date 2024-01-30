@@ -11,8 +11,13 @@
             "id": "55285db1aa2e96ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MATH 20C Lecture 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "area",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MATH 20C Lecture 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "MATH 20C Lecture 9.md"
+              }
             }
           }
         ],
@@ -152,36 +161,37 @@
   },
   "active": "55285db1aa2e96ec",
   "lastOpenFiles": [
-    "MATH 20D Lecture 5.md",
-    "2024-01-19.md",
-    "MATH 20C Lecture 5.md",
-    "MATH 20C Lecture 4.md",
-    "COGS 9 Lecture 5.md",
-    "COGS 9 Lecture 4.md",
-    "DSC 20 Lecture 5.md",
+    "2024-01-29.md",
+    "MATH 20C Lecture 9.md",
+    "DSC 20 Lecture 9.md",
+    "COGS 9 Discussion 2.md",
+    "COGS 9 Lecture 9.md",
+    "MATH 20C Lecture 6.md",
+    "MATH 20D Lecture 8.md",
+    "2024-01-26.md",
+    "COGS 9 Lecture 8.md",
+    "MATH 20C Lecture 8.md",
+    "DSC 20 Lecture 8.md",
     "2024-01-08.md",
-    "templates/Python Code Template.md",
-    "templates/Note Template.md",
-    "templates/Math Theorem Template.md",
-    "templates/Math Proposition Template.md",
-    "templates/Math Example Template.md",
-    "templates/Math Definition Template.md",
-    "templates/Example Template.md",
-    "templates/Definition Template.md",
-    "templates/Daily Note Template.md",
+    "2024-01-18.md",
+    "2024-01-09.md",
+    "2024-01-19.md",
+    "2024-01-22.md",
+    "2024-01-16.md",
+    "2024-01-12.md",
+    "2024-01-23.md",
+    "2024-01-17.md",
+    "2024-01-10.md",
+    "2024-01-11.md",
+    "Basis for The Image of T.mdtest",
+    "COGS 9 Discussion Group Meeting 1.md",
+    "COGS 9 Discussion 1.md",
+    "COGS 9 Lecture 3.md",
+    "COGS 9 Lecture 5.md",
     "templates",
-    "index.md",
     "images/ProbabilityDistDieRoll.jpg",
     "images/EmpiricalDistDieRoll.jpg",
     "images",
-    "Winter 2024 Homepage.md",
-    "Variable.md",
-    "Transpose.md",
-    "Transpose of Product.md",
-    "Tools and Websites.md",
-    "The ith Row of AB is the Product of The ith Row of A and Matrix B.md",
-    "The ith Column of AB is Abi.md",
-    "The ith Column of A is Aei.md",
     "Pasted image 20240116113821.png",
     "public/tags/class/class.html",
     "public/tags/topic/topic.html",
@@ -190,7 +200,6 @@
     "public/tags/topic/data_.html",
     "public/index.xml",
     "public/sitemap.xml",
-    "public/Import-Statement.html",
     "public/static/og-image.png",
     "public/static/icon.png"
   ]

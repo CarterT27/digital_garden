@@ -1,13 +1,13 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Element-Wise Arithmetic
 > Operations that are computed**element-wise** mean that the arithmetic operation is applied to one pair of elements from each [[Array|array]] at a time.  
-> Both arrays must have the same length.
+> Both arrays must have the same length.  
 
 ```python
 a = np.array([4, 5, -1])

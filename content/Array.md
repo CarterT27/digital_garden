@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Array
-> **Arrays** are a [[Numpy]] [[Data Type|data type]] similar to [[List|lists]], but optimized with additional support for mathematical functions in Numpy. 
+> **Arrays** are a [[Numpy]] [[Data Type|data type]] similar to [[List|lists]], but optimized with additional support for mathematical functions in Numpy.  
 
 ```python
 import numpy as np
@@ -18,9 +18,9 @@ another_temperature_array = np.array(temperature_list) # no brackets because tem
 
 ---
 
-We can access elements in an `array` or `list` by their position.  
-In Python, elements are 0-indexed(meaning the position of the first element in an array is 0, not 1).  
-One interpretation of this is that an element's position represents the number of elements before it.  
+We can access elements in an `array` or `list` by their position.
+In Python, elements are 0-indexed(meaning the position of the first element in an array is 0, not 1).
+One interpretation of this is that an element's position represents the number of elements before it.
 
 ```python
 temperature_array # array([68, 73, 70, 74, 76, 72, 74])

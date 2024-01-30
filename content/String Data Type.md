@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] String Data Type
-> A **string** is a snippet of text of any length.
+> A **string** is a snippet of text of any length.  
 
 ```python
 type('woof') # str

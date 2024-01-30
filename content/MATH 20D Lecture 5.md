@@ -1,10 +1,10 @@
 ---
 tags:
-  - Type/Note
-  - Topic/Differential_Equations
-  - Class/MATH_20D
+- Type/Note
+- Topic/Differential_Equations
+- Class/MATH_20D
 date:
-  - 2024-01-19
+- 2024-01-19
 ---
 
 > [!note] $a\log_{b}(x)=\log_{b}(x^a)$
@@ -23,7 +23,7 @@ date:
 > Now we use initial value $x=1,y=-1/2$  
 > $-\frac{1}{2}=\frac{1}{4}+\frac{1}{3}-\frac{1}{2}+\frac{C}{1}\implies C=-\frac{7}{12}$  
 > Therefore, particular soln in explicit form is  
-> $y=\frac{x^2}{4}+\frac{x}{3}-\frac{1}{2}-\frac{7}{12x^2}$
+> $y=\frac{x^2}{4}+\frac{x}{3}-\frac{1}{2}-\frac{7}{12x^2}$  
 
 > [!note] Why does the choice of $u(x)=e^{\int P(x) \, dx}$ work?
 > Recall the standard form of our 1st-order linear ODE: $y'=P(x)y=Q(x)$  
@@ -35,17 +35,17 @@ date:
 > $\implies \frac{du}{u}=P(x)dx$  
 > $\implies \int \frac{du}{u}=\int P(x) \, dx$  
 > $\implies \ln(u)=\int P(x) \, dx$  
-> $\implies u=e^{\int P(x) \, dx}$
+> $\implies u=e^{\int P(x) \, dx}$  
 
 > [!definition] Exact ODEs
 > An **exact equation** has the form  
 > $$N(x,y)\frac{dy}{dx}+M(x,y)=0\text{ or }M(x,y)dx+N(x,y)dy=0$$  
-> where $\frac{\partial M(x,y)}{\partial y}=\frac{\partial N(x,y)}{\partial x}$ "cross deriv."
+> where $\frac{\partial M(x,y)}{\partial y}=\frac{\partial N(x,y)}{\partial x}$ "cross deriv."  
 
 > [!note] Method for Solving Exact Equations
 > In general, if $M(x,y)dx+N(x,y)dy=0$ is exact then there exists a function $F(x,y)$ such that  
 > $$M(x,y)=\frac{\partial F}{\partial x}\text{ and }N(x,y)=\frac{\partial F}{\partial y}.$$  
-> The *implicit solution is then given by * $F(x,y)=C.$
+> The *implicit solution is then given by * $F(x,y)=C.$  
 
 > [!question] Solve $(y^4-2)+4xy^3\frac{dy}{dx}=0$
 > 1. Integrate $\frac{\partial F}{\partial x}=M(x,y)$ with respect to $x$ to obtain  
@@ -57,4 +57,4 @@ date:
 > 3. Match the annswers from the previous steps to determine $F(x,y)$  
 > $xy^4-2x+c_{1}(y)=F(x,y)=xy^4+c_{2}(x)+0$  
 > $F(x,y)=xy^4-2x$  
-> Implicit soln: $F(x,y)=C$ or $xy^4-2x=C$
+> Implicit soln: $F(x,y)=C$ or $xy^4-2x=C$  

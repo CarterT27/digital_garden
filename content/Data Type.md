@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!definition] Data Type
-> **Data types** are the different **types** of [[Variable|variables]] in Python.
+> **Data types** are the different **types** of [[Variable|variables]] in Python.  
 
 You can determine the data type of a value by using `type()`
 ```python

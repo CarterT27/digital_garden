@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Assignment Statement
-> Assignment statements define variables by evaluating the expression on the right side and assigning the value to whatever is on the left side.
+> Assignment statements define variables by evaluating the expression on the right side and assigning the value to whatever is on the left side.  
 
 ```python
 zebra = 23 - 14

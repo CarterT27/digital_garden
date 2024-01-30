@@ -1,12 +1,12 @@
 ---
 tags:
-  - "Type/Definition"
-  - "Topic/Data_Science"
-  - "Class/DSC_10"
+- "Type/Definition"
+- "Topic/Data_Science"
+- "Class/DSC_10"
 ---
 
 > [!definition] Expression
-> An **expression** is a combination of values, operators, and functions that **evaluates** to some **value**.
+> An **expression** is a combination of values, operators, and functions that **evaluates** to some **value**.  
 
 ```python
 23 # Prints 23 when run as a cell in a Jupyter notebook

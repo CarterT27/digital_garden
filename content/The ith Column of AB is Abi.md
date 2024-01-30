@@ -1,16 +1,16 @@
 ---
 mathLink: The $i$th column of $AB$ is $A\vec{b}_{i}$
 tags:
-  - "Type/Proposition"
-  - "Topic/Linear_Algebra"
-  - "Class/MATH_31AH"
+- "Type/Proposition"
+- "Topic/Linear_Algebra"
+- "Class/MATH_31AH"
 ---
-Proved by: <i>Not Applicable</i>  
-References: <i>Not Applicable</i>  
-Justifications: <i>Not Applicable</i>  
+Proved by: <i>Not Applicable</i>
+References: <i>Not Applicable</i>
+Justifications: <i>Not Applicable</i>
 
-Specializations: <i>Not Applicable</i>  
-Generalizations: <i>Not Applicable</i>  
+Specializations: <i>Not Applicable</i>
+Generalizations: <i>Not Applicable</i>
 
 > [!proposition] The $i$th column of $AB$ is $A\vec{b}_{i}$
 
