@@ -1,15 +1,15 @@
----
-tags:
-- Type/Note
-- Topic/Differential_Equations
-- Class/MATH_20D
-date:
-- 2024-01-26
----
-
-# Sections 4.4 & 4.5 - The Method of Undetermined Coefficients (a.k.a. Making educated guesses)
-
-> [!note] Undetermined Coefficients Method
+---  
+tags:  
+- Type/Note  
+- Topic/Differential_Equations  
+- Class/MATH_20D  
+date:  
+- 2024-01-26  
+---  
+  
+# Sections 4.4 & 4.5 - The Method of Undetermined Coefficients (a.k.a. Making educated guesses)  
+  
+> [!note] Undetermined Coefficients Method  
 > Consider the non-homogenous second order linear equation with constant coefficients  
 > $$ay''+by'+cy=g(t),\text{ where }a\neq 0,g(t)\neq 0.$$  
 > Then the solution to this non-homogeneous equation, $Y(t)$, can be expressed in the form  
@@ -23,13 +23,13 @@ date:
 > - Polynomial: $a_{n}t^n+a_{n-1}t^{n-1}+\dots+a_{2}t^2+a_{1}t+a_{0}$  
 > - $\sin(kt)$ and/or $\cos(kt)$  
 > - any product/combo of the above 3  
-
-> [!note] $g(t)=ke^{\omega t}$
+  
+> [!note] $g(t)=ke^{\omega t}$  
 > $t$: indep. variable  
 > $k,w$: arbitrary parameters/constants  
 > Our guess for $Y_{P}$: $Y_{P}=Ae^{\omega t}$  
-
-> [!question] $y''-2y'-3y=e^{2t},\omega=2$
+  
+> [!question] $y''-2y'-3y=e^{2t},\omega=2$  
 > 1. Solve corresponding hom. eqn. for $y_{H}$. Here, we solve $y''-2y'-3y=0$ for $y_{H}$  
 > Chara. eqn.: $r^2-2r-3=0$ which has soln $r_{1}=3,r_{2}=-1$  
 > $(r-3)(r+1)=0$  

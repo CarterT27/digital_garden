@@ -1,21 +1,21 @@
----
-tags:
-- Type/Note
-- Topic/Calculus
-- Class/MATH_20C
-date:
-- 2024-01-22
----
-
-> [!note] Geometry of the cross product
+---  
+tags:  
+- Type/Note  
+- Topic/Calculus  
+- Class/MATH_20C  
+date:  
+- 2024-01-22  
+---  
+  
+> [!note] Geometry of the cross product  
 > Fact: Let $P$ be the parallelogram spanned by $\vec{v}$ and $\vec{w}$  
 > Area of $P=\Vert \vec{v}\times \vec{w}\Vert=\Vert\vec{v}\Vert\Vert \vec{w}\Vert \sin \theta$  
 > Area of $T=\frac{1}{2}\Vert\vec{v}\times \vec{w}\Vert$  
 > Volume of parallelepiped $D$ spanned by $\vec{u},\vec{v},\vec{w}$: $\text{Volume}(D)=\vert\vec{u}\cdot(\vec{v}\times \vec{w})\vert$  (order does not matter)  
-
-# 12.5 Planes in $\mathbb{R}^{3}$
-
-> [!definition] Plane
+  
+# 12.5 Planes in $\mathbb{R}^{3}$  
+  
+> [!definition] Plane  
 > A plane is an infinite, flat surface (2D).  
 > $P_{0}=(x_{0},y_{0},z_{0})$ an arbitrary point on $P$  
 > $\vec{n}=\langle a,b,c \rangle$ normal vector, perpendicular to all lines/vectors parallel to the plane  
