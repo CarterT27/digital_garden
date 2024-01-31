@@ -1,8 +1,8 @@
 ---  
 tags:  
 - Type/Note  
-- Topic/TOPIC  
-- Class/CLASS  
+- Topic/Data_Science  
+- Class/COGS_9  
 date:  
 - 2024-01-26  
 ---  
