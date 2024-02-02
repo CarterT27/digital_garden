@@ -1,3 +1,4 @@
 {
-  "template": "templates/Daily Note Template"
+  "template": "templates/Daily Note Template",
+  "autorun": true
 }
