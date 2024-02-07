@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Differential_Equations  
 - Class/MATH_20D  
 date:  
 - 2024-01-29  
----  
+---
   
 > [!note] $g(t)=k\cos(\omega t)\text{ or }g(t)=k\sin(\omega t)\text{ or both}$  
 > $Y_{P}=A\cos(\omega t)+B\sin(\omega t)$  

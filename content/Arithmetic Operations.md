@@ -1,14 +1,14 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Arithmetic Operations  
 >  
 > |Operation|Operator|Example|Value|  
-> |---|---|---|---|  
+> |---|---|---|---|
 > |Addition|`+`|`2 + 3`|`5`|  
 > |Subtraction|`-`|`2 - 3`|`-1`|  
 > |Multiplication|`*`|`2 * 3`|`6`|  

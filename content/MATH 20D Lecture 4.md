@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Differential_Equations  
 - Class/MATH_20D  
 date:  
 - 2024-01-17  
----  
+---
   
 > [!question] Integrate $\frac{dx}{(9x^2+4)^2}$  
 > $\frac{1}{(9x^2+4)^2}=\frac{1}{(9(x^2))}=\frac{1}{81}\frac{1}{\left( x^2+\frac{4}{9} \right)^2}=\frac{1}{81}\frac{1}{\left( \sqrt{ x^2+\left( \frac{2}{3} \right)^2 } \right)^4}$  

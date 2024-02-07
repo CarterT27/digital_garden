@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Sequence  
 > **Sequences** are ordered collections of several data values.  

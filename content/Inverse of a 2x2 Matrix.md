@@ -1,10 +1,10 @@
----  
+---
 mathLink: $\mathop{A^{-1}}_{2 \times 2}$  
 tags:  
 - "Type/Example"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  
 Constructions: <i>Not Applicable</i>  

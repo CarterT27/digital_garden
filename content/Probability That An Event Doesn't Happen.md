@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Probability That An Event Doesn't Happen  
 > The [[Probability|probability]] that $A$ **doesn't** happen is $1-P(A)$.  

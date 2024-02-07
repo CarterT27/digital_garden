@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Data_Science  
 - Class/DSC_20  
 date:  
 - 2024-01-19  
----  
+---
   
 > [!note] Dictionary iterates keys by default  
 > ```Python  

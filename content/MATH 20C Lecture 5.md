@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Calculus  
 - Class/MATH_20C  
----  
+---
   
 > [!note] Projection: Given $\vec{v}\neq \vec{0}$  
 > $\vec{u}_{\Vert\vec{v}}$ is the projection of $\vec{u}$ onto $\vec{v}$.  

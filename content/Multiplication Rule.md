@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Multiplication Rule  
 > The **multiplication rule** specifies how to compute the [[Probability|probability]] of both $A$ and $B$ happening, even if all [[Outcome|outcomes]] are not equally likely.  

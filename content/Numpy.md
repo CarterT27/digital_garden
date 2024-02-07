@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Numpy ("num pie")  
 > A Python library ([[Module|module]]) that provides support for [[Array|arrays]] and operations on them.  

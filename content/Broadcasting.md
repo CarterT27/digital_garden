@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Broadcasting  
 > https://numpy.org/doc/stable/user/basics.broadcasting.html  

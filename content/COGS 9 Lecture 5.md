@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Neuroscience  
 - Class/COGS_9  
 date:  
 - 2024-01-19  
----  
+---
   
 # Data & Data Types  
   

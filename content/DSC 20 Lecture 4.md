@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Data_Science  
 - Class/DSC_20  
 date:  
 - 2024-01-17  
----  
+---
   
 Source: https://docs.google.com/presentation/d/1B1uvAncCjrUJit6HcesvqkggYXr7nSk02cNN_FvAWtQ/edit#slide=id.g2b048740d87_0_71  
   

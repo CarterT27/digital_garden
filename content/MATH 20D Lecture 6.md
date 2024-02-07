@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Differential_Equations  
 - Class/MATH_20D  
 date:  
 - 2024-01-22  
----  
+---
   
 > [!note] Exact Equation  
 > $M(x,y)dx+N(x,y)dy=0$ where $\frac{\partial M(x,y)}{\partial y}=\frac{\partial N(x,y)}{\partial x}$ "cross derivative" or "mixed partial"  

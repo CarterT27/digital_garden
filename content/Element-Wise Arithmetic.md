@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Element-Wise Arithmetic  
 > Operations that are computed**element-wise** mean that the arithmetic operation is applied to one pair of elements from each [[Array|array]] at a time.  

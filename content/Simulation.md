@@ -1,16 +1,16 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Simulation  
 > The production of a computer model of something, especially for the purpose of study.  
   
 Simulations are used to estimate probabilities.  
   
----  
+---
   
 To perform a random experiment on the computer, we use `np.random.choice(options)`.  
 The input, `options`, is a list or array to choose from.  
@@ -41,7 +41,7 @@ np.random.choice(colleges, 3)
 # array(['Sixth', 'Sixth', 'Seventh'], dtype='<U17')  
 ```  
   
----  
+---
   
 > [!example] What is the probability of getting 60 or more heads if we flip 100 coins?  
 > **Plan:**  

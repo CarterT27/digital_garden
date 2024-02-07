@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Conditional Probabilities  
 > Two [[Event|events]] $A$ and $B$ can both happen. Suppose we know $A$ has happened, but we don't know if $B$ has.  

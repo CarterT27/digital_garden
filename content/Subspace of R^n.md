@@ -1,11 +1,11 @@
----  
+---
 aliases: subspace, vector subspace  
 mathLink: Subspace of $\mathbb{R}^n$  
 tags:  
 - "Type/Definition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  
 Constructions: <i>Not Applicable</i>  

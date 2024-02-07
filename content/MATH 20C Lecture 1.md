@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - "Type/Note"  
 - "Topic/Calculus"  
 - "Class/MATH_20C"  
 date:  
 - 2024-01-08  
----  
+---
   
 # Vectors as arrows  
 Vectors can be represented as arrows from P to Q: $\mathbf{v}=\vec{PQ}$ or $\vec{v}=\vec{PQ}$  

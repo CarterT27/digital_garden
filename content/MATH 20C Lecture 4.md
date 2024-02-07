@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Calculus  
 - Class/MATH_20C  
 date:  
 - 2024-01-17  
----  
+---
   
 > [!note] Intersection of Two Lines  
 > Remark: We say $\vec{r}_{1}(t)$ and $\vec{r}_{2}(t)$ **intersect** if $\vec{r}_{1}(t_{1})=\vec{r}_{2}(t_{2})$ for some $t_{1},t_{2}$.  

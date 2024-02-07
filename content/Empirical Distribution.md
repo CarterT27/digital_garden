@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Empirical Distribution  
 > Unlike [[Probability Distribution|probability distributions]], which are theoretical, **empirical distributions are based on observations**.  
@@ -17,7 +17,7 @@ tags:
 > ![[EmpiricalDistDieRoll.jpg]]  
 > As the number of die rolls increases, this distribution starts to look more like a uniform distribution due to the [[Law of Large Numbers]].  
   
----  
+---
   
 **Empirical distribution of a statistic**  
 The empirical distribution of a [[statistic]] is based on simulated values of the statistic. It describes:  

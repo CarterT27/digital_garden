@@ -1,4 +1,4 @@
----  
+---
 tags:  
 - "Type/Note"  
 - "Class/MATH_20C"  
@@ -8,7 +8,7 @@ tags:
 - "Class/CAT_2"  
 date:  
 - 2024-01-12  
----  
+---
   
 # Calendars  
 - [MATH 20C](https://mathweb.ucsd.edu/~kwohm/Calendar20C-WI24.html)  

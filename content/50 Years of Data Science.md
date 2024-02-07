@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Data_Science  
 - Class/COGS_9  
 date:  
 - 2024-01-15  
----  
+---
   
 > [!note] Data Science Versus Statistics  
 > Statisticians see the data science movement as something that overshadows what statistics has been doing for a long time.  

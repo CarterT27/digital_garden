@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - "Type/Note"  
 - "Topic/Calculus"  
 - "Class/MATH_20C"  
 date:  
 - 2024-01-12  
----  
+---
   
 # 12.2 3D Space: Surfaces, Vectors, and Curves  
   

@@ -1,10 +1,10 @@
----  
+---
 mathLink: Subset of $\mathbb{R}^n$  
 tags:  
 - "Type/Definition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Types: [[Subspace of R^n]]  
 Examples: <i>Not Applicable</i>  
 Constructions: <i>Not Applicable</i>  

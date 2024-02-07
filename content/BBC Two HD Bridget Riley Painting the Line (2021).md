@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Neuroscience  
 - Class/CAT_2  
 date:  
 - 2024-01-14  
----  
+---
   
 > [!note] Bridget Riley  
 > Painter of experimental, abstract art  

@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Simple Random Sample (SRS)  
 > A **simple random sample** is a [[Sample|sample]] drawn **uniformly** at random **without replacement**.  
@@ -25,7 +25,7 @@ np.random.choice(staff, 4, replace=False)
 ```  
 If we use `replace=True`, then we're sampling uniformly at random with replacement – there's no simpler term for this.  
   
----  
+---
   
 If we want to sample rows from a DataFrame, we can use the `.sample` method on a DataFrame. That is,  
   
@@ -35,7 +35,7 @@ df.sample(n)
   
 returns a random subset of `n` rows of `df`, drawn **without replacement** (i.e. the default is `replace=False`, unlike `np.random.choice`).  
   
----  
+---
   
 **The effect of sample size**  
 - The law of large numbers states that when we repeat a chance experiment more and more times, the empirical distribution will look more and more like the true probability distribution.  

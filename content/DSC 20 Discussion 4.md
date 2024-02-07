@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Data_Science  
 - Class/DSC_20  
 date:  
 - 2024-01-31  
----  
+---
   
 > [!note] Lambda Functions  
 > - known as anonymous functions (their functions are so simple, they don't need a name)  

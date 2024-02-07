@@ -1,10 +1,10 @@
----  
+---
 mathLink: The $i$th Column of $A$ is $A\vec{e}_{i}$  
 tags:  
 - "Type/Proposition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Proved by: <i>Not Applicable</i>  
 References: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  

@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Differential_Equations  
 - Class/MATH_20D  
 date:  
 - 2024-02-05  
----  
+---
   
 A second-order linear ODE with variable-coefficients is given by  
 $$a_{2}(t)y''+a_{1}(t)y'+a_{0}(t)y=f(t)$$  

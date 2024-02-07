@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Neuroscience  
 - Class/CAT_2  
 date:  
 - 2024-01-30  
----  
+---
   
 Reminders  
 - You are not using any outside research from your assignments in CAT 2, the only evidence should be from the artwork and class materials  

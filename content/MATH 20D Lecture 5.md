@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Differential_Equations  
 - Class/MATH_20D  
 date:  
 - 2024-01-19  
----  
+---
   
 > [!note] $a\log_{b}(x)=\log_{b}(x^a)$  
   

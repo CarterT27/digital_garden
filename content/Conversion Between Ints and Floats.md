@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Remark"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!example] Conversion Between Ints and Floats  
 > If you mix [[Int Data Type|ints]] and [[Float Data Type|floats]] in an expression, the result will always be a `float`.  

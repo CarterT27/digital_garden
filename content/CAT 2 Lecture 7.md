@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Neuroscience  
 - Class/CAT_2  
 date:  
 - 2024-01-30  
----  
+---
   
 # Synesthesia and Cross-Modality  
   

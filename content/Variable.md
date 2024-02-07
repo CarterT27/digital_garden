@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Variable  
 > A place to store a value so it can be used later in code.  
@@ -15,7 +15,7 @@ my_number = 27
 my_number # 27  
 ```  
   
----  
+---
   
 Before a variable is defined, it has no meaning (evaluates to None).  
   
@@ -23,7 +23,7 @@ Before a variable is defined, it has no meaning (evaluates to None).
 undefined_variable # Prints nothing, the value is None  
 ```  
   
----  
+---
   
 Variables should have helpful, descriptive names so you know what they refer to.  
 > [!warning] Unhelpful variable names  
@@ -48,6 +48,6 @@ They are case sensitive!
 > 3 = 2 + 1  
 > ```  
   
----  
+---
   
 Some common naming conventions are `UpperCamelCase` for class names, `CAPITALIZED_WITH_UNDERSCORES` for constants, and `snake_case` for other names, including most variable names.  

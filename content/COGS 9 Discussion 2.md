@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Data_Science  
 - Class/COGS_9  
 date:  
 - 2024-01-29  
----  
+---
   
 > [!note] Data's Day of Reckoning  
 > - Ethical data practices  

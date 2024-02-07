@@ -1,10 +1,10 @@
----  
+---
 mathLink: $f^{-1}(A\cup B)=f^{-1}(A)\cup f^{-1}(B)$  
 tags:  
 - "Type/Proposition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Proved by: <i>Not Applicable</i>  
 References: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  

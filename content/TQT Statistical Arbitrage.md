@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - "Type/Note"  
 - "Topic/Quantitative_Finance"  
 - "Club/Triton_Quantitative_Trading"  
 date:  
 - 2024-01-12  
----  
+---
   
 # Cointegration, Pairs Trading  
   

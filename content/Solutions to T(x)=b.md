@@ -1,10 +1,10 @@
----  
+---
 mathLink: Solutions to $T(\vec{x})=\vec{b}$  
 tags:  
 - "Type/Proposition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Proved by: <i>Not Applicable</i>  
 References: [[Kernel]], [[Image of Linear Transformation]]  
 Justifications: <i>Not Applicable</i>  

@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Data_Science  
 - Class/COGS_9  
 date:  
 - 2024-01-22  
----  
+---
   
 > [!note] 6 Divisions of Data Science  
 > - Data exploration  

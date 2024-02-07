@@ -10,6 +10,8 @@ def add_double_spaces(filename: pathlib.Path) -> None:
     with open(filename, "r") as f:
         lines = f.readlines()
         lines = [line.strip() + "  "
+                 if "---" not in line
+                 else line.strip()
                  # if line.startswith("> ") 
                  # and not re.match(r"> \[![^\]]+\]", line)
                  # else line.strip()

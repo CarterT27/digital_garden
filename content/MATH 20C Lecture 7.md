@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Calculus  
 - Class/MATH_20C  
 date:  
 - 2024-01-25  
----  
+---
   
 > [!note] Relative Position Between Two Planes in $\mathbb{R}^{3}$  
 > 1. $P_{1}$ and $P_{2}$ are **parallel** or **coincide**. $\vec{n}_{1}$ is parallel to $\vec{n}_{2}$. $\vec{n}_{1}=\lambda \vec{n}_{2}$ for some scalar $\lambda$.  

@@ -1,10 +1,10 @@
----  
+---
 mathLink: $(AB)^{-1}=B^{-1}A^{-1}$  
 tags:  
 - "Type/Proposition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Proved by: <i>Not Applicable</i>  
 References: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  

@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Neuroscience  
 - Class/CAT_2  
 date:  
 - 2024-01-18  
----  
+---
   
 > [!definition] Sensation  
 > Sensation is the process where sensory receptors and the nervous system receive and interpret stimuli from the environment. It is the first stage in perceiving information, enabling us to experience sensations such as sight, hearing, smell, taste, and touch. Sensation involves converting physical stimuli into neural signals for the brain to process.  
@@ -23,7 +23,7 @@ date:
 > [!note] Jacob von Uexkull  
   
 | Sensation| Perception |  
-| --- | --- |  
+| --- | --- |
 | Does not require a brain | Requires a brain, albeit metaphorically |  
 | Comes first | Follows sensation |  
 | Requires stimuli | Can happen without stimuli |  

@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - "Type/Note"  
 - "Topic/Neuroscience"  
 - "Class/CAT_2"  
 date:  
 - 2024-01-11  
----  
+---
   
 > [!definition] Neuroarts  
 > Neuroarts, or neuroaesthetics, is an interdisiplinary field that examines the intersection of art and brain science. It explores how the brain processes and responds to various art forms and investigates the neurological basis of creativity. This field also looks at the therapeutic benefits of art in mental health and cognitive rehabilitation. Combining insights from neuroscience, psychology, and the arts, neuroarts seeks to understand the profound impact of artistic experiences on the human brain and behavior.  

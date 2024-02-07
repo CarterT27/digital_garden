@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Neuroscience  
 - Class/CAT_2  
 date:  
 - 2024-01-23  
----  
+---
   
 # [CAT 2 Assignment Rubric](https://canvas.ucsd.edu/courses/52078/files/11313894?module_item_id=2134960)  
   

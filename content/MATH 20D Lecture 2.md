@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - "Type/Note"  
 - "Topic/Differential_Equations"  
 - "Class/MATH_20D"  
 date:  
 - 2024-01-10  
----  
+---
   
 Source: https://canvas.ucsd.edu/courses/52767/files/11229957?module_item_id=2111692  
   

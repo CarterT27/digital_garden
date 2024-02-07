@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Probability Distribution  
 > Consider a random quantity with various possible values, each of which has some associated [[Probability|probability]].  
@@ -16,7 +16,7 @@ tags:
 > The distribution is **uniform**, meaning that each outcome has the same chance of occurring.  
 > ![[images/ProbabilityDistDieRoll.jpg]]  
   
----  
+---
   
 **Probability distribution of a statistic**  
 The value of a statistic is random, because it depends on a random [[sample]].  

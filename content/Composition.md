@@ -1,10 +1,10 @@
----  
+---
 mathLink: $(f\circ g)(x)=f(g(x))$  
 tags:  
 - "Type/Definition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Types: <i>Not Applicable</i>  
 Examples: <i>Not Applicable</i>  
 Constructions: <i>Not Applicable</i>  
@@ -21,7 +21,7 @@ Justifications: <i>Not Applicable</i>
   
 **Remark:** For the composition $f\circ g$ to make sense, the [[codomain]] of $g$ must be contained in the [[domain]] of $f$.  
   
----  
+---
   
 *Example:* Composition of two functions  
 If $f(x)=x-1$, and $g(x)=x^2$, then  

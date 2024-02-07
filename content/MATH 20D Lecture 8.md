@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Differential_Equations  
 - Class/MATH_20D  
 date:  
 - 2024-01-26  
----  
+---
   
 # Section 4.2 - How to solve $ay''+by'+cy=0$  
   

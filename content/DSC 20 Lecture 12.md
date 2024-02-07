@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Data_Science  
 - Class/DSC_20  
 date:  
 - 2024-02-05  
----  
+---
   
 > [!note] Locally defined functions  
 > Functions defined within other function bodies are bound to names in a local frame.  

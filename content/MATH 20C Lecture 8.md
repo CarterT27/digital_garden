@@ -1,11 +1,11 @@
----  
+---
 tags:  
 - Type/Note  
 - Topic/Calculus  
 - Class/MATH_20C  
 date:  
 - 2024-01-26  
----  
+---
   
 > [!definition] Differentiable  
 > $\vec{r}(t)$ is **differentiable** at $t$ if  

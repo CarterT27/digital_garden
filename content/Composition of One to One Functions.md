@@ -1,10 +1,10 @@
----  
+---
 mathLink: auto  
 tags:  
 - "Type/Proposition"  
 - "Topic/Linear_Alebra"  
 - "Class/MATH_31AH"  
----  
+---
 Proved by: <i>Not Applicable</i>  
 References: <i>Not Applicable</i>  
 Justifications: <i>Not Applicable</i>  

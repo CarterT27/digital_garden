@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Probability That Two Events Both Happen  
 > Suppose that $A$ and $B$ are two [[Event|events]], and that all [[Outcome|outcomes]] are equally likely. Then, the [[Probability|probability]] that both $A$ and $B$ occur is $$P(A\text{ and }B)=\frac{\text{\# of outcomes satisfying both A and B}}{\text{total \# of outcomes}}$$  

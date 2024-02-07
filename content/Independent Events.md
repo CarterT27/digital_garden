@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Independent Events  
 > Two [[Event|events]] $A$ and $B$ are **independent** if $P(B\text{ given }A)=P(B)$, or equivalently if $$P(A\text{ and }B)=P(A)\cdot P(B)$$  

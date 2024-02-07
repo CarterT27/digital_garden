@@ -1,11 +1,11 @@
----  
+---
 aliases: point, vector  
 mathLink: auto  
 tags:  
 - "Type/Definition"  
 - "Topic/Linear_Algebra"  
 - "Class/MATH_31AH"  
----  
+---
 Types: <i>Not Applicable</i>  
 Examples: [[Standard Basis Vectors]]  
 Constructions: <i>Not Applicable</i>  
@@ -37,7 +37,7 @@ v_{2}+w_{2} \\
 v_{n}+w_{n}  
 \end{bmatrix}$$  
   
----  
+---
   
 Multiplication of a vector by a *scalar* is straightforward:  
 $$a\begin{bmatrix}x_{1} \\  

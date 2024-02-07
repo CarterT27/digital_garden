@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Probability of Either of Two Events Happening  
 > Suppose that $A$ and $B$ are two [[Event|events]], and that all [[Outcome|outcomes]] are [[Equally-Likely Outcomes|equally-likely]]. Then, the [[Probability|probability]] that either $A$ or $B$ occur is $$P(A\text{ or }B)=\frac{\text{\# of outcomes satisfying either A or B}}{\text{ total \# of outcomes}}$$  

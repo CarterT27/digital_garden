@@ -1,9 +1,9 @@
----  
+---
 tags:  
 - "Type/Definition"  
 - "Topic/Data_Science"  
 - "Class/DSC_10"  
----  
+---
   
 > [!definition] Addition Rule  
 > If $A$ and $B$ are any two [[Mutually Exclusive|mutually exclusive]] [[Event|events]], then $$P(A\text{ or }B)=P(A)+P(B)$$  
