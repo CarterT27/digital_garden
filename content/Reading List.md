@@ -1,9 +1,9 @@
 # Philosophy  
-  
+
 - Siddhartha: A Novel (Hesse, Hermann)  
-  
+
 # Quantitative Finance  
-  
+
 - Systematic Trading - Robert Carver  
 - Trading Systems and Methods - Perry Kaufman  
 - Advances in Financial Machine Learning - Marcos Lopez de Prado  

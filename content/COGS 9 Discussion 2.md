@@ -1,17 +1,16 @@
 ---
-tags:  
-- Type/Note  
-- Topic/Data_Science  
-- Class/COGS_9  
-date:  
-- 2024-01-29  
+tags:
+- Type/Note
+- Topic/Data_Science
+- Class/COGS_9
+date:
+- 2024-01-29
 ---
-  
 > [!note] Data's Day of Reckoning  
 > - Ethical data practices  
 > 	- Important in real-world products  
 > 	- Not exist in college edjucation  
-  
+
 > - Ethics need to be part of an organization's culture  
 > 	- Empower individuals to stop  
 > 	- Escalate issues without the fear of retaliation  
@@ -29,7 +28,7 @@ date:
 > 	- Ethical guideline and culture  
 > 	- Regulations  
 > 	- "Talk about Ethics!" for future  
-  
+
 > [!note] A Mulching Proposal: Ethics in Algorithmic Systems  
 > Introduction  
 > - Algorithmic systems are ubiquitous  

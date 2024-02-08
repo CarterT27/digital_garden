@@ -1,15 +1,14 @@
 ---
-tags:  
-- "Type/Note"  
-- "Class/MATH_20C"  
-- "Class/DSC_20"  
-- "Class/COGS_9"  
-- "Class/MATH_20D"  
-- "Class/CAT_2"  
-date:  
-- 2024-01-12  
+tags:
+- "Type/Note"
+- "Class/MATH_20C"
+- "Class/DSC_20"
+- "Class/COGS_9"
+- "Class/MATH_20D"
+- "Class/CAT_2"
+date:
+- 2024-01-12
 ---
-  
 # Calendars  
 - [MATH 20C](https://mathweb.ucsd.edu/~kwohm/Calendar20C-WI24.html)  
 - [DSC 20](https://dsc20.org/)  

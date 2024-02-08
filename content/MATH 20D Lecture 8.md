@@ -1,19 +1,18 @@
 ---
-tags:  
-- Type/Note  
-- Topic/Differential_Equations  
-- Class/MATH_20D  
-date:  
-- 2024-01-26  
+tags:
+- Type/Note
+- Topic/Differential_Equations
+- Class/MATH_20D
+date:
+- 2024-01-26
 ---
-  
 # Section 4.2 - How to solve $ay''+by'+cy=0$  
-  
+
 Look for solutions of the form $y(t)=e^{rt}$  
-  
+
 In general, given the second-order equation $ay''+by'+c=0$ whose characteristic equation is $ar^2+br+c=0$. The roots of this characteristic equation is given by  
 $$r=\frac{-b\pm \sqrt{ b^2-4ac }}{2a}$$  
-  
+
 There are now three cases:  
 1. If $b^2-4ac>0$ then the characteristic equation has two **distinct, real-valued** roots $r_{1},r_{2}$. The solution to the ODE $ay''+by'+c=0$ is  
 $$y=C_{1}e^{r_{1}t}+C_{2}e^{r_{2}t}$$  
@@ -24,9 +23,9 @@ for arbitrary constants $C_{1},C_{2}$.
 3. If $b^2-4ac<0$ then the characteristic equation has **complex roots** $r_{1,2}=\lambda\pm i\mu$ where $\lambda=-b/2a$ and $\mu=\sqrt{ 4ac-b^2 }/2a$. The solution to the ODE $ay''+by'+c=0$ is  
 $$y=e^{\lambda t}(C_{1}\cos(\mu t)+C_{2}\sin(\mu t))$$  
 for arbitrary constants $C_{1},C_{2}$.  
-  
+
 # Sections 4.4 & 4.5 - The Method of Undetermined Coefficients (a.k.a. Making educated guesses)  
-  
+
 > [!note] Undetermined Coefficients Method  
 > Consider the non-homogenous second order linear equation with constant coefficients  
 > $$ay''+by'+cy=g(t),\text{ where }a\neq 0,g(t)\neq 0.$$  
@@ -41,12 +40,12 @@ for arbitrary constants $C_{1},C_{2}$.
 > - Polynomial: $a_{n}t^n+a_{n-1}t^{n-1}+\dots+a_{2}t^2+a_{1}t+a_{0}$  
 > - $\sin(kt)$ and/or $\cos(kt)$  
 > - any product/combo of the above 3  
-  
+
 > [!note] $g(t)=ke^{\omega t}$  
 > $t$: indep. variable  
 > $k,w$: arbitrary parameters/constants  
 > Our guess for $Y_{P}$: $Y_{P}=Ae^{\omega t}$  
-  
+
 > [!question] $y''-2y'-3y=e^{2t},\omega=2$  
 > 1. Solve corresponding hom. eqn. for $y_{H}$. Here, we solve $y''-2y'-3y=0$ for $y_{H}$  
 > Chara. eqn.: $r^2-2r-3=0$ which has soln $r_{1}=3,r_{2}=-1$  

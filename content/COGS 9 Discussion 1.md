@@ -1,12 +1,11 @@
 ---
-tags:  
-- Type/Note  
-- Topic/Data_Science  
-- Class/COGS_9  
-date:  
-- 2024-01-22  
+tags:
+- Type/Note
+- Topic/Data_Science
+- Class/COGS_9
+date:
+- 2024-01-22
 ---
-  
 > [!note] 6 Divisions of Data Science  
 > - Data exploration  
 > - Data representation and transformation  
@@ -14,7 +13,7 @@ date:
 > - Modeling  
 > - Data viz  
 > - The science of data science  
-  
+
 > [!note] Prediction vs. Inference  
 > Prediction  
 > - Accuracy with new data  
@@ -25,13 +24,13 @@ date:
 > - Creates interpretable, well-fitting models  
 > - Belief in a "true" underlying model  
 > - Central to traditional statistics  
-  
+
 > [!note] Common Task Framework  
 > Key to predictive modeling  
 > - Reducing prediction errors over time  
 > - Best algorithms vary with dataset type  
 > - Focus on results, not the data's true source  
-  
+
 > [!note] Project Ideas  
 > https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022/data  
 > - Predict how popular a song will be on tiktok given certain features?  
