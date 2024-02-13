@@ -17,4 +17,4 @@ Equivalences: <i>Not Applicable</i>
 Justifications: <i>Not Applicable</i>  
 
 > [!definition] Invertible  
-> A mapping $f$ is **invertible** (or **bijective**) if it is both [[onto]] and [[one-to-one]]. The inverse function of $f$ is denoted $f^{-1}$.  
+> A mapping $f$ is **invertible** (or **bijective**) if it is both [[Onto]] and [[One-To-One]]. The inverse function of $f$ is denoted $f^{-1}$.  

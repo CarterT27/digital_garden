@@ -5,6 +5,6 @@ tags:
 - "Class/DSC_10"
 ---
 > [!definition] Parameter  
-> A number associated with the [[population]].  
+> A number associated with the [[Population]].  
 
-Example: The population [[mean]].  
+Example: The population [[Mean]].  

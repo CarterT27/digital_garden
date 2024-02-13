@@ -12,7 +12,7 @@ Justifications: <i>Not Applicable</i>
 Specializations: <i>Not Applicable</i>  
 Generalizations: <i>Not Applicable</i>  
 
-> [!proposition] The $i$th Row of $AB$ is the Product of The $i$th Row of $A$ and [[Matrix]] $B$.  
+> [[Matrix|!proposition]] $B$.  
 
 *Example:*  
 $$\begin{bmatrix}2 & -1 \\  

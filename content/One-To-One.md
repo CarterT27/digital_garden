@@ -17,7 +17,7 @@ Equivalences: <i>Not Applicable</i>
 Justifications: <i>Not Applicable</i>  
 
 > [!definition] One-To-One  
-> A [[function]] $f:X->Y$ is **one to one** (or **injective**) if for every $y\in Y$ there is at most one $x\in X$ such that $f(x)=y$.  
+> A [[Function]] $f:X->Y$ is **one to one** (or **injective**) if for every $y\in Y$ there is at most one $x\in X$ such that $f(x)=y$.  
 
 **Remark:** "One to one" is a way to talk about the **uniqueness of solutions**.  
 

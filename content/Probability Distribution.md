@@ -18,6 +18,6 @@ tags:
 ---  
 
 **Probability distribution of a statistic**  
-The value of a statistic is random, because it depends on a random [[sample]].  
+The value of a statistic is random, because it depends on a random [[Sample]].  
 The probability distribution of the statistic is also known as its [[Sample Distribution|sampling distribution]].  
-This describes all possible values of the [[statistic]] and all the corresponding [[probability|probabilities]].  
+This describes all possible values of the [[Statistic]] and all the corresponding [[Probability|probabilities]].  

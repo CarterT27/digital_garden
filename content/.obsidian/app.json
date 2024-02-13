@@ -30,5 +30,6 @@
   "spellcheck": true,
   "propertiesInDocument": "hidden",
   "strictLineBreaks": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "newLinkFormat": "absolute"
 }

@@ -19,7 +19,7 @@ Justifications: <i>Not Applicable</i>
 > If $f:C\to D$ and $g:A\to B$ are two [[Function as Rule|mappings]] with $B\subset C$, then the **composition** $(f\circ g):A\to D$ is the mapping given by  
 > $$(f\circ g)(x)=f(g(x)).$$  
 
-**Remark:** For the composition $f\circ g$ to make sense, the [[codomain]] of $g$ must be contained in the [[domain]] of $f$.  
+**Remark:** For the composition $f\circ g$ to make sense, the [[Codomain]] of $g$ must be contained in the [[Domain]] of $f$.  
 
 ---  
 

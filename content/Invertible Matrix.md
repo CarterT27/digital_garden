@@ -17,4 +17,4 @@ Equivalences: <i>Not Applicable</i>
 Justifications: <i>Not Applicable</i>  
 
 > [!definition] Invertible Matrix  
-> An **invertible matrix** is a [[matrix]] that has both a [[Left and Right Inverses of Matrices|left inverse]] and a [[Left and Right Inverses of Matrices|right inverse]].  
+> An **invertible matrix** is a [[Matrix]] that has both a [[Left and Right Inverses of Matrices|left inverse]] and a [[Left and Right Inverses of Matrices|right inverse]].  

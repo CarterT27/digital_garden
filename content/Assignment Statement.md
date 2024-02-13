@@ -12,7 +12,7 @@ zebra = 23 - 14
 zebra # 9  
 ```  
 
-When run, the interpreter first evaluates the expression $23-14$, $9$, and assigns the value $9$ to the [[variable]] named *zebra*.  
+When run, the interpreter first evaluates the expression $23-14$, $9$, and assigns the value $9$ to the [[Variable]] named *zebra*.  
 
 ---  
 

@@ -41,7 +41,17 @@ LTP
 
 > [!definition] Priming  
 > An improvement in the ability to detect or identify words after recent experience with them.  
-> (priming before playing wordle?)
+> (priming before playing wordle?)  
 
-> [!definition] Perceptual Learning
-> An improvement in the ability to discriminate simple perceptual attributes such as tones or line orientations simply as the result of performing these repeatedly. 
+> [!definition] Perceptual Learning  
+> An improvement in the ability to discriminate simple perceptual attributes such as tones or line orientations simply as the result of performing these repeatedly.  
+
+> [!definition] Emotional Learning  
+> An improvement in the ability to remember in emotionally arousing situations.  
+
+> [!note] Fear potentiated Startle Response  
+> Startle more vigorously if you are already in a state of fear or arousal rather than a calm state  
+
+King's Speech  
+
+> [!note] Trainspotting  

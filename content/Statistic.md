@@ -5,6 +5,6 @@ tags:
 - "Class/DSC_10"
 ---
 > [!definition] Statistic  
-> A number calculated from the [[sample]].  
+> A number calculated from the [[Sample]].  
 
-Example: The [[sample]] [[mean]].  
+Example: The [[Sample]] [[Mean]].  

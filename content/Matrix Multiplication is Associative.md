@@ -13,7 +13,7 @@ Specializations: <i>Not Applicable</i>
 Generalizations: <i>Not Applicable</i>  
 
 > [!proposition] Matrix Multiplication is Associative  
-> If $A$ is an $n \times n$ [[matrix]], $B$ is an $m \times p$ matrix, and $C$ a $p \times q$ matrix, so that $(AB)C$ and $A(BC)$ are both defined, then they are equal:  
+> If $A$ is an $n \times n$ [[Matrix]], $B$ is an $m \times p$ matrix, and $C$ a $p \times q$ matrix, so that $(AB)C$ and $A(BC)$ are both defined, then they are equal:  
 > $$(AB)C=A(BC).$$  
 
 **Proof.**  

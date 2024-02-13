@@ -12,7 +12,7 @@ Justifications: <i>Not Applicable</i>
 Specializations: <i>Not Applicable</i>  
 Generalizations: <i>Not Applicable</i>  
 
-> [!theorem] Basis for the [[Kernel]] of T.  
+> [[Kernel|!theorem]] of T.  
 > Let $p$ be the number of nonpivotal columns of $A$, and $k_{1},\dots,k_{p}$ their positions. For each nonpivotal column, form the [[Point, Vector, and Coordinates|vector]] $\vec{v}_{i}$ satisfying $A\vec{v}_{i}=\vec{0}$ and such that its $k_{i}$th entry is 1, and its $k_{j}$th entries are all 0, for $j\neq i$. The vectors $\vec{v}_{1},\dots,\vec{v}_{p}$ form a basis of $\text{ker }A$.  
 
 *Example:* Consider the matrix $A$ below, which describes a [[linear transformation]] from $\mathbb{R}^5$ to $\mathbb{R}^4$.  

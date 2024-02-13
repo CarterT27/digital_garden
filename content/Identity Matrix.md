@@ -16,7 +16,7 @@ Equivalences: <i>Not Applicable</i>
 Justifications: <i>Not Applicable</i>  
 
 > [!definition] Identity Matrix  
-> The **identity matrix** $I_{n}$ is the $n \times n$ [[matrix]] with 1's along the main diagonal (the diagonal from top left to bottom right) and 0's elsewhere.  
+> The **identity matrix** $I_{n}$ is the $n \times n$ [[Matrix]] with 1's along the main diagonal (the diagonal from top left to bottom right) and 0's elsewhere.  
 
 *Example:* $I_{2}=\begin{bmatrix}1&0 \\ 0&1\end{bmatrix}$ and $I_{3}=\begin{bmatrix}1&0&0 \\ 0&1&0 \\ 0&0&1\end{bmatrix}$.  
 

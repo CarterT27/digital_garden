@@ -41,7 +41,7 @@ date:
 
 > [!definition] Indexing/Slicing  
 > **indexing/slicing** refers to accessing specific elemtn(s) from an iterable object  
-> - iterable\[start:stop:skip](start:inclusive,stop:NOT inclusive)  
+> - iterable\[[start:inclusive,stop:NOT inclusive|start:stop:skip]]  
 > - not every section needs to be specified (can just use start or stop or skip)  
 > - sub indexes can be applied  
 > - trying to access an index that doesn't exist in the list will result in an error  

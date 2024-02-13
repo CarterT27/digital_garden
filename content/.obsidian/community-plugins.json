@@ -13,5 +13,7 @@
   "quick-latex",
   "obsidian-plugin-update-tracker",
   "obsidian-wakatime",
-  "execute-code"
+  "execute-code",
+  "obsidian-vimrc-support",
+  "obsidian-link-converter"
 ]

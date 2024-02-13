@@ -9,7 +9,7 @@ tags:
 > - "Uniformly" means every individual has the same chance of being selected.  
 > - "Without replacement" means we won't pick the same individual more than once.  
 
-To perform an SRS from a [[list]] or [[array]] `options`, we use `np.random.choice(options, n, replace=False)`.  
+To perform an SRS from a [[List]] or [[Array]] `options`, we use `np.random.choice(options, n, replace=False)`.  
 ```python  
 staff = ['Oren Ciolli', 'Nate Del Rosario', 'Jack Determan', 'Sophia Fang', 'Charlie Gillet',  
 'Ashley Ho', 'Henry Ho', 'Vanessa Hu', 'Leena Kang', 'Norah Kerendian', 'Anthony Li', 'Weiyue Li',  
@@ -39,4 +39,4 @@ returns a random subset of `n` rows of `df`, drawn **without replacement** (i.e.
 **The effect of sample size**  
 - The law of large numbers states that when we repeat a chance experiment more and more times, the empirical distribution will look more and more like the true probability distribution.  
 - **Similarly, if we take a large simple random sample, then the sample distribution is likely to be a good approximation of the true population distribution.**  
-- **In general**, [[statistic|statistics]] computed on **larger** [[sample|samples]] tend to be **better** estimates of the [[population]] [[parameter|parameters]] than [[statistic|statistics]] computed on smaller samples.  
+- **In general**, [[Statistic|statistics]] computed on **larger** [[Sample|samples]] tend to be **better** estimates of the [[Population]] [[Parameter|parameters]] than [[Statistic|statistics]] computed on smaller samples.  

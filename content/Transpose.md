@@ -16,7 +16,7 @@ Equivalences: <i>Not Applicable</i>
 Justifications: <i>Not Applicable</i>  
 
 > [!definition] Transpose  
-> The **transpose** $A^T$ of a [[matrix]] $A$ is formed by interchanging the rows and columns of $A$, reading the rows from left to right, and columns from top to bottom.  
+> The **transpose** $A^T$ of a [[Matrix]] $A$ is formed by interchanging the rows and columns of $A$, reading the rows from left to right, and columns from top to bottom.  
 
 *Example:*  
 $$\text{If }A=\begin{bmatrix}1&4&-2\\3&0&2\end{bmatrix},\text{ then }A^T=\begin{bmatrix}1&3\\4&0\\-2&2\end{bmatrix}.$$  

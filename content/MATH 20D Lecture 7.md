@@ -22,10 +22,10 @@ date:
 
 > [!note] A condition for Linear Independence of Solutions  
 > Two solutions $y_{1}(t)$ and $y_{2}(t)$ are **linearly independent** on the interval $I$ if  
-> $$W[y_{1},y_{2}](t)=\begin{vmatrix}y_{1}(t) & y_{2}(t) \\  
+> $$W[[t|y_{1},y_{2}]]=\begin{vmatrix}y_{1}(t) & y_{2}(t) \\  
 y_{1}'(t) & y_{2}'(t)\end{vmatrix}=y_{1}(t)y_{2}'(t)-y_{1}'(t)y_{2}(t)\neq 0$$  
-> for some value $t\in I$. If $W[y_{1},y_{2}](t)=0$ for all $t\in I$ then $y_{1}(t)$ and $y_{2}(t)$ are **linearly dependent**.  
-> Here, $W[y_{1},y_{2}](t)$ is called the Wronskian of $y_{1},y_{2}$.  
+> for some value $t\in I$. If $W[[t|y_{1},y_{2}]]=0$ for all $t\in I$ then $y_{1}(t)$ and $y_{2}(t)$ are **linearly dependent**.  
+> Here, $W[[t|y_{1},y_{2}]]$ is called the Wronskian of $y_{1},y_{2}$.  
 
 > [!note] General solution of Homogeneous second-order ODE  
 > In general, if $ya(t)$ and $y_{2}(t)$ are two linearly independent solutions of the homogeneous second-order ODE $ay''+by'+cy=0$ then the general solution to this ODE is given by  
@@ -45,7 +45,7 @@ y_{1}'(t) & y_{2}'(t)\end{vmatrix}=y_{1}(t)y_{2}'(t)-y_{1}'(t)y_{2}(t)\neq 0$$
 > So $y_{1}(t)=\cos(kt)$ is indeed a soln to $y''+k^2y=0$  
 > Can you do the same for $y_{2}(t)=\sin(kt)$?  
 > To show $\cos(kt)\&\sin(kt)$ are linearly independent we calculate their Wronskian  
-> $$W[y_{1},y_{2}](t)=\begin{vmatrix}\cos(kt) & \sin(kt) \\  
+> $$W[[t|y_{1},y_{2}]]=\begin{vmatrix}\cos(kt) & \sin(kt) \\  
 -k\sin(kt) & k\cos(kt)\end{vmatrix}=(\cos(kt))(k\cos(kt))-(-k\sin(kt))(\sin(kt))=k\cos^2(kt)+k\sin^2(kt)=k\neq 0$$  
 > Therefore, $y(t)=C_{1}\cos(kt)+C_{2}\sin(kt)$ will be our general soln to $y''+k^2y=0$  
 

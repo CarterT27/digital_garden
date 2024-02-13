@@ -13,7 +13,7 @@ Specializations: <i>Not Applicable</i>
 Generalizations: <i>Not Applicable</i>  
 
 > [!proposition] Inverse Image of Intersection  
-> The [[inverse image]] of an intersection equals the intersection of the inverse images:  
+> The [[Inverse Image]] of an intersection equals the intersection of the inverse images:  
 > $$f^{-1}(A\cap B)=f^{-1}(A)\cap f^{-1}(B).$$  
 
 **Proof.**  

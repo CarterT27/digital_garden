@@ -13,7 +13,7 @@ Specializations: <i>Not Applicable</i>
 Generalizations: <i>Not Applicable</i>  
 
 > [!proposition] Inverse Image of Union  
-> The [[inverse image]] of a union equals the union of the inverse images:  
+> The [[Inverse Image]] of a union equals the union of the inverse images:  
 > $$f^{-1}(A\cup B)=f^{-1}(A)\cup f^{-1}(B).$$  
 
 **Proof.**  

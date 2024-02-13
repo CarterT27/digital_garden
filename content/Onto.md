@@ -17,13 +17,13 @@ Equivalences: <i>Not Applicable</i>
 Justifications: <i>Not Applicable</i>  
 
 > [!definition] Onto  
-> A [[function]] $f:X->Y$ is _onto_ (or _surjective_) if for every $y\in Y$ there exists $x\in X$ such that $f(x)=y$.  
+> A [[Function]] $f:X->Y$ is _onto_ (or _surjective_) if for every $y\in Y$ there exists $x\in X$ such that $f(x)=y$.  
 
 **Remark.** $f$ is onto if there is a solution to the equation $f(x)=b$ for every $b$ in the codomain. "Onto" is a way to talk about the _existence of solutions_.  
 
 ---  
 
-**Remark.** $f$ is onto if every element of the [[codomain]] $Y$ corresponds to _at least one_ element of the [[domain]] $X$.  
+**Remark.** $f$ is onto if every element of the [[Codomain]] $Y$ corresponds to _at least one_ element of the [[Domain]] $X$.  
 
 ---  
 

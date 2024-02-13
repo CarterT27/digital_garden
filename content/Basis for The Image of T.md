@@ -13,7 +13,7 @@ Specializations: <i>Not Applicable</i>
 Generalizations: <i>Not Applicable</i>  
 
 > [!theorem] Basis for the Image of T  
-> The [[pivotal columns]] of $[T]$ form a [[basis]] for $\text{img }T$.  
+> The [[pivotal columns]] of $[[basis|T]] for $\text{img }T$.  
 
 *Example:* Consider the matrix $A$ below, which describes a [[linear transformation]] from $\mathbb{R}^5$ to $\mathbb{R}^4$.  
 $$A=\begin{bmatrix}1 & 2 & 4 & -1 & 2 \\-1 & 0 & -2 & -1 & 1 \\2 & 0 & 4 & 2 & 1 \\1 & 1 & 3 & 0 & 2\end{bmatrix}\text{, which row reduces to }\tilde{A}=\begin{bmatrix}1 & 0 & 2 & 1 & 0 \\0 & 1 & 1 & -1 & 0 \\0 & 0 & 0 & 0 & 1 \\0 & 0 & 0 & 0 & 0\end{bmatrix}.$$  

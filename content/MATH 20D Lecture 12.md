@@ -12,7 +12,7 @@ where $a_{2}(t)$ is non-zero. This can also be converted into **standard form**
 $$y''(t)+p(t)y'(t)+q(t)y=g(t).$$  
 Bad news: There is no method to solving the general case above!  
 What we can do:  
-1. If we have 2 lienarly independent solutions to the corresponding homogeneous case  
+1. If we have 2 linearly independent solutions to the corresponding homogeneous case  
 $$a_{2}(t)y''+a_{1}(t)y'+a_{0}(t)y=0$$  
 (call them $y_{1}$&$y_{2}$) then $y_{H}=c_{1}y_{1}+c_{2}y_{2}$.  
 Then use variation by parameters to find $y_{P}=\mu_{1}y_{1}+\mu_{2}y_{2}$  

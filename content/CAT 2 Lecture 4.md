@@ -69,4 +69,4 @@ date:
 > see the object as a concave object.  
 
 > [!note] Bridget Riley  
-> [[BBC Two HD Bridget Riley Painting the Line (2021)]]  
+> [[2021)](BBC Two HD Bridget Riley Painting the Line (2021|BBC Two HD Bridget Riley Painting the Line (2021)]].md)  

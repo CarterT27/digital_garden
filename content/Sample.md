@@ -8,6 +8,6 @@ tags:
 > A subset of a [[Population|population]], from which we can collect data to form a [[Sample Distribution|sample distribution]].  
 
 **Sampling strategies**  
-> [!warning] [[Convenience Sample]]  
+> [[Convenience Sample|!warning]]  
 
 > [!success] Select individuals at random  

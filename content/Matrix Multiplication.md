@@ -16,7 +16,7 @@ Equivalences: <i>Not Applicable</i>
 Justifications: <i>Not Applicable</i>  
 
 > [!definition] Matrix Multiplication  
-> If $A$ is an $m \times n$ [[matrix]] whose $(i,j)$th entry is $a_{i,j}$ and $B$ is an $n \times p$ matrix whose $(i,j)$th entry is $b_{i,j}$, then $C=AB$ is the $m \times p$ matrix with entries  
+> If $A$ is an $m \times n$ [[Matrix]] whose $(i,j)$th entry is $a_{i,j}$ and $B$ is an $n \times p$ matrix whose $(i,j)$th entry is $b_{i,j}$, then $C=AB$ is the $m \times p$ matrix with entries  
 > $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}$$  
 > $$=a_{i,1}b_{1,j}+a_{i,2}b_{2,j}+\dots+a_{i,n}b_{n,j}.$$  
 

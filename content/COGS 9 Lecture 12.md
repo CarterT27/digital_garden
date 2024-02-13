@@ -86,4 +86,4 @@ Source: https://drive.google.com/file/d/1dZnXorO3mHcLTs1tggE6NFs_t3xgRSmJ/view
 > - $n$: sample size  
 > Standard Deviation (SD): square root of the variance  
 
-![[Pasted image 20240206002951.png]]  
+![[images/Pasted image 20240206002951.png]]  

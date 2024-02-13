@@ -19,5 +19,5 @@ Justifications: <i>Not Applicable</i>
 > [!definition] Kernel (Null Space)  
 > Let $T:\mathbb{R}^n\to\mathbb{R}^m$ be a [[linear transformation]]. The **kernel** of $T$, denoted $\text{ker }T$, is the set of [[Point, Vector, and Coordinates|vectors]] $\vec{x}\in\mathbb{R}^n$ such that $T(\vec{x})=\vec{0}$.  
 
-**Remark:** The kernel of $T$ is the [[inverse image]] of $\{\vec{0}\}$ under $T$.  
+**Remark:** The kernel of $T$ is the [[Inverse Image]] of $\{\vec{0}\}$ under $T$.  
 $$\text{ker }T=T^{-1}\{\vec{0}\}$$  
