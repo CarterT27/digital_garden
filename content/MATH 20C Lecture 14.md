@@ -20,7 +20,7 @@ date:
 > $\lim_{u\to0}\frac{\sin(u)}{u}$  
 > Let $u=x^2+y^2=>$ As $(x,y)\to0,u\to0$  
 > L'Hospital's Rule  
-> If $\lim_{u\to a}\frac{f(u)}{g(u)}$ is of the form $\frac{0}{0}$ or $\frac{\inf}{\inf}$ then $\lim_{u\to a}\frac{f(u)}{g(u)}=\lim_{u\to a}\frac{f'(u)}{g'(u)}$  
+> If $\lim_{u\to a}\frac{f(u)}{g(u)}$ is of the form $\frac{0}{0}$ or $\frac{\infty}{\infty}$ then $\lim_{u\to a}\frac{f(u)}{g(u)}=\lim_{u\to a}\frac{f'(u)}{g'(u)}$  
 > $\lim_{(x,y)\to(0,0)}\frac{\sin(x^2+y^2)}{x^2+y^2}=\lim_{u\to0}\frac{\sin(u)}{u}=1$  
 
 > [!note] Method 3: Squeeze Theorem  

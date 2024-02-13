@@ -52,7 +52,3 @@ $\lim_{ (x,y) \to (a,b) }f(x,y)=L\iff \text{As (x,y) approaches (a,b) in any dir
 > [!note] Remark: All sums, scalar multiples, quotients, and products of continuous functions are still continuous  
 
 > [!note] Remark: Compositions of continuous functions are continuous  
-
-## How to find limits  
-
-> [!note] If $f$ is continuous at $(a,b)$, then $\lim_{ (x,y) \to (a,b) }f(x,y)=f(a,b)$  
