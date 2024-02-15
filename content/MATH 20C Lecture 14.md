@@ -24,7 +24,7 @@ date:
 > $\lim_{(x,y)\to(0,0)}\frac{\sin(x^2+y^2)}{x^2+y^2}=\lim_{u\to0}\frac{\sin(u)}{u}=1$  
 
 > [!note] Method 3: Squeeze Theorem  
-> $\lim_{(x,y)\to(0,0}\sin\left(\frac{1}{x^2+y^2}\right)\tan(x^2y^4)$  
+> $\lim_{(x,y)\to(0,0)}\sin\left(\frac{1}{x^2+y^2}\right)\tan(x^2y^4)$  
 > Note $-1\leq\sin\left(\frac{1}{x^2+y^2}\right)\leq1$  
 > $\implies-\tan(x^2y^4)\leq\sin\left(\frac{1}{x^2+y^2}\right)\tan(x^2y^4)\leq\tan(x^2y^4)$  
 > Since $\lim_{(x,y)\to(0,0}\tan(x^2y^4)=\tan(0)=0=\lim_{(x,y)\to(0,0)}-\tan(x^2y^4)=-\tan(0)$  
