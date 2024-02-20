@@ -131,7 +131,7 @@ date:
 
 > [!note] Maurizio Cattalan (2019)  
 > $120000 banana with duct tape  
-> Auctioned 4x $250,000 bananas with duct tape  
+> Auctioned 4x \$250,000 bananas with duct tape  
 > Then someone came and ate the banana on video, got sued  
 
 > [!question] How did we get from cave wall painting to bananas taped to the wall?  

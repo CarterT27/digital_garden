@@ -25,7 +25,8 @@ date:
 $z=f(x,y)$  
 $f:D\to \mathbb{R},D\subset\mathbb{R}$  
 
-> [!definition] The set of all inputs that we consider is called the domain of $f(x,y)$ or $f(x,y,z)$  
+> [!definition] Domain  
+> The set of all inputs that we consider is called the domain of $f(x,y)$ or $f(x,y,z)$  
 
 > [!definition] Level Curves and Contour Map  
 > 1. Horizontal trace at height C = intersection of the graph with the horizontal plane $Z=C$ = $\{(x,y,c)|f(x,y)=c\}$  
