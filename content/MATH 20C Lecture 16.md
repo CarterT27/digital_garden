@@ -39,10 +39,10 @@ date:
 > [!definition] Linearization of $f(x,y)$  
 > Assume $f(x,y)$ is defined in a region $D$ containing $(a,b)$ and $f_x(a,b),f_y(a,b)$ exist  
 > Then $$L(x,y)=f(a,b)+f_x(a,b)(x-a)+f_y(a,b)(y-b)$$  
-> is called the **linearization** of $f(x,y) centered at $(a,b)$  
+> is called the **linearization** of $f(x,y)$ centered at $(a,b)$  
 
 > [!definition] Differentiable  
-> $f(x,y)$ is **differentiable** at $(a,b)$ if $$\lim_{(x,y)\to(a,b)}\frac{f(x,y)-L(x,y)}{\sqrt{(x-a)^2+(y-b)^2}}=0$  
+> $f(x,y)$ is **differentiable** at $(a,b)$ if $$\lim_{(x,y)\to(a,b)}\frac{f(x,y)-L(x,y)}{\sqrt{(x-a)^2+(y-b)^2}}=0$$  
 > i.e. the linearization $L(x,y)$ is a good approximation for $f(x,y)$ near $(a,b)$  
 > i.e. If $(x,y)$ is close to $(a,b)$ $f(x,y)\approx L(x,y)$  
 > We say $f(x,y)$ is differentiable on a domain $D$ if it is differentiable at all points in $D$  
