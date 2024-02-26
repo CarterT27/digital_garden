@@ -12,7 +12,7 @@ Fact: Suppose the $n\times n$ matrix has eigenvalues $\lambda_1,\lambda_2,\dots,
 $$\vec{x}(t)=C_1e^{\lambda_1t}\vec{x}_1+C_2e^{\lambda_2t}\vec{x}_2+\cdots+C_ne^{\lambda_nt}\vec{x}_n$$  
 where $C_i$'s are arbitrary constants.  
 
-Fact: Suppose the real matrix $A$ has *complex eigenvalues* $a\pm i\beta$ with corresponding eigenvectors $a\pm ib$ then two linearly independent solutions to the homogeneous system $\vec{x}'=A\vec{x}$ are given by  
+Fact: Suppose the real matrix $A$ has *complex eigenvalues* $\alpha\pm i\beta$ with corresponding eigenvectors $a\pm ib$ then two linearly independent solutions to the homogeneous system $\vec{x}'=A\vec{x}$ are given by  
 $$\vec{x}_1=e^{\alpha t}\cos(\beta t)\vec{a}-e^{\alpha t}\sin(\beta t)\vec{b}$$  
 $$\vec{x}_2=e^{\alpha t}\sin(\beta t)\vec{a}+e^{\alpha t}\cos(\beta t)\vec{b}$$  
 
