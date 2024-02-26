@@ -43,4 +43,9 @@ if __name__ == "__main__":
     all_files = os.listdir(folder)
     all_files = [folder / file for file in all_files]
     for file in all_files:
-        add_double_spaces(file)
+        if str(file).endswith('.md'):
+            try:
+                add_double_spaces(file)
+            except Exception as e:
+                print(file)
+                raise e
