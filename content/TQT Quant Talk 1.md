@@ -6,6 +6,8 @@ tags:
 date:
 - 2024-03-05
 ---
+Source: https://sidvishwanath.com/tqt-2024/#/title-slide  
+
 # Probability & Statistics in Quant Finance - [Siddharth Vishwanath](https://sidvishwanath.com/)  
 
 > [!note] Topological Data Analysis  
@@ -51,19 +53,23 @@ date:
 > where $K$ is called the strike price  
 > Can only be exercised at time of expiration, unlike American Call Options  
 > At time $t_{n+1}$ suppose one of two thing can happen:  
-> $$S_{n+1}=(1+u)\times S_n\text{ with probability }p$$  
-> $$S_{n+1}=(1-d)\times S_n\text{ with probability }1-p$$  
+> $$S_{n+1}=\begin{cases}(1+u)\times S_n\text{ with probability }p\\(1-d)\times S_n\text{ with probability }1-p\end{cases}$$  
 > here, $p$ is the "real-world" probability  
 > $$X_{n+1}^u=\left(\alpha_{n+1}\times(1+u)S_n\right)+\left(\beta_{n+1}\times(1+r)B_n\right)$$  
 > $$X_{n+1}^d=\left(\alpha_{n+1}\times(1-d)S_n\right)+\left(\beta_{n+1}\times(1+r)B_n\right)$$  
 > Solving for $\alpha_{n+1}$ and $\beta_{n+1}$  
 > $$\alpha_{n+1}=\frac{X^u_{n+1}-X^d_{n+1}}{(u+d)S_n}$$  
-> $$\beta_{n+1}=\frac{1}{1+r}\left(\frac{(1+u)X^d_{n+1}-...}{...}\right)$$  
+> $$\beta_{n+1}=\frac{1}{1+r}\left(\frac{(1+u)X^d_{n+1}-(1-d)X_{n+1}^u}{u+d}\right)$$  
 > $V_n=\alpha_{n+1}S_n+\beta_{n+1}B_n$  
+> $=\dots$  
+> $=\frac{1}{1+r}\left(\tilde{p}X_{n+1}^u+(1-\tilde{p})X_{n+1}^d\right)$  
+> In other words... If you took the money and invested it all in bonds at time $t_n$  
 > $=\tilde{p}X^u_{n+1}+(1-\tilde{p})X^d_{n+1}=\mathbb{E}_\tilde{p}(X_{n+1})$  
+> Expected returns from the call option at time $t_{n+1}$  
+> Black Scholes  
 > Here $\tilde{p}=\frac{r+d}{u+d}$ is the risk-neutral probability  
 > When the stock price $S_t$ doesn't just go up/down but can take a range of values  
-> $$S_{n+1}\vert S_n\sim N(S_n,\sigma^2)\equiv P$  
+> $$S_{n+1}\vert S_n\sim N(S_n,\sigma^2)\equiv P$$  
 > Then $\tilde{P}\sim N(0,1)$  
 > - Stochastic differential equations  
 > - Brownian Motion  
