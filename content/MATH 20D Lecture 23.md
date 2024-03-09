@@ -10,6 +10,8 @@ If $F(s)=\mathcal{L}\{f(t)\}$ then
 - $\mathcal{L}\{tf(t)\}=-F'(s)$  
 $\Rightarrow\mathcal{L}\{t^2e^{-t}\}=\frac{d^2}{ds^2}\mathcal{L}\{e^{-t}\}=\frac{d^2}{ds^2}\left(\frac{1}{s+1}\right)=\frac{2}{(s+1)^3}$  
 
+# 7.4 & 7.5 - Inverse Laplace Transform and Solution to IVP  
+
 > [!note] Solve the IVP: $y'=ay,y(0)=y_0$  
 > 1. Apply Laplace Transform to both sides of the given ODE  
 >   $\mathcal{L}\{LHS\}=\mathcal{L}\{y'\}=s\mathcal{L}\{y\}-y(0)=s\mathcal{L}\{y\}-y_0$  
