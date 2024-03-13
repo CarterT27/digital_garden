@@ -12,7 +12,7 @@ date:
 
 Recall $R=[a,b]\times[c,d]$  
 $=\left\{(x,y)\vert a\leq x\leq b,c\leq y\leq d\right\}$  
-Double Integral $\int\int f(x,y)dA=$ the volume under the graph of $f(x,y)$ over $R$  
+Double Integral $\int\int\limits_R f(x,y)dA=$ the volume under the graph of $f(x,y)$ over $R$  
 
 ---  
 
@@ -34,7 +34,7 @@ $S_{NM}=\sum_{i=1}^N\sum_{j=1}^M f(p_{ij})\Delta A$
 This approximates the volume under the graph of $f(x,y)$ over $R$  
 
 > [!definition] Double Integral of $f(x,y)$  
-> The double integral of $f(x,y)$ over a rectangle $R$ is defined by $\int\int f(x,y)dA=\lim_{N,M\to\infty}\sum_{i=1}^N\sum_{j=1}^M f(p_{ij})\Delta A$  
+> The double integral of $f(x,y)$ over a rectangle $R$ is defined by $\int\int\limits_R f(x,y)dA=\lim_{N,M\to\infty}\sum_{i=1}^N\sum_{j=1}^M f(p_{ij})\Delta A$  
 > If the limit exists, we say $f(x,y)$ is **integrable** over $R$  
 
 > [!note] Fact  
@@ -47,12 +47,12 @@ This approximates the volume under the graph of $f(x,y)$ over $R$
 
 > [!note] Theorem  
 > Assume that $f(x,y)$ and $g(x,y)$ are continuous over a rectangle $R$. Then  
-> 1. $\int\int(f(x,y)+g(x,y))dA$  
->   $=\int\int f(x,y)dA+\int\int g(x,y)dA$  
+> 1. $\int\int\limits_R(f(x,y)+g(x,y))\,dA$  
+>   $=\int\int\limits_R f(x,y)\,dA+\int\int\limits_R g(x,y)\,dA$  
 > 2. For any constant $c$  
->   $\int\int cf(x,y)dA=c\int\int f(x,y)dA$  
-> 3. $\int\int cdA=c \text{ Area}(R)$  
->   $dA\to dxdy,\Delta A\to\Delta x\Delta y$  
+>   $\int\int\limits_R cf(x,y)\,dA=c\int\int\limits_R f(x,y)\,dA$  
+> 3. $\int\int\limits_R c\,dA=c \text{ Area}(R)$  
+>   $dA\to \,dx\,dy,\Delta A\to\Delta x\Delta y$  
 
 > [!note] How to compute double integrals?  
 > Iterated integrals $R=[a,b]\times[c,d]=x\times y$  
@@ -78,7 +78,7 @@ This approximates the volume under the graph of $f(x,y)$ over $R$
 
 > [!definition] Fubini's Theorem  
 > Let $f(x,y)$ be a continuous function on $R=[a,b]\times[c,d]$  
-> $\int\int f(x,y)\,dA=\int_a^b\int_c^d f(x,y)\,dy\,dx$  
+> $\int\int\limits_R f(x,y)\,dA=\int_a^b\int_c^d f(x,y)\,dy\,dx$  
 > $=\int_c^d\int_a^b f(x,y)\,dx\,dy$  
 
 $S(x_0)=\int_c^d f(x_0,y)\,dy$  
