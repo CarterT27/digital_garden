@@ -90,7 +90,7 @@ const callouts = {
   // proposition: icons.lightbulbIcon,
 }
 
-const calloutMapping: Record<string, keyof typeof callouts> = {
+const calloutMapping = {
   note: "note",
   abstract: "abstract",
   summary: "abstract",
@@ -123,6 +123,17 @@ const calloutMapping: Record<string, keyof typeof callouts> = {
   // example: "",
   theorem: "info",
   proposition: "tip",
+} as const
+
+const arrowMapping: Record<string, string> = {
+  "->": "&rarr;",
+  "-->": "&rArr;",
+  "=>": "&rArr;",
+  "==>": "&rArr;",
+  "<-": "&larr;",
+  "<--": "&lArr;",
+  "<=": "&lArr;",
+  "<==": "&lArr;",
 }
 
 function canonicalizeCallout(calloutName: string): keyof typeof calloutMapping {
