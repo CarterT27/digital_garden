@@ -66,6 +66,6 @@ Floats have finite precision because they are represented as an integer mantissa
 - ```Python  
 - >>> False and 1/0 # 1/0 by itself would produce an error  
 - False  
-- ```
+- ```  
 
 ```  
