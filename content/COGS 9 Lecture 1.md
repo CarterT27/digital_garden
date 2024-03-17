@@ -20,12 +20,14 @@ Cogs 9 Definition: The scientific and ethical process of extracting value from d
 Do something useful and ethical with data  
 
 # Industries where data scientists work  
+
 Dr. Pepper-Snapple  
 - Logistics/Supply  
 - Marketing  
 - Product Development  
 - Sales Platform  
 - R&D  
+
 Lyft  
 - Forecasting demand  
 - Arrival time estimate  
@@ -33,12 +35,14 @@ Lyft
 - Measure safety  
 - Detect fraud  
 - Driver navigation  
+
 Stitch Fix  
 - Inventory Management  
 - Style classification  
 - Product development  
 - Recommendations  
 - Sales Platform  
+
 Airbnb  
 - Recommendations  
 - Marketing  
@@ -46,6 +50,7 @@ Airbnb
 - Learning about users  
 - Image analysis  
 - Geographic reach  
+
 Choc Children's  
 - Patient Care  
 - Marketing  

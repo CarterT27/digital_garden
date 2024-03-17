@@ -26,7 +26,7 @@ Source: https://drive.google.com/file/d/1efATrW7wpnBsTycfj29xohyOkkR0VFD1/view
 > 2. Every observation of a variable should be in a different row.  
 > 3. There should be one table for each type of data.  
 > 4. If you have multiple tables, they should include a column in each with the same column label that allows them to be joined.  
-> Tidy data `==` rectangular data  
+> Tidy data \`==` rectangular data  
 
 > [!note] Benefits of Tidy Data  
 > 1. Consistent data structure  
