@@ -49,7 +49,7 @@ Floats have finite precision because they are represented as an integer mantissa
 
 # Str type  
 - Any sequence of characters  
-- + operation concatenates strings (cannot add `'string' + 2`)  
+- \+ operation concatenates strings (cannot add `'string' + 2`)  
 - **String literal**: a sequence of characters in quotes  
 
 # Bool type  
@@ -64,6 +64,8 @@ Floats have finite precision because they are represented as an integer mantissa
 # Short circuiting  
 - boolean expressions stop evaluating if the truth value is already determined  
 - ```Python  
->>> False and 1/0 # 1/0 by itself would produce an error  
-False  
+- >>> False and 1/0 # 1/0 by itself would produce an error  
+- False  
+- ```
+
 ```  

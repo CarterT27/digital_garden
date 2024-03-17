@@ -26,7 +26,7 @@ Source: https://www.google.com/url?q=https://docs.google.com/presentation/d/1_U2
 > occurs as the first statement in a module, function, class, or method definition.  
 
 > [!note] Difference between comments and docstrings  
-> These descriptions are whawt is returned by Python when you type `help(object)`  
+> These descriptions are what is returned by Python when you type `help(object)`  
 > Allows you to write doctests  
 
 > [!note] Loops  
