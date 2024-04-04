@@ -49,24 +49,26 @@ Programming(efficiently)
 
 All code in Java must be part of a class  
 For code to run you need to have  
+```Java  
 public static void main(String[] args)  
-We mark the beginning and end of segments of code using  {  and  }  
-All statements in Java must end in a semi-colon: ;  
+```  
+We mark the beginning and end of segments of code using `{`  and `}`  
+All statements in Java must end in a semi-colon: `;`  
 
 Before Java variables can be used, they must be declared  
 Java variable must have a specific type:  
-int, String, double, boolean etc  
+- int, String, double, boolean etc  
 Types can never change  
 Types are verified before the code even runs  
-Big difference between Python and Java  
+- Big difference between Python and Java  
 
 ## Defining Functions - Basic Rules  
 
 Functions must be declared as part of a class in Java  
-A function that is inside a class is called a “method”  
-All functions in Java are methods  
+- A function that is inside a class is called a “method”  
+- All functions in Java are methods  
 To define a function in Java we use “public static”  
-Other ways are later  
+- Other ways are later  
 All parameters must have a declared type  
 Return value of the function must have a declared type  
 Functions in Java return only one value  

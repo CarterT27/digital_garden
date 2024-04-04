@@ -101,10 +101,10 @@ Transitioning from scatter plot to histogram
 > Suppose we predict the median, $h=85$. What is the squared lsos of $85$ for each data point?  
 > $y_1=72\to(72-85)^2=169$  
 > $y_2=90\to(90-85)^2=25$  
-FIX  
-> $y_3=61\to(61-85)^2=$  
-> $y_4=85\to(85-85)^2=$  
-> $y_5=92\to(92-85)^2=$  
+> $y_3=61\to(61-85)^2=576$  
+> $y_4=85\to(85-85)^2=0$  
+> $y_5=92\to(92-85)^2=49$  
+> Goal: Find a single number that describes the loss for the prediction $h=85$ on my entire dataset  
 
 > [!note] Averaging squared losses  
 > We'd like a single number that describes the quality of our predictions across our entire dataset. One way to compute this is as the **average of the squared losses.**  
@@ -112,12 +112,15 @@ FIX
 > $\frac{1}{5}((72-85)^2+(90-85)^2+(61-85)^2+(85-85)^2_(92-85)^2)=163.8$  
 > - For the mean, $h=80$:  
 > $\frac{1}{5}((72-80)^2+(90-80)^2+(61-80)^2+(85-80)^2_(92-80)^2)=138.8$  
+>  
 > 80 is the better prediction, since its average squared loss is **lower**.  
 
 $L_{sq}$: loss for one data point  
 $R_{sq}$: average loss for all data points  
 
 > [!note] Mean squared error  
+> L: loss for one data point  
+> R: average loss over all data points  
 > - Another term for **average squared loss** is **mean squared error** (MSE).  
 > - The mean squared error on our smaller dataset for any prediction $h$ is of the form:  
 > $$R_{sq}(h)=\frac{1}{5}((72-h)^2+(90-h)^2+(61-h)^2+(85-h)^2+(92-h)^2)$$  
@@ -138,10 +141,10 @@ $R_{sq}$: average loss for all data points
 > - Or, using **summation notation**:  
 > $$R_{sq}(h)=\frac{1}{n}\sum_{i=1}^n(y-h)^2$$  
 > ```Python  
-> total = 0, n = 5  
+> total = 0  
 > for i in range(1, n+1):  
 >   total += (y[i]-h)**2  
-> print(total / n)  
+> total = total / n  
 > ```  
 
 > [!note] The best prediction  
@@ -151,3 +154,14 @@ $R_{sq}$: average loss for all data points
 > - **Goal**: Find the $h$ that minimizes $R_{sq}(h)$.  
 >   The resulting $h$ will be called $h^*$.  
 > - How do we find $h^*$?  
+
+> [!note] Summary  
+> - We started with the abstract problem:  
+> > Given historical commute times, predict your future commute time.  
+> - We've turned it into a formal optimization problem:  
+> > Find the prediction $h^*$ that has the smallest mean squared error $R_{sq}(h)$ on the data.  
+> - Implicitly, we introduced a three-step modeling process that we'll keep revisiting:  
+>   1. Choose a model.  
+>   2. Choose a loss function.  
+>   3. Minimize average loss, $R$.  
+> - Next time: We'll solve this optimization problem by-hand  
