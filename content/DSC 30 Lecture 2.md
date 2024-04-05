@@ -69,9 +69,3 @@ Source: https://docs.google.com/presentation/d/1dhz8i4x4Q89OnVy5K6I-95i7pxSX4UWy
 **Non-static method, a.k.a. Instance Method.** Idea: If the method is going to be invoked by an instance of the class (as in the static slide), then it should be non-static.  
 Roughly speaking: If the method needs to use "**my** instance variables", the method must be non-static.  
 
-## Constructor  
-
-- Same name as the class, no return type  
-- Called automatically by `new` operator  
-- Often overloaded:  
-- Constructor without parameters is called the *default* constructor  
