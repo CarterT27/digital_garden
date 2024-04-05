@@ -7,6 +7,6 @@ Here are some of the classes that I'm currently taking:
 #Class/MATH_180A #Class/DSC_30 #Class/DSC_40A #Class/CAT_3 #Class/CSE_198  
 
 See also:  
-[[Undergraduate Class Notes]]
+[[Undergraduate Class Notes]]  
 [[Reading List]]  
 [[TODO]]  
