@@ -69,6 +69,8 @@ An urn contains 10 marbles: 5 are red, 2 are white, 3 are blue. Three are chosen
 > $\mathbb{P}(A)=\frac{area(A)}{area(\Omega)}=\frac{area(A)}{\pi(25)^2}$  
 > $A\subseteq\Omega$  
 
-> [!question] Calculate the probability that the arrow hits the middle disk.  
+> [!question] Calculate the probability that the arrow hits the middle disk but misses the bullseye.  
+> $\mathbb{P}(\text{middle disk not bullseye})=\frac{\frac{\pi(25)^2}{4}-\frac{\pi(5)^2}{4}}{\pi(25)^2}=\frac{24}{100}$  
 
 > [!question] Calculate the probability that the arrow hits the bullseye.  
+> $\mathbb{P}(bullseye)=\frac{Area(bullseye)}{\pi(25)^2}=\frac{\frac{5(5)^2}{4}}{\pi(25)^2}=\frac{1}{100}$  
