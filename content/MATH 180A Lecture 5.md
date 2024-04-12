@@ -67,3 +67,28 @@ The previous example falls into a more general category of problems, called two-
 - a second experiment is performed, whose setup depends on the outcome of the first experiment.  
 
 **Example.** Urn 1 contains 1 red marble and 2 blue marbles. Urn 2 contains 3 white marbles and 2 red marbles. First one of the urns is chosen uniformly at random, and then one marble is drawn uniformly at random from the chosen urn. What is the probability that the marble drawn is red?  
+
+$\mathbb{P}(\text{"red"})=\mathbb{P}($"red"$\cap$"urn 1"$)+\mathbb{P}($"red"$\cap$"urn 2"$)$  
+$=\mathbb{P}(\text{"red"}\vert\text{"urn 1"})\cdot\mathbb{P}(\text{"urn 1"})+\mathbb{P}(\text{"red"}\vert\text{"urn 2"})\cdot\mathbb{P}(\text{"urn 2"})$  
+$=\frac{1}{3}\cdot\frac{1}{2}+\frac{2}{5}\cdot\frac{1}{2}$  
+$=\frac{11}{30}$  
+
+---  
+
+## Law of Total Probability  
+
+The calculation in the previous example can be generalized to an important law.  
+
+> [!definition] Law of Total Probability  
+> If $B_1,B_2,\dots\in\mathcal{F}$ is a finite or infinite sequence of events partitioning $\Omega$, then for any event $A\in\mathcal{F}$,  
+> 1. $\mathbb{P}(A)=\sum_i\mathbb{P}(A\cap B_i)=\mathbb{P}(A\cap B_i)+\mathbb{P}(A\cap B_2)+\dots$  
+> 2. $\mathbb{P}(A)=\sum_i\mathbb{P}(A\vert B_i)\mathbb{P}(B_i)=\mathbb{P}(A\vert B_i)\mathbb{P}(B_i)+\mathbb{P}(A\vert B_2)\mathbb{P}(B_2)+\dots$  
+
+*Proof.*  
+(2) follows from (1) and the multiplication rule.  
+(1) can be proved using the decomposition rule  
+
+**Example.** 90% of coins are fair. 9% of coins land on heads 60% of the time, and 1% of coins land on tails 80% of the time. You pick up a random coin off the street and flip it. How likely is it to land on heads?  
+
+$\mathbb{P}(\text{"heads"})=\mathbb{P}(H\vert \text{coin 1})\mathbb{P}(\text{coin 1})+\mathbb{P}(H\vert \text{coin 2})\mathbb{P}(\text{coin 2})+\mathbb{P}(H\vert \text{coin 3})\mathbb{P}(\text{coin 3})$  
+$=\frac{1}{2}\cdot 0.9+0.6\cdot 0.09+0.8\cdot 0.01=0.572=57.2\%$  
