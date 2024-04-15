@@ -6,7 +6,7 @@ tags:
 date:
 - 2024-04-11
 ---
-Source: https://dsc40a.com/resources/lectures/lec04/lec04-blank.pdf  
+Source: https://dsc40a.com/resources/lectures/lec04/lec04-filled.pdf
 
 # Simple Linear Regression  
 
@@ -16,19 +16,55 @@ Source: https://dsc40a.com/resources/lectures/lec04/lec04-blank.pdf
 
 ### The relationship between $h^*$ and $R(h^*)$  
 
-- Recall, for a general loss function $L$ and the constant model $H(x)=h$ empirical risk is of the form  
-$$R(h)=\frac{1}{h}\sum_{i=1}^n L(y_i,h);  
-TODO  
+- Recall, for a general loss function $L$ and the constant model $H(x)=h$ empirical risk is of the form:
+$$R(h)=\frac{1}{h}\sum_{i=1}^n L(y_i,h)$$  
+- $h^*$, the value of $h$ that minimizes empirical risk, represents the **center** of the dataset in some way.
+- $R(h^*)$, the smallest possible value of empirical risk, represents the **spread** of the dataset in some way.
+- The specific center and spread depend on the choice of loss function.
 
 ### Examples  
 
-TODO?  
+When using **squared loss**:
+- $h^* = \text{Mean}(y_1, y_2, ..., y_n)$.
+- $R_\text{sq}(h^*) = \text{Variance}(y_1, y_2, ..., y_n)$.
+
+When using **absolute loss**:
+- $h^* = \text{Median}(y_1, y_2, ..., y_n)$.
+- $R_\text{abs}(h^*) = \text{MAD from the median}$.
 
 ### 0-1 Loss  
 
-TODO  
+- The empirical risk for the 0-1 loss is:
+$$R_{0,1}(h) = \frac{1}{n} \sum_{i = 1}^n \begin{cases} 0 & y_i = h \\ 1 & y_i \neq h \end{cases}$$
+- This is the proportion (between 0 and 1) of data points not equal to $h$.
+- $R_{0,1}(h)$ is minimized when $h^* = \text{Mode}(y_1, y_2, ..., y_n)$.
+- Therefore, $R_{0,1}(h^*)$ is the proportion of data points not equal to the mode.
+- **Example**: What's the proportion of values not equal to the mode in the dataset $2, 3, 3, 4, 5$?
+$\frac{3}{5}$
 
-**TODO** a lot of stuff  
+### A poor way to measure spread
+
+- The minimum value of $R_{0,1}(h)$ is the proportion of data points not equal to the mode.
+- A higher value means less of the data is clustered at the mode.
+- Just as the mode is a very basic way of measuring the center of the data, $R_{0,1}(h^*)$ is a very basic and uninformative way of measuring spread.
+
+### Summary of center and spread
+
+- Different loss functions $L(y_i, h)$ lead to different empirical risk functions $R(h)$, which are minimized at various measures of **center**.
+- The minimum values of empirical risk, $R(h^*)$, are various measures of **spread**.
+    - larger values of spread $\to$ data is **more** spread out
+- There are many different ways to measure both center and spread; these are sometimes called **descriptive statistics**.
+
+---
+
+## Simple linear regression
+
+### What's next?
+
+- In Lecture 1, we introduced the idea of a hypothesis function, $H(x)$.
+- We've focused on finding the best **constant model**, $H(x) = h$.
+- Now that we understand the modeling recipe, we can apply it to find the best **simple linear regression model**, $H(x) = w_0 + w_1 x$.
+- This will allow us to make predictions that aren't all the same for every data point.
 
 ### Recap: Hypothesis functions and parameters  
 
@@ -100,7 +136,17 @@ $=\frac{-2}{n}\sum_{i=1}^n (y_i-(w_0+w_1x_i))x_i$
 
 ### Strategy  
 
-TODO  
+We have a system of two equations and two unknowns ($w_0$ and $w_1$):
+$$
+-\frac{2}{n} \sum_{i=1}^n \left( y_i - (w_0 + w_1x_i) \right) = 0
+        \qquad
+-\frac{2}{n} \sum_{i=1}^n \left( y_i - (w_0 + w_1x_i) \right) x_i = 0$$
+
+To proceed, we'll:
+1. Solve for $w_0$ in the first equation.
+The result becomes $w_0^*$, because it's the "best intercept."
+1. Plug $w_0^*$ into the second equation and solve for $w_1$.
+The result becomes $w_1^*$, because it's the "best slope."
 
 ### Solving for $w_0^*$  
 
