@@ -137,10 +137,7 @@ $=\frac{-2}{n}\sum_{i=1}^n (y_i-(w_0+w_1x_i))x_i$
 ### Strategy  
 
 We have a system of two equations and two unknowns ($w_0$ and $w_1$):
-$$
--\frac{2}{n} \sum_{i=1}^n \left( y_i - (w_0 + w_1x_i) \right) = 0
-        \qquad
--\frac{2}{n} \sum_{i=1}^n \left( y_i - (w_0 + w_1x_i) \right) x_i = 0$$
+$$-\frac{2}{n} \sum_{i=1}^n \left( y_i - (w_0 + w_1x_i) \right) = 0 \qquad -\frac{2}{n} \sum_{i=1}^n \left( y_i - (w_0 + w_1x_i) \right) x_i = 0$$
 
 To proceed, we'll:
 1. Solve for $w_0$ in the first equation.
