@@ -26,7 +26,7 @@ $=\frac{1}{3}(1-\frac{1}{4})+\frac{1}{4}(1-\frac{1}{3})$
 $=\frac{1}{4}+\frac{1}{6}=\frac{5}{12}$  
 
 > [!definition] Mutual independence  
-> A sequence of events $A_1,A_2,\dots$ in a probability space are **muGG tually independent** if any collection of events $\mathbb{P}(A_1\cap A_2\cap \dots\cap A_n)=\mathbb{P}(A_1)\mathbb{P}(A_2)\dots\mathbb{P}(A_n)$  
+> A sequence of events $A_1,A_2,\dots$ in a probability space are **mutually independent** if any collection of events $\mathbb{P}(A_1\cap A_2\cap \dots\cap A_n)=\mathbb{P}(A_1)\mathbb{P}(A_2)\dots\mathbb{P}(A_n)$  
 
 For example, $A_1,A_2,A_3$ are mutually independent if  
 $\mathbb{P}(A_1\cap A_2)=\mathbb{P}(A_1)\mathbb{P}(A_2)$  

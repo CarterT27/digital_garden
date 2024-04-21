@@ -6,6 +6,7 @@ tags:
 date:
 - 2024-04-15
 ---
+
 Source: https://docs.google.com/presentation/d/1J3pc0cppixQEYul-UMnkKf4ukbmhTnkh/edit#slide=id.p1  
 
 # Static/Non-Static  
