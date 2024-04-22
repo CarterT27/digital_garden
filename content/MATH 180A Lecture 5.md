@@ -81,8 +81,8 @@ The calculation in the previous example can be generalized to an important law.
 
 > [!definition] Law of Total Probability  
 > If $B_1,B_2,\dots\in\mathcal{F}$ is a finite or infinite sequence of events partitioning $\Omega$, then for any event $A\in\mathcal{F}$,  
-> 1. $\mathbb{P}(A)=\sum_i\mathbb{P}(A\cap B_i)=\mathbb{P}(A\cap B_i)+\mathbb{P}(A\cap B_2)+\dots$  
-> 2. $\mathbb{P}(A)=\sum_i\mathbb{P}(A\vert B_i)\mathbb{P}(B_i)=\mathbb{P}(A\vert B_i)\mathbb{P}(B_i)+\mathbb{P}(A\vert B_2)\mathbb{P}(B_2)+\dots$  
+> 1. $\mathbb{P}(A)=\sum_i\mathbb{P}(A\cap B_i)=\mathbb{P}(A\cap B_1)+\mathbb{P}(A\cap B_2)+\dots$  
+> 2. $\mathbb{P}(A)=\sum_i\mathbb{P}(A\vert B_i)\mathbb{P}(B_i)=\mathbb{P}(A\vert B_1)\mathbb{P}(B_1)+\mathbb{P}(A\vert B_2)\mathbb{P}(B_2)+\dots$  
 
 *Proof.*  
 (2) follows from (1) and the multiplication rule.  

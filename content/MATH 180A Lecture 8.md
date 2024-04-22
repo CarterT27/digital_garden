@@ -54,7 +54,7 @@ date:
 > [!definition] Cumulative Distribution Function (CDF)  
 > Let $X$ be a random variable. The **cumulative distribution function (cdf)** of $X$ is the function $F_X: \mathbb{R} \to \mathbb{R}$ defined by $$F_X(t) := \mathbb{P}(X \leq t) = \mathbb{P}(X \in (-\infty, t]) = \mathbb{P}_X((-\infty, t])$$  
 
-Crucial Fact: The cdf completely determines the distribution. Meaning, if $F_X(t)=F_y(t)$, then $\mathbb{P}_X(A)=\mathbb{P}_Y(A) \forall A \subseteq \mathbb{R}$.  
+Crucial Fact: The cdf completely determines the distribution. Meaning, if $F_X(t)=F_Y(t)$, then $\mathbb{P}_X(A)=\mathbb{P}_Y(A) \forall A \subseteq \mathbb{R}$.  
 
 For example, suppose $F_X(2)=\frac{1}{3}$. What is $\mathbb{P}_X((2, \infty))$?  
 $F_X(2) = \mathbb{P}_X((-\infty, 2]) = 1 - \mathbb{P}_X((2, \infty))$  

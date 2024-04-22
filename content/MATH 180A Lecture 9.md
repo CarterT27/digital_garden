@@ -14,9 +14,9 @@ There are two important types of probability measure $\mathbb{R}$ that we will f
 > A probability measure $\mathbb{P}$ on $\mathbb{R}$ is **discrete** if there exists a finite or infinite sequence of numbers $a_1,a_2,\dots \in \mathbb{R}$ such that  
 > $$\sum_{i=1}^\infty \mathbb{P}(\{a_i\}) = 1, \text{ equivalently, } \mathbb{P}(\mathbb{R} \setminus \{a_1,a_2,\dots\}) = 0$$  
 > A random variable $X$ is **discrete** if its distribution $\mathbb{P}_X$ is discrete.  
-> In this case, we call the function $\mathbb{P}_X:\mathbb{R} \to \mathbb{R}$ defined by $\mathbb{P}_X(a) := \mathbb{P}(X=a)$ the **probability mass function of $X$ (pmf)**  
+> In this case, we call the function $P_X:\mathbb{R} \to \mathbb{R}$ defined by $P_X(a) := \mathbb{P}(X=a)$ the **probability mass function of $X$ (pmf)**  
 
-Crucial fact: pmf completely determines the distribution of a discrete random variable. Because $$\mathbb{P}_X(A) = \mathbb{P}(X \in A) = \sum_{a \in A} \mathbb{P}(X=a) = \sum_{a \in A} p_X(a)$$.  
+Crucial fact: pmf completely determines the distribution of a discrete random variable. Because $$P_X(A) = \mathbb{P}(X \in A) = \sum_{a \in A} \mathbb{P}(X=a) = \sum_{a \in A} p_X(a)$$.  
 
 > [!definition] Continuous, Probability Density Function (pdf)  
 > A probability measure $\mathbb{P}$ on $\mathbb{R}$ is **continuous** if there exists an **integrable** function $f:\mathbb{R} \to \mathbb{R}$ s.t.  
@@ -83,8 +83,8 @@ The formulas to go from the cdf to the pmf/pdf of a discrete/continuous random v
 **Examples.**  
 
 > [!question] Suppose $X$ has cdf given by $F_X(s) = \begin{cases} 0 & s<-\pi \\ \frac{1}{3} & -\pi \leq s < \sqrt{2} \\ 1 & \sqrt{2} \leq s \end{cases}$. Is $X$ discrete or continuous? If so, find its pmf/pdf.  
-> $\mathbb{P}_X(-\pi) = \frac{1}{3}-0 = \frac{1}{3}$  
-> $\mathbb{P}_X(\sqrt{2}) = 1 - \frac{1}{3} = \frac{2}{3}$  
+> $P_X(-\pi) = \frac{1}{3}-0 = \frac{1}{3}$  
+> $P_X(\sqrt{2}) = 1 - \frac{1}{3} = \frac{2}{3}$  
 
 > [!question] Suppose $X$ has cdf given by $F_X(s) = \begin{cases} 0 & s<0 \\ \sin{s} & 0 \leq s < \frac{\pi}{2} \\ 1 & \frac{\pi}{2}\leq s \end{cases}$. Is $X$ discrete or continuous? If so, find its pmf/pdf.  
 > $F_X$ is continuous + continuously piecewise differentiable $\implies$ $X$ is continuous and  
@@ -101,7 +101,7 @@ The formulas to go from the cdf to the pmf/pdf of a discrete/continuous random v
 > [!note] Fact  
 > A function $p: \mathbb{R}\to\mathbb{R}$ is the pmf of a discrete random variable if and only if there exists a finite or infinite sequence of numbers $a_1,a_2,\dots\in \mathbb{R}$ such that  
 > 1. $0\leq p(a)\leq 1$ for all $a\in \mathbb{R}$  
-> 2. \sum_{i=1}^\infty p(a_i) = 1$  
+> 2. $\sum_{i=1}^\infty p(a_i) = 1$  
 > 3. $p(b)=0$, $b\notin\{a_1,a_2,\dots\}$  
 
 > [!note] Fact  

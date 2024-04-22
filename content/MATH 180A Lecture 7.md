@@ -58,17 +58,18 @@ $I_j$'s are intervals
 **Examples.**  
 
 > [!question] Fair coin toss: $\Omega=\{H,T\}$. Define $X:\Omega\to\mathbb{R}$  
-$X(H)=\pi,X(T)=-\sqrt 2$  
-> [!question] Roll a fair die twice: $\Omega=\{1,2,3,4,5,6\}^2$. Define $S:\Omega\to\mathbb{R}$  
-$S((i,j))=i+j$ is the sum of the 2 rolls  
+> $X(H)=\pi,X(T)=-\sqrt 2$  
 
-> [!question] Chooes a point uniformly on unit disk $\Omega=\{(x,y)\in\mathbb{R}^2:x^2+y^2+2\}$. Define $x:\Omega\to R$ by  
-$X((x,y))=\sqrt {x^2 + y^2}$ distance to center of when dart hits.  
+> [!question] Roll a fair die twice: $\Omega=\{1,2,3,4,5,6\}^2$. Define $S:\Omega\to\mathbb{R}$  
+> $S((i,j))=i+j$ is the sum of the 2 rolls  
+
+> [!question] Chooes a point uniformly on unit disk $\Omega=\{(x,y)\in\mathbb{R}^2:x^2+y^2+2\}$. Define $x:\Omega\to R$  
+> $X((x,y))=\sqrt {x^2 + y^2}$ distance to center of when dart hits.  
 
 ### Distributions  
 
 > [!definition] Probability Distribution  
-> Let $\Omega,\mathcal{F},\mathbb{P})$ be a probability space $X:\Omega - R$ a random variable. The **probability distribution** of $X$ is the porobability measure on $\mathbb{R}$  
+> Let $\Omega,\mathcal{F},\mathbb{P})$ be a probability space $X:\Omega - R$ a random variable. The **probability distribution** of $X$ is the probability measure on $\mathbb{R}$  
 $\mathbb{P}_x(A):=\mathbb{P}(x\in A) = \mathbb{P}(\{w\in\omega:X(\omega)\in A\})$ for all $A\subseteq \mathbb{R}$.  
 
 **Examples.**  

@@ -22,7 +22,7 @@ Source: https://canvas.ucsd.edu/courses/55106/pages/lecture-notes-and-videos
 There are 6 numbered balls in an urn. 3 are removed w/o replacement and lined up in order.  
 
 > [!question] Calculate the probability that the 1st tow numbers removed are (3,6) (in that order).  
-> $=\frac{\#\text{"1st 2 removed are (3,6"}}{\#\Omega}$  
+> $=\frac{\#\text{"1st 2 removed are (3,6)"}}{\#\Omega}$  
 > $=\frac{\#\{(3,6,b_3):b_3\in\{1,2,4,5\}\}}{\#\Omega}=\frac{4}{(6)_3}=\frac{4}{6\cdot5\cdot4}=\frac{1}{30}$  
 
 > [!question] Suppose 5 balls are removed instead of 3. Now what is the probability that the 1st two numbers removed are (3,6)?  

@@ -64,6 +64,7 @@ $\mathbb{P}(B\vert A)=\frac{\mathbb{P}(B\cap A)}{\mathbb{P}(A)}=\mathbb{P}(B)$
 
 > [!question] If the sampling is done w/ replacement, are $A,B$ independent?  
 > $\mathbb{P}(B\vert A)=\frac{7}{11}=\mathbb{P}(B)$  
+> $\implies$ independent  
 
 > [!question] If the sampling is done w/o replacement, are $A,B$ independent?  
 > $\mathbb{P}(B\vert A)=\frac{7}{10}$  
