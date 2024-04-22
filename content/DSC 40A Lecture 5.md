@@ -28,7 +28,7 @@ date:
 $$r=\frac{1}{n} \sum_{i=1}^n \left( \frac{x_i - \bar{x}}{\sigma_x} \right) \left( \frac{y_i - \bar{y}}{\sigma_y} \right)$$  
 
 > [!question] Why multiply the product of SUs?  
-> Top right $x_{i(su)}$ positive and $y_{i(su)}* positive  
+> Top right $x_{i(su)}$ positive and $y_{i(su)}$ positive  
 > Bottom Left $x_{i(su)}$ negative and $y_{i(su)}$ negative  
 
 ### Another way to express $w_1^*$  
