@@ -96,7 +96,8 @@ The formulas to go from the cdf to the pmf/pdf of a discrete/continuous random v
 > A function $F:\mathbb{R}\to\mathbb{R}$ is the cdf of a random variable if and only if  
 > 1. $\lim\limits_{t\to\infty} F(t) = 1$ and $\lim\limits_{t\to-\infty} F(t) = 0$  
 > 2. Nondecreasing meaning $t\geq s \implies F(t) \geq F(s)$  
-> 3. Right-continuous $\lim\limits_{t\to a^+} F(t) = F(a)$ comes from $F_X(t) = \mathbb{P}(X\leq t)$ right-continuous, $\mathbb{P}(X < t)$ left -continuous  
+> 3. Right-continuous $\lim\limits_{t\to a^+} F(t) = F(a)$ comes from $F_X(t) = \mathbb{P}(X\leq t)$ right-continuous
+>    not left-continuous  
 
 > [!note] Fact  
 > A function $p: \mathbb{R}\to\mathbb{R}$ is the pmf of a discrete random variable if and only if there exists a finite or infinite sequence of numbers $a_1,a_2,\dots\in \mathbb{R}$ such that  
