@@ -77,7 +77,7 @@ The formulas to go from the pmf/pdf of a discrete/continuous random variable to 
 The formulas to go from the cdf to the pmf/pdf of a discrete/continuous random variable are slightly more involved.  
 
 **Fact:** Let $X$ be a random variable and $F_X$ its cdf.  
-- If $F_X$ is **piecewise constant**, then $X$ is **discrete** and its pmf is found by claculating the magnitude of the jumps at the points on discontinuity.  
+- If $F_X$ is **piecewise constant**, then $X$ is **discrete** and its pmf is found by calculating the magnitude of the jumps at the points on discontinuity.  
 - If $F_X$ is **continuous and piecewise continuously differentiable**, then $X$ is **continuous** and its pdf is given by $f_X(t)=F_X'(t)$.  
 
 **Examples.**  
