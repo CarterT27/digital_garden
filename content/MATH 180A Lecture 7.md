@@ -69,7 +69,7 @@ $I_j$'s are intervals
 ### Distributions  
 
 > [!definition] Probability Distribution  
-> Let $\Omega,\mathcal{F},\mathbb{P})$ be a probability space $X:\Omega - R$ a random variable. The **probability distribution** of $X$ is the probability measure on $\mathbb{R}$  
+> Let $\Omega,\mathcal{F},\mathbb{P})$ be a probability space $X:\Omega \to R$ a random variable. The **probability distribution** of $X$ is the probability measure on $\mathbb{R}$  
 $\mathbb{P}_x(A):=\mathbb{P}(x\in A) = \mathbb{P}(\{w\in\omega:X(\omega)\in A\})$ for all $A\subseteq \mathbb{R}$.  
 
 **Examples.**  
