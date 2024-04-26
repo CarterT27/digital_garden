@@ -103,9 +103,7 @@ $$\vec{x}^{(2)}\cdot(\vec{y}-w_{1}\vec{x}^{(1)}-w_{2}\vec{x}^{(2)})=0$$
 
 - An $n \times d$ **matrix** is a table of numbers with $n$ rows and $d$ columns.  
 - We use upper-case letters to denote matrices.  
-$$A=\begin{bmatrix}  
-2&5&8\\-1&5&-3  
-\end{bmatrix}_{2\times 3}$$  
+$$A=\begin{bmatrix}2&5&8\\-1&5&-3\end{bmatrix}_{2\times 3}$$  
 - Since $A$ has two rows and three columns, we say $A\in\mathbb{R}^{2\times 3}$.  
 - **Key idea**: Think of a matrix as **several column vectors, stacked next to each other**.  
 
