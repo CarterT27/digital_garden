@@ -112,7 +112,6 @@ Let's define a few new terms:
 - The **hypothesis vector** is the vector $\color{purple} \vec{h} \in \mathbb{R}^n$ with components $\color{purple}H(x_i)$. This is the vector of predicted values.  
 - The **error vector** is the vector $\color{red} \vec{e} \in \mathbb{R}^n$ with components:  
 $${\color{red} e_i} = {\color{orange} y_i} - {\color{purple}H(x_i)}$$  
-
 ### Example  
 
 Consider $\color{purple}H(x) = 2 + \frac{1}{2}x$.  
@@ -139,7 +138,6 @@ $$R_\text{sq}({\color{purple}H}) = \frac{1}{n} \sum_{i = 1}^n \left( {\color{ora
 - The **hypothesis vector** is the vector $\color{purple} \vec{h} \in \mathbb{R}^n$ with components $\color{purple}H(x_i)$. This is the vector of predicted values.  
 - For the linear hypothesis function $\color{purple} H(x) = w_0 + w_1x$, the hypothesis vector can be written:  
 $${\color{purple} \vec h} = \begin{bmatrix} {\color{purple} w_0 + w_1 x_1} \\ {\color{purple} w_0 + w_1 x_2} \\ \vdots \\ {\color{purple} w_0 + w_1 x_n} \end{bmatrix} = \begin{bmatrix}1&x_{1}\\1&x_{2}\\\vdots&\vdots\\1&x_{n}\end{bmatrix}\begin{bmatrix}w_{0}\\w_{1}\end{bmatrix}\:\:\:\:\:\:\:\:\&\:\:\:\:\:\:\:\:\:\:\:$$  
-
 ### Rewriting the mean squared error  
 
 - Define the **design matrix** $\color{#007aff} X \in \mathbb{R}^{n \times 2}$ as:  
@@ -147,7 +145,6 @@ $${\color{#007aff} X} = \begin{bmatrix} {\color{#007aff} 1} & {\color{#007aff} x
 - Define the **parameter vector** $\vec{w} \in \mathbb{R}^2$ to be $\vec{w} = \begin{bmatrix} w_0 \\ w_1 \end{bmatrix}$.  
 - Then, ${\color{purple} \vec h} = {\color{#007aff} X} \vec{w}$, so the mean squared error becomes:  
 $$R_\text{sq}({\color{purple}H}) =  \frac{1}{n} \lVert {\color{orange} \vec y} - {\color{purple} \vec{h}} \rVert^2 \implies \boxed{R_\text{sq}(\vec{w}) = \frac{1}{n}  \lVert {\color{orange} \vec{y}} - {\color{#007aff} X}\vec{w} \rVert^2}$$  
-
 ### Minimizing mean squared error, again  
 
 - To find the optimal model parameters for simple linear regression, $w_0^*$ and $w_1^*$, we previously minimized:  
@@ -162,6 +159,7 @@ $$\boxed{R_\text{sq}(\vec{w}) = \frac{1}{n}  \lVert {\color{orange} \vec{y}} - {
 $$R_\text{sq}(\vec{w}) = \frac{1}{n}  \lVert {\color{orange} \vec{y}} - {\color{#007aff} X}\vec{w} \rVert^2$$  
 - Previously, we found that $\vec{w}^* = ({\color{#007aff}{X^TX}})^{-1} {\color{#007aff}{X^T}}\color{orange}\vec{y}$ minimizes the length of the error vector, $\lVert {\color{red} \vec{e}} \rVert = \lVert {\color{orange} \vec{y}} - {\color{#007aff} X}\vec{w} \rVert$  
 - $R_\text{sq}(\vec{w})$ is closely related to $\lVert {\color{red} \vec{e}} \rVert$:  
+$$R_{sq}(\vec{w})=\frac{1}{n}\Vert \vec{e}\Vert^2$$  
 - The minimizer of $\lVert {\color{red} \vec{e}} \rVert$ is the same as the minimizer of $R_\text{sq}(\vec{w})$!  
 - **Key idea**: $\vec{w}^* = ({\color{#007aff}{X^TX}})^{-1} {\color{#007aff}{X^T}}\color{orange}\vec{y}$ also **minimizes** $R_\text{sq}(\vec{w})$!  
 
@@ -240,7 +238,6 @@ w_0 \\
 w_1 \\  
 w_2  
 \end{bmatrix}  $$  
-
 ### Finding the optimal parameters  
 
 - To find the optimal parameter vector, $\vec{w}^*$, we can use the **design matrix** $\color{#007aff} X \in \mathbb{R}^{n \times 3}$ and **observation vector** $\color{orange} \vec y \in \mathbb{R}^n$:  
@@ -254,13 +251,9 @@ $${\color{#007aff} X = \begin{bmatrix}
 $${\color{#007aff} X^TX} \vec{w}^* = {\color{#007aff} X^T} {\color{orange} \vec y}$$  
 If ${\color{#007aff} X^TX}$ is invertible, we know the solution is:  
 $$\vec{w}^* = ({\color{#007aff}{X^TX}})^{-1} {\color{#007aff}{X^T}}\color{orange}\vec{y}$$  
-
 ### Roadmap  
 
 - To wrap up today's lecture, we'll find the optimal parameter vector $\vec{w}^*$ for our new two-feature model in code. We'll switch back to our notebook, [linked here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec08/lec08-code.ipynb).  
-
 - Next class, we'll present a more general framing of the multiple linear regression model, that uses $d$ features instead of just two.  
-
 - We'll also look at how we can **engineer** new features using existing features.  
-
 - e.g. How can we fit a hypothesis function of the form $H(x) = w_0 + w_1 x + w_2 x^2$?  
