@@ -189,7 +189,7 @@ $$=R_{abs}(h)=\frac{1}{n}\sum_{i=1}^n \vert y_i-Median(y_1,y_2,\dots,y_n)\vert$$
 ### Mean absolute deviation from the median  
 
 - The minimum value of $R_{abs}(h)$ is the **mean absolute deviation from the median.**  
-MAD from the median($y_1,y_2,\dots,y_n)=\frac{1}{n}\sum_{i=1}^n \vert y_i-Median(y_1,y_2,\dots,y_n)\vert$$  
+MAD from the median($y_1,y_2,\dots,y_n)=\frac{1}{n}\sum_{i=1}^n \vert y_i$-Median($y_1,y_2,\dots,y_n)\vert$  
 - It measures how far each data point is from the median, on average.  
 - **Example**: What is the MAD from the median in the dataset 2,3,3,4,5?  
 $1+0+0+1=\frac{4}{5}$  
