@@ -122,6 +122,7 @@ ${\color{orange}\vec{y}} = \:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\
 ${\color{red}\vec{e}} = {\color{orange} \vec y} - {\color{purple} \vec h} =$  
 
 $\displaystyle \begin{align*}R_\text{sq}({\color{purple}H}) &= \frac{1}{n} \sum_{i = 1}^n \left( {\color{orange} y_i} - {\color{purple}H(x_i)} \right)^2 \\ &=\end{align*}$  
+Note: $R_{sq}(H)=\frac{1}{n}\Vert \vec{e}\Vert^2$  
 
 ### Regression and linear algebra  
 
@@ -137,7 +138,7 @@ $$R_\text{sq}({\color{purple}H}) = \frac{1}{n} \sum_{i = 1}^n \left( {\color{ora
 
 - The **hypothesis vector** is the vector $\color{purple} \vec{h} \in \mathbb{R}^n$ with components $\color{purple}H(x_i)$. This is the vector of predicted values.  
 - For the linear hypothesis function $\color{purple} H(x) = w_0 + w_1x$, the hypothesis vector can be written:  
-$${\color{purple} \vec h} = \begin{bmatrix} {\color{purple} w_0 + w_1 x_1} \\ {\color{purple} w_0 + w_1 x_2} \\ \vdots \\ {\color{purple} w_0 + w_1 x_n} \end{bmatrix} = \:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$$  
+$${\color{purple} \vec h} = \begin{bmatrix} {\color{purple} w_0 + w_1 x_1} \\ {\color{purple} w_0 + w_1 x_2} \\ \vdots \\ {\color{purple} w_0 + w_1 x_n} \end{bmatrix} = \begin{bmatrix}1&x_{1}\\1&x_{2}\\\vdots&\vdots\\1&x_{n}\end{bmatrix}\begin{bmatrix}w_{0}\\w_{1}\end{bmatrix}\:\:\:\:\:\:\:\:\&\:\:\:\:\:\:\:\:\:\:\:$$  
 
 ### Rewriting the mean squared error  
 
