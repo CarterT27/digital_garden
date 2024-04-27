@@ -26,7 +26,7 @@ where $w\in\mathbb{R}$ is a scalar.
 - Let $\vec{e} = \vec{y} - w\vec{x}$ be the **projection error**: that is, the vector that connects $\vec{y}$ to $\text{span}(\vec{x})$.  
 - **Goal: Find the $w$ that makes $\vec{e}$ as short as possible.**  
 - That is, minimize: $$\Vert \vec{e} \Vert$$  
-- Equivalently, minimize: $$\Vert \vec{y}-w\vec{x}$$  
+- Equivalently, minimize: $$\Vert \vec{y}-w\vec{x}\Vert$$  
 - **Idea**: To make $\vec{e}$ as short as possible, it should be **orthogonal to** $w\vec{x}$.  
 
 ### Minimizing projection error  
