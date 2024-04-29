@@ -1,6 +1,6 @@
 {
   "defaultViewMode": "preview",
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
   "vimMode": true
