@@ -6,6 +6,8 @@ tags:
 date:
 - 2024-04-30
 ---
+Source: https://dsc40a.com/resources/lectures/lec09/lec09-filled.pdf  
+
 # Multiple Linear Regression  
 
 ## Multiple linear regression  
