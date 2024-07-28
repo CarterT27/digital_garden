@@ -1,5 +1,4 @@
 > [!note] [Obsidian](https://obsidian.md/) for organizing my collection of Markdown files  
-
 > [!note] [Quartz](https://github.com/jackyzha0/quartz) to host my notes for free online  
 
 > [!note] [TickTick](https://ticktick.com/webapp/) to organize my todo list  

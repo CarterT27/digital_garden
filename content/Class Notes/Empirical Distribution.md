@@ -13,7 +13,7 @@ tags:
 > Unlike probability distributions, empirical distributions represent what actually happened in practice.  
 
 > [!example] Empirical distribution of a die roll  
-> ![[images/EmpiricalDistDieRoll.jpg]]  
+> ![[EmpiricalDistDieRoll.jpg]]  
 > As the number of die rolls increases, this distribution starts to look more like a uniform distribution due to the [[Law of Large Numbers]].  
 
 ---  

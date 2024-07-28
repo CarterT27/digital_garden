@@ -13,7 +13,7 @@ tags:
 
 > [!example] Probability distribution of a die roll  
 > The distribution is **uniform**, meaning that each outcome has the same chance of occurring.  
-> ![[images/ProbabilityDistDieRoll.jpg]]  
+> ![[ProbabilityDistDieRoll.jpg]]  
 
 ---  
 
