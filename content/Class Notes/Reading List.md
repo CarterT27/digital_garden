@@ -1,7 +1,3 @@
-# Philosophy  
-
-- Siddhartha: A Novel (Hesse, Hermann)  
-
 # Quantitative Finance  
 
 - Systematic Trading - Robert Carver  

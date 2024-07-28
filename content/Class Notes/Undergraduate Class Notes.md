@@ -1,6 +1,7 @@
-Please note that these notes may contain mistakes and typos. If you find any (not the incomplete, unplanned ones), please let me know!  
+Here are my class notes (or at least most of them). Please note that these notes may contain mistakes and typos. If you find any, please let me know!  
 
 Past classes:  
+#Class/MATH_180A
 #Class/MATH_20C  
 #Class/MATH_20D  
 #Class/DSC_20  
