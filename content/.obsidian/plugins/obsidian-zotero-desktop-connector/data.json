@@ -7,13 +7,14 @@
   "citeFormats": [],
   "exportFormats": [
     {
-      "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
+      "name": "Default",
+      "outputPathTemplate": "zettelkasten/literature notes/{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "templates/Zotero Import.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
+  "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note"
 }

@@ -3,5 +3,7 @@
   "livePreview": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "vimMode": true
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox"
 }
