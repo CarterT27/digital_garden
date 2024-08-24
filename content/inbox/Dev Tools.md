@@ -24,6 +24,7 @@ neovim
 tmux
 aerospace
 alfred
+firefox
 
 # Nice to Have
 
@@ -33,12 +34,18 @@ conda
 pipx
 lulu
 al dente
+mullvad browser
 
 # Productivity
 
 obsidian
 ticktick
 stretchly
+Zotero
+Command X
+Loom
+transnomino
+zoom
 
 # Appearance
 
