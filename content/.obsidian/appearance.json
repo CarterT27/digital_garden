@@ -1,5 +1,6 @@
 {
-  "accentColor": "",
+  "accentColor": "#5cabd6",
   "cssTheme": "Minimal",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": []
 }
