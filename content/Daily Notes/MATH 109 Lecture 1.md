@@ -97,3 +97,18 @@ Truth Table - deducing the truth value of complicated mathematical statements us
 > [!remark] Suppose $P\lor Q$ is true
 > Some people might think that exactly one of $P,Q$ is true.
 > However, it just means they are not both false.
+
+## Summary
+
+What is a mathematical statement?
+Can build complicated statements using logical connectives.
+Properties of logical statements are given by truth tables.
+Truth values of complicated statements can be determined if we know the truth values of the atomic statements.
+
+> [!example] $(\neg P) \lor Q$
+> | $P$ | $Q$ | $(\neg P) \lor Q$ |
+> | --- | --- | --- |
+> | T | T | T |
+> | T | F | F |
+> | F | T | T |
+> | F | F | T |
