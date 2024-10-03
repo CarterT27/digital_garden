@@ -2,5 +2,6 @@
   "accentColor": "#5cabd6",
   "cssTheme": "Minimal",
   "translucency": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "theme": "system"
 }
