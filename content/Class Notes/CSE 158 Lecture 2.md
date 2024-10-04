@@ -35,3 +35,4 @@ $$\text{Rating}=\theta x$$
 
 The **linear** models we've seen so far do not support transformations (they need to be linear in their parameters)
 There *are* alternative models that support non-linear transformations of parameters, e.g. neural networks
+

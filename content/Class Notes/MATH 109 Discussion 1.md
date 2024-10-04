@@ -49,7 +49,7 @@ date:
 > 2. $(-a)b=-ab=a(-b)$
 > 3. $(-a)(-b)=ab$
 
-> [!answer]
+> [!answer]-
 > **Problem 1.** $a\times 0 = 0 = 0\times a$
 > 
 > $a\times (1+0) = a\times 1= a$
