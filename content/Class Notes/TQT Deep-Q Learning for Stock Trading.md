@@ -82,3 +82,17 @@ Experience replay allows us to store pass experiences and sample during training
 - Makes data IID
 
 Target Network: Copy weights to increase stability
+
+# Past ML Presentation
+
+Decision tree ensembling
+
+Drawing hyperplanes to separate the datapoints into clusters
+
+Making decisions based on minimizing entropy - a measure of disorder or uncertainty
+
+$$E(S) = \sum_{i=1}^c -p_i \log_2{p_i}$$
+
+Random forest - using multiple weak classifiers to produce better predictive performance
+
+https://github.com/RitvikKapila/TQT_ML_Workshop/blob/main/Chapter_12/Chapter_12_course.ipynb
