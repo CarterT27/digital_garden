@@ -17,6 +17,7 @@ const config: QuartzConfig = {
     baseUrl: "quartz.",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
